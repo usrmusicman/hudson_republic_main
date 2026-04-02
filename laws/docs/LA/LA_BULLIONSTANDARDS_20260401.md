@@ -101,6 +101,10 @@ All institutional bars maintain a consistent square cross-section per metal, ena
 | Copper | 10 oz    | 311.03 g   | 312.60 g   | 41.8 mm × 41.8 mm  | 20.0 mm   |
 | Copper | 100 oz   | 3,110.35 g | 3,126.00 g | 41.8 mm × 41.8 mm  | 200.0 mm  |
 
+Institutional Bars Render
+
+![Hudson Republic Banner](../../images/LA/LA_BULLIONSTANDARDS_20260401/BULLIONBEAVERS_FOUNDERS_EDITION_BARS_2026.jpg)
+
 ---
 
 ## Section 7 — Internal Tracking and Identification
@@ -141,4 +145,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: LA_BULLIONSTANDARDS_20260401  
-**Revision**: 00000001
+**Revision**: 00000002
