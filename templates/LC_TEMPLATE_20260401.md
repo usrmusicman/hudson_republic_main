@@ -1,0 +1,82 @@
+# Legislative Challenge Name
+
+---
+
+## Definitions
+List any ambiguous terms with definitions here.
+
+---
+
+## Preamble
+This is a short summary of what is in the legislative instrument.
+
+---
+
+## Challenges
+This includes the legislative instrument(s) marked for the challenge.
+
+### Legislation On Trial: [FQLN]
+This is the legislation that is being challenged and why.
+
+**Case Information**
+* Act Name: FQLN
+* Justice's name who originated the challenge
+* Date of LC's drafting
+* Type of challenge [amend|remove]
+* Details of the case
+	- Item 1
+		+ Explanation 1
+		+ Explanation 2
+		+ etc...
+	- Item 2
+		+ Explanation 1
+		+ Explanation 2
+		+ etc...
+	- etc...
+* Final summary for the Senate's deliberation
+
+### Legislation On Trial: [FQLN] [Optional]
+This is the legislation that is being challenged and why.  
+[This is only needed if challenging multiple pieces of legislation due to dependency resolution issues]
+
+**Case Information**
+* Act Name: FQLN
+* Justice's name who originated the challenge
+* Date of LC's drafting
+* Type of challenge [amend|remove]
+* Details of the case
+	- Item 1
+		+ Explanation 1
+		+ Explanation 2
+		+ etc...
+	- Item 2
+		+ Explanation 1
+		+ Explanation 2
+		+ etc...
+	- etc...
+* Final summary for the Senate's deliberation
+
+---
+
+## Affected Dependencies
+List any other dependencies (in alphabetical order) that may need to be challenged alongside this one.  
+If more than one is listed then it will need to be determined if it needs to be amended or removed.  
+All legislative instruments are accepted as dependencies.
+
+Dependencies
+* CA_EXAMPLE4_20260401|[amend|remove]
+* LA_EXAMPLE1_20260401|[amend|remove]
+* LB_EXAMPLE2_20260401|[amend|remove]
+
+---
+
+**Original Author**:
+
+**House Signature**: 
+
+**Senate Signature**: 
+
+**Executive Office Signature**: 
+
+**FQLN**: LC_[NAME]_[YYYYMMDD]  
+**Revision**: [REVISION_IN_8_HEXADECIMAL_DIGITS]
