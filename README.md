@@ -17,6 +17,8 @@ The Hudson Republic is a complete, ready-to-fork constitutional framework design
 
 It establishes a compact, defensible sovereign republic covering the connected core territories of Ontario, Québec, Manitoba, and Labrador — deliberately limited to **72–84 equal-area Ridings** (approximately 37,000–45,000 km² each) for maximum governability and minimum vulnerability.
 
+* **The capital is St. Thomas** — the historic railway city in once was called Ontario. The spirit of the Republic lives where the rails meet the land: industrious, connected, and forward-looking. St. Thomas is alive and building the great Beaver Nation.
+
 This is not protest theatre or romantic nationalism. It is a professionally engineered, modular, machine-parseable nation-state built on sound money, individual sovereignty, transparent governance, and true local stewardship.
 
 ## Core Principles That Matter
