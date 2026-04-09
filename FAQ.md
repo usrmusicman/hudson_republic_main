@@ -100,6 +100,33 @@ Institutional bars are minted to 99.5% purity to meet or exceed international co
 ### What additional benefits arise from these specific purity levels?
 The purity differential creates built-in economic incentives. When 20 units of 95% purity circulating bullion (coins/rounds) are held in an account fully backed by 99.5% purity institutional bars of equivalent weight, the financial institution may issue the 21st unit of 95% purity bullion as interest — effectively providing a 4.5%+ yield embedded in the metal hierarchy. Institutions can also sell their 99.5% bars to specialized dealers for a premium and potentially receive an additional 95% purity unit, creating natural liquidity and savings mechanisms without relying on fiat interest rates.
 
+### What is a "Bring Your Own Bullion (BYOB)" program?
+
+The **Bring Your Own Bullion (BYOB)** program allows any individual or institution to use their own physical bullion as legal tender in the Hudson Republic, provided it meets the minimum verifiable standards of purity, weight, and physical integrity. This program is a core feature of the Republic’s monetary system and enables immediate, decentralized circulation of honest money without relying on centrally issued currency.
+
+#### Key Features
+- **No central bank required**: Any qualifying bullion — regardless of mint, origin, markings, or serial number — can be used directly as legal tender.
+- **Verification-based acceptance**: Legal tender status depends solely on objective, measurable properties confirmed by XRF (X-ray fluorescence) or superior non-destructive assay technology.
+- **Two-tier standards** for seamless commercial and institutional use:
+
+| Category                  | Minimum Purity | Acceptable Forms                  | Typical Use Case                  |
+|---------------------------|----------------|-----------------------------------|-----------------------------------|
+| **Commercial (everyday)** | 95%            | Coins or rounds (1/8 to 1 oz)    | Merchants, daily transactions     |
+| **Institutional**         | 99.5%          | Bars (1/8 oz and above)          | Banks, trusts, reserves, savings  |
+
+#### How BYOB Works
+- **Purity rule**: Bullion that exceeds the minimum purity (e.g., 99.9% gold rounds) is still accepted at the minimum viable level for normal transactions. No premium or discount is applied in ordinary commerce.
+- **Optional premium redemption**: Holders may choose to redeem higher-purity bullion for a premium at specialized dealers at the dealer’s discretion.
+- **Integrity requirements**: The piece must be a single contiguous item, free of dents, clipping, shaving, plating, or any tampering that could misrepresent weight or purity.
+- **Verification**: All significant transactions and institutional holdings require XRF or equivalent assay records, which are subject to audit.
+
+#### Unique Advantages
+- Solves the classic liquidity problem of new bullion-based economies by allowing citizens to immediately use existing private bullion holdings and stock from coin shops or dealers.
+- Enables instant bootstrapping of a fully bullion-backed economy without waiting for new minting.
+- No republic in history has implemented a verification-driven, open-source legal tender system of this kind — made possible only by modern, affordable XRF technology.
+
+For the complete legal definition and technical standards, see **CA_LEGALTENDER_20260401.md**.
+
 ### Where did the name “Bullion Beaver” originate?
 The name “Bullion Beaver” is derived from the historic “Made Beaver,” the original unit of account used across North America from the 17th to the 19th centuries. Unlike the Made Beaver, which was tied to the fur trade and the British Crown and could rot or lose value, Bullion Beaver currency is durable, universal, and carries no counterparty risk. Precious metals have served as monetary instruments throughout human history and have outlasted countless empires.
 
