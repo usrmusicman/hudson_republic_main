@@ -43,17 +43,31 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 
 .  
 ├── culture/                  # National anthem, salute, shield  
-├── FAQ.md                    # Plain-language answers (start here)  
-├── forms/                    # Administrative templates  
 ├── laws/                     # All binding legislation  
-│   ├── docs/  
+│   ├── docs/                 # Legislative Instruments  
 │   │   ├── CA/               # Constitutional Articles  
-│   │   ├── CO/               # Criminal Codes  
+│   │   ├── CO/               # Legislative Codes  
+│   │   ├── EA/               # Emergency Articles  
+│   │   ├── EB/               # Emergency Budgets  
+│   │   ├── FO/               # Administrative Templates  
 │   │   ├── LA/               # Legislative Articles  
+│   │   ├── LB/               # Legislative Budgets  
+│   │   ├── OP/               # Obligation Papers  
 │   │   └── SCH/              # Schedules  
-│   └── images/               # Visual assets (coins, passports, etc.)  
+│   ├── images/               # Visual assets associated with legislative instruments found in the docs folder (coins, passports, etc.)  
+│   │   ├── CA/               # Constitutional Articles  
+│   │   ├── CO/               # Legislative Codes  
+│   │   ├── EA/               # Emergency Articles  
+│   │   ├── EB/               # Emergency Budgets  
+│   │   ├── FO/               # Administrative Templates  
+│   │   ├── LA/               # Legislative Articles  
+│   │   ├── LB/               # Legislative Budgets  
+│   │   ├── OP/               # Obligation Papers  
+│   │   └── SCH/              # Schedules  
+│   └── etc...
 ├── ridings/                  # Riding-level examples (coming soon)  
 ├── templates/                # Official document templates  
+├── FAQ.md                    # Plain-language answers (start here)  
 └── README.md                 # This file
 
 **Quick Start Links**
