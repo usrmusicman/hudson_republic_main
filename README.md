@@ -61,7 +61,7 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 - [Constitutional Articles](./laws/docs/CA/)
 - [Bullion Standards & Beaver Ledger](./laws/docs/LA/LA_BULLIONSTANDARDS_20260401.md)
 - [Legislative Framework](./laws/docs/CA/CA_LEGISLATIVEFRAMEWORK_20260401.md)
-- [Dependency Tree](./laws/images/CA/CA_NAMINGCONVENTION_20260401/HUDSON_DEPENDENCYTREE_20260401.jpg)
+- [Dependency Tree](./laws/images/CA/CA_NAMINGCONVENTION_20260401/HUDSON_DEPENDENCYTREE.png)
 - [Founders Edition Beaver Coins](./laws/images/LA/LA_BULLIONSTANDARDS_20260401/BULLIONBEAVERS_FOUNDERS_EDITION_2026.png)
 
 ## Status
