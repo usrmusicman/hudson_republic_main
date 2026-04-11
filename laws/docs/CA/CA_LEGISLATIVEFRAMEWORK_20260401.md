@@ -1,7 +1,5 @@
 # Legislative Framework Act
 
----
-
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -13,8 +11,6 @@ All Senate decisions are rendered as **passed** or **failed**.
 - **Senate Mediator**: The neutral procedural officer of the Senate.  
 - **Volunteer Justice (LC)**: A single sitting Supreme Court Justice who volunteers to submit Legislative Challenges.
 
----
-
 ## Preamble
 The Hudson Republic is founded on the principle that sovereignty resides ultimately with the individual, not the state. Government exists only as a limited fiduciary agent, strictly bound by immutable individual rights and transparent, adversarial legislative processes designed to prevent capture, overreach, or tyranny. 
 
@@ -22,12 +18,10 @@ The federal government of the Hudson Republic shall concern itself solely with m
 
 This framework establishes three co-equal branches—the **House of Constituents** (prosecutorial originator), the **Senate** (constitutional jury), and the **Executive Office** (custodial enforcer)—each with defined roles, high evidentiary thresholds, personal accountability, and emergency safeguards to ensure fidelity to the Constitution and the protection of liberty. All legislative instruments shall follow the classification, naming, and procedural requirements set out in the **Legislative Document Classification and Naming Convention Act**.
 
----
-
 ## Section 1 — House of Constituents
 
 ### Mandate and Role as Legislative Prosecutor
-**1.1** The House of Constituents (HoC) is the sole chamber for the origination of all primary peacetime legislation (LA, LB, OP, CO, and SCH in peacetime).
+**1.1** The House of Constituents (HoC) is the sole chamber for the origination of all primary peacetime legislation (LA, LB, OP, CO, and SCH in peacetime). Constitutional Articles (CA) must also originate in the HoC.
 
 ### Legislative Procedure
 **1.2 Readings by Instrument Type** (as defined in the Naming Convention Act):  
@@ -35,9 +29,10 @@ This framework establishes three co-equal branches—the **House of Constituents
 - **LB (Legislative Budget)**: Two separate readings in distinct sessions.  
 - **OP (Obligation Paper)**: One reading.  
 - **CO (Legal Code)**: One reading.  
-- **SCH (Schedule)**: One reading (peacetime).  
+- **SCH (Schedule)**: See Section 6.2 of CA_NAMINGCONVENTION_20260401 for detailed rules.  
+- **CA (Constitutional Article)**: Three separate readings with unanimous approval (100%) in the HoC.
 
-**1.3 House Clear Majority**: Requires a **sixty percent (60%) majority** of the active voting pool to pass each reading.  
+**1.3 House Clear Majority**: Requires a sixty percent (60%) majority of the active voting pool to pass each reading, except for Constitutional Articles which require unanimous approval (100%).  
 **1.4 Status**: Bills remain "plastic" (amendable) in the HoC; they become "frozen" only upon transmission to the Senate.  
 **1.5 Terminal Rejection**: If a bill fails the final Transmission Vote, it is immediately purged. No re-votes are permitted on that specific text.
 
@@ -46,21 +41,18 @@ This framework establishes three co-equal branches—the **House of Constituents
 - Elected by a sixty percent (60%) vote of all sitting Riding Representatives, ninety (90) days after each general election.  
 - Must meet the same general eligibility criteria as all other elected officials (see CA_ELECTEDOFFICIALSINTEGRITY_20260401).  
 - At every reading and at the final rendering stage, the HoC Mediator’s sole duty is to receive the legislation exactly as passed and transmit it, unchanged, to the next stage or to the Senate.  
-- The HoC Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason under CO_TREASON_20260401.  
-**For a plain-language explanation of the roles of the HoC, Senate, Executive Office, and Supreme Court, see the “Individual Rights, Separation of Powers, and Politics” section of the Bullion and Monetary System FAQ.**
+- The HoC Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason under CO_TREASON_20260401.
 
 ### Administrative Integrity
 **1.7** The House is legally barred from recognizing legislative actions performed by unelected personnel.  
 **1.8 Transparency**: All staff expenditures and office budgets must be itemized for public record and Senate audit.
-
----
 
 ## Section 2 — Senate
 
 ### Mandate and Role as High Jury
 **2.1** The Senate is the **High Review Chamber** and constitutional jury.  
 **2.2 Standard Legislation**: Tried on the "balance of probabilities" (civil standard) regarding constitutional soundness.  
-**2.3 Constitutional Amendments (CA)**: Require **three separate readings** with a **unanimous verdict (12/12)** on each reading.
+**2.3 Constitutional Amendments (CA)**: Constitutional Articles require three separate readings in the Senate with a unanimous verdict (12/12) at each stage. Once transmitted from the HoC, legislation is considered "frozen" and enters the Senate "on trial". Each Senate reading functions as a constitutional appeal applied to the legislation itself.
 
 ### Legislative Procedure (The Trial)
 **2.4 Readings by Instrument Type** (as defined in the Naming Convention Act):  
@@ -68,12 +60,14 @@ This framework establishes three co-equal branches—the **House of Constituents
 - **LB (Legislative Budget)**: Two separate readings.  
 - **OP (Obligation Paper)**: One reading.  
 - **CO (Legal Code)**: One reading.  
-- **SCH (Schedule)**: One reading (peacetime) or Senate-only (emergency).  
+- **SCH (Schedule)**: See Section 6.2 of CA_NAMINGCONVENTION_20260401 for detailed rules.  
 - **LC (Legislative Challenge)**: Senate applies the threshold required by the challenged instrument.  
 - **EL / EB (Emergency Legislation / Emergency Budget)**: Originated and adjudicated exclusively by the Senate. Requires **one reading**.  
+- **CA (Constitutional Article)**: Three separate readings with a unanimous verdict (12/12) at each stage.
 
-**2.5 Senate Clear Verdict**: Requires at least **seven (7) out of twelve (12)** seated senators for ordinary legislation.  
-**2.6 Amendments**: The Senate may only amend frozen legislation by **unanimous verdict (12/12)**. If unanimity fails, the bill must be voted on exactly as received.  
+**2.5 Senate Clear Verdict**: Requires at least seven (7) out of twelve (12) seated senators for ordinary legislation. Constitutional Articles require unanimous verdict (12/12).
+
+**2.6 Amendments**: The Senate may only amend frozen legislation by unanimous verdict (12/12). If unanimity fails, the bill must be voted on exactly as received.
 
 ### Senate Mediator
 **2.7** The Senate Mediator is the neutral procedural officer of the Senate.  
@@ -89,8 +83,6 @@ This framework establishes three co-equal branches—the **House of Constituents
 - Personally and financially liable for rights violations.  
 - Criminal penalties include life imprisonment, served sequentially.  
 **2.11 War**: Requires **monthly** unanimous validation (12/12).
-
----
 
 ## Section 3 — Executive Office
 
@@ -113,15 +105,11 @@ This framework establishes three co-equal branches—the **House of Constituents
 **3.10** Upon a vacancy, the Senate appoints an **Interim Custodial Senator**.  
 **3.11** The Custodian is barred from seeking the NR position, enacting peacetime law, or declaring new emergencies.
 
----
-
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
 * CA_NAMINGCONVENTION_20260401  
 * CA_THEINDIVIDUAL_20260401  
 * CA_ELECTEDOFFICIALSINTEGRITY_20260401  
-
----
 
 **Original Author**: 
 
@@ -132,4 +120,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_LEGISLATIVEFRAMEWORK_20260401  
-**Revision**: 00000001
+**Revision**: 00000002
