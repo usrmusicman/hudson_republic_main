@@ -78,9 +78,9 @@ List any legislative instruments (in alphabetical order) that this one depends o
 Only **Constitutional Articles (CA)**, **Legislative Budgets** and **Obligation Papers (OP)** can be listed here.
 
 Dependencies
-* CA_EXAMPLE4_20260401
-* LB_EXAMPLE1_20260401
-* LB_EXAMPLE2_20260401
+* **[CA_EXAMPLE4_20260401](/path/to/legislative/instrument/CA_EXAMPLE4_20260401)**
+* **[LB_EXAMPLE1_20260401](/path/to/legislative/instrument/LB_EXAMPLE1_20260401)**
+* **[LB_EXAMPLE2_20260401](/path/to/legislative/instrument/LB_EXAMPLE2_20260401)**
 
 ---
 

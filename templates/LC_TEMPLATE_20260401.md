@@ -64,9 +64,9 @@ If more than one is listed then it will need to be determined if it needs to be 
 All legislative instruments are accepted as dependencies.
 
 Dependencies
-* CA_EXAMPLE4_20260401|[amend|remove]
-* LA_EXAMPLE1_20260401|[amend|remove]
-* LB_EXAMPLE2_20260401|[amend|remove]
+* **[CA_EXAMPLE4_20260401](/path/to/legislative/instrument/CA_EXAMPLE4_20260401.md)** | [amend|remove]
+* **[LA_EXAMPLE1_20260401](/path/to/legislative/instrument/LA_EXAMPLE1_20260401.md)** | [amend|remove]
+* **[LB_EXAMPLE2_20260401](/path/to/legislative/instrument/LB_EXAMPLE2_20260401.md)** | [amend|remove]
 
 ---
 

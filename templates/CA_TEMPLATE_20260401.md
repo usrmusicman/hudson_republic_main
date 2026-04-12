@@ -27,9 +27,9 @@ List any legislative instruments (in alphabetical order) that this one depends o
 Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
-* CA_EXAMPLE1_20260401
-* CA_EXAMPLE2_20260401
-* CA_EXAMPLE3_20260401
+* **[CA_EXAMPLE1_20260401](path/to/legislative/instrument/CA_EXAMPLE1_20260401.md)**
+* **[CA_EXAMPLE2_20260401](path/to/legislative/instrument/CA_EXAMPLE2_20260401.md)**
+* **[CA_EXAMPLE3_20260401](path/to/legislative/instrument/CA_EXAMPLE3_20260401.md)**
 
 ---
 

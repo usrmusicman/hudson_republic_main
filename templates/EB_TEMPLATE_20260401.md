@@ -112,12 +112,12 @@ This gives the Senate the reasoning for the extension of the emergency legislati
 
 ## Reference Dependencies
 List any legislative instruments (in alphabetical order) that this one depends on using the FQLN.  
-Only **Constitutional Articles (CA)** and **Emergency Budgets** can be listed here.
+Only **Constitutional Articles (CA)** and **Emergency Budgets (EB)** can be listed here.
 
 Dependencies
-* CA_EXAMPLE4_20260401
-* EB_EXAMPLE1_20260401
-* EB_EXAMPLE2_20260401
+* **[CA_EXAMPLE4_20260401](path/to/legislative/instrument/CA_EXAMPLE4_20260401.md)**
+* **[EB_EXAMPLE1_20260401](path/to/legislative/instrument/EB_EXAMPLE1_20260401.md)**
+* **[EB_EXAMPLE2_20260401](path/to/legislative/instrument/EB_EXAMPLE2_20260401.md)**
 
 ---
 

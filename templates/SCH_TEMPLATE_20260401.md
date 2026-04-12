@@ -70,9 +70,9 @@ List any legislative instruments (in alphabetical order) that this one depends o
 All legislative instruments are accepted as dependencies.
 
 Dependencies
-* CA_EXAMPLE4_20260401
-* LA_EXAMPLE1_20260401
-* LB_EXAMPLE2_20260401
+* **[CA_EXAMPLE4_20260401](/path/to/legislative/instrument/CA_EXAMPLE4_20260401)**
+* **[LA_EXAMPLE1_20260401](/path/to/legislative/instrument/LA_EXAMPLE1_20260401)**
+* **[LB_EXAMPLE2_20260401](/path/to/legislative/instrument/LB_EXAMPLE2_20260401)**
 
 ---
 
