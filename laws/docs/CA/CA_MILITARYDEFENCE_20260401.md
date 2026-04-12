@@ -98,5 +98,4 @@ Dependencies (in alphabetical order)
 
 **Executive Office Signature**: 
 
-**FQLN**: CA_MILITARYDEFENCE_20260401  
-**Revision**: 00000002
+**FQLN**: CA_MILITARYDEFENCE_20260401

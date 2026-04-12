@@ -56,5 +56,4 @@ This schedule sets out the standardized administrative fees and spending limits 
 
 **Executive Office Signature**:   
 
-**FQLN**: SCH_ELECTIONSADMIN_20260412  
-**Revision**: 00000001
+**FQLN**: SCH_ELECTIONSADMIN_20260412

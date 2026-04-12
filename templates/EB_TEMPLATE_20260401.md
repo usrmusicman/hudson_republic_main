@@ -127,5 +127,4 @@ Dependencies
 
 **Senate 60-Day Extension Signature**: [This is only if they decide to extend the life of the legislative instrument, otherwise leave this field blank]
 
-**FQLN**: EB_[NAME]_[YYYYMMDD]  
-**Revision**: [REVISION_IN_8_HEXADECIMAL_DIGITS]
+**FQLN**: EB_[NAME]_[YYYYMMDD]

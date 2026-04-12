@@ -73,5 +73,4 @@ Name Of List
 
 **Executive Office Signature**: 
 
-**FQLN**: SCH_[NAME]_[YYYYMMDD]  
-**Revision**: [REVISION_IN_8_HEXADECIMAL_DIGITS]
+**FQLN**: SCH_[NAME]_[YYYYMMDD]

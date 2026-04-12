@@ -95,5 +95,4 @@ Dependencies (in alphabetical order)
 
 **Executive Office Signature**: 
 
-**FQLN**: CO_DEATHPENALTY_20260401  
-**Revision**: 00000002
+**FQLN**: CO_DEATHPENALTY_20260401

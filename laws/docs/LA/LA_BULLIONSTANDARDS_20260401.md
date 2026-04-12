@@ -144,5 +144,4 @@ Dependencies (in alphabetical order)
 
 **Executive Office Signature**: 
 
-**FQLN**: LA_BULLIONSTANDARDS_20260401  
-**Revision**: 00000003
+**FQLN**: LA_BULLIONSTANDARDS_20260401

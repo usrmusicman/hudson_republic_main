@@ -41,5 +41,4 @@ Dependencies
 
 **Executive Office Signature**: 
 
-**FQLN**: CA_[NAME]_[YYYYMMDD]  
-**Revision**: [REVISION_IN_8_HEXADECIMAL_DIGITS]
+**FQLN**: CA_[NAME]_[YYYYMMDD]

@@ -59,5 +59,4 @@ This schedule sets out the standardized administrative expenses, fees, and penal
 
 **Executive Office Signature**:   
 
-**FQLN**: SCH_BANKADMIN_20260412  
-**Revision**: 00000002
+**FQLN**: SCH_BANKADMIN_20260412

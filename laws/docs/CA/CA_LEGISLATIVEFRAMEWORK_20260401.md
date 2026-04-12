@@ -119,5 +119,4 @@ Dependencies (in alphabetical order)
 
 **Executive Office Signature**: 
 
-**FQLN**: CA_LEGISLATIVEFRAMEWORK_20260401  
-**Revision**: 00000003
+**FQLN**: CA_LEGISLATIVEFRAMEWORK_20260401

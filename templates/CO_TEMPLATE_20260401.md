@@ -56,5 +56,4 @@ Dependencies
 
 **Executive Office Signature**: 
 
-**FQLN**: CO_[NAME]_[YYYYMMDD]  
-**Revision**: [REVISION_IN_8_HEXADECIMAL_DIGITS]
+**FQLN**: CO_[NAME]_[YYYYMMDD]

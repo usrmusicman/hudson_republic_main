@@ -75,5 +75,4 @@ Dependencies (in alphabetical order)
 
 **Executive Office Signature**: 
 
-**FQLN**: LA_TAXATION_20260401  
-**Revision**: 00000002
+**FQLN**: LA_TAXATION_20260401

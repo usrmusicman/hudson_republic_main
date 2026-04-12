@@ -95,5 +95,4 @@ This Schedule provides the definitive, machine-readable tariff rates and treaty 
 
 **Executive Office Signature**: 
 
-**FQLN**: SCH_TARIFFANDTREATIES_20260401  
-**Revision**: 00000002
+**FQLN**: SCH_TARIFFANDTREATIES_20260401

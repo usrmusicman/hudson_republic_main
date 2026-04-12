@@ -96,5 +96,4 @@ Dependencies (in alphabetical order)
 
 **Executive Office Signature**: 
 
-**FQLN**: LA_CRIMINALAPPEALS_20260401  
-**Revision**: 00000002
+**FQLN**: LA_CRIMINALAPPEALS_20260401

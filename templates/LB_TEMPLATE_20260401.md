@@ -90,5 +90,4 @@ Dependencies
 
 **Executive Office Signature**: 
 
-**FQLN**: LB_[NAME]_[YYYYMMDD]  
-**Revision**: [REVISION_IN_8_HEXADECIMAL_DIGITS]
+**FQLN**: LB_[NAME]_[YYYYMMDD]

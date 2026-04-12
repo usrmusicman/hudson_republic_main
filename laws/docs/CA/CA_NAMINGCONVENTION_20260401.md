@@ -3,6 +3,7 @@
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
+- **Distributed Version Control System (DVCS)**: A tool for managing code changes where every legislator (developer) has a full, local copy of the entire project repository, including its full history.
 - **Fully Qualified Legislative Name (FQLN)**: A standardized identifier in the format `TYPE_SUBJECT_YYYYMMDD`.
 - **HoC**: House of Constituents, as defined in **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**.
 - **CA class**: Constitutional Articles requiring unanimous approval (100%) in the House of Constituents and a unanimous verdict (12/12) in the Senate across three readings in each house.
@@ -10,7 +11,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ## Preamble
 **WHEREAS** the Hudson Republic is founded upon a binary governance structure that preserves the separation of powers, upholds federal supremacy within enumerated jurisdiction, reserves residual powers to the Ridings, and safeguards the immutable rights of the Individual;
 
-**AND WHEREAS** every legislative instrument — whether federal or Riding-level — must be immediately identifiable as to its class, purpose, subject matter, origin, and revision history;
+**AND WHEREAS** every legislative instrument — whether federal or Riding-level — must be immediately identifiable as to its class, purpose, subject matter, origin, and DVCS revision history;
 
 **AND WHEREAS** a standardized **Fully Qualified Legislative Name (FQLN)** format promotes human readability, machine parseability, version control, automated auditing, searching, sorting, and long-term archival integrity through distributed version-control systems;
 
@@ -130,5 +131,4 @@ Dependencies (in alphabetical order)
 
 **Executive Office Signature**: 
 
-**FQLN**: CA_NAMINGCONVENTION_20260401  
-**Revision**: 00000003
+**FQLN**: CA_NAMINGCONVENTION_20260401
