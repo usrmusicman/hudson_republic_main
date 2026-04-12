@@ -11,7 +11,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-This Act governs all entry, inspection, revenue collection, cargo handling, and security at the ports and borders of the Hudson Republic. It ensures that ports remain clean, efficient, and free of abandoned, junk, or prohibited cargo while generating revenue solely through usage-based and enforcement-based mechanisms. All federal charges at borders and ports are assessed at flat rates where applicable, with tariffs calculated via bitshift. This Act operates in full harmony with **The Individual (Sovereign) Act** and the **Legal Tender Act**. All financial transactions and settlements under this Act shall be made exclusively in physical bullion in accordance with the Legal Tender Act.
+This Act governs all entry, inspection, revenue collection, cargo handling, and security at the ports and borders of the Hudson Republic. It ensures that ports remain clean, efficient, and free of abandoned, junk, or prohibited cargo while generating revenue solely through usage-based and enforcement-based mechanisms. All federal charges at borders and ports are assessed at flat rates where applicable, with tariffs calculated via bitshift. This Act operates in full harmony with **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)** and the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)**. All financial transactions and settlements under this Act shall be made exclusively in physical bullion in accordance with the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)**.
 
 ---
 
@@ -111,8 +111,8 @@ Serious contraband leading to criminal and civil charges.
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_LEGALTENDER_20260401  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -125,4 +125,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: LA_BORDERSDUTIES_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

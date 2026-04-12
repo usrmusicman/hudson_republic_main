@@ -8,7 +8,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 - **Riding**: A primary territorial and electoral division of the Hudson Republic, defined by land area rather than population, with each Riding approximating 35,000 to 50,000 square kilometers.  
 - **Array**: A contiguous block of exactly twelve (12) Ridings, the minimum territorial unit for secession or full accession.  
 - **Subzone**: A non-political administrative subdivision within a Riding used solely for logistics, postal, utility, emergency services, or internal mapping purposes.  
-- **Satellite State**: A region that maintains a loose, non-voting affiliation with the Hudson Republic, as defined in this Act and cross-referenced in CA_THEINDIVIDUAL_20260401.
+- **Satellite State**: A region that maintains a loose, non-voting affiliation with the Hudson Republic, as defined in this Act and cross-referenced in **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**.
 
 ---
 
@@ -63,7 +63,7 @@ Total Riding Size (km²) = Total Landmass of the Republic (km²) ÷ Total Number
 
 ## Section 5 — Satellite States (Limited Federation)
 **5.1 Purpose and Status**  
-Satellite States maintain a loose affiliation with the Hudson Republic. They receive trade access within the Hudson Economic Zone, military protection from the Hudson United Guard (HUG), and passport priority, but hold no voting rights in the Senate or participation in the National Judicial Hierarchy. All protections are limited to those expressly guaranteed by **The Individual (Sovereign) Act**.
+Satellite States maintain a loose affiliation with the Hudson Republic. They receive trade access within the Hudson Economic Zone, military protection from the Hudson United Guard (HUG), and passport priority, but hold no voting rights in the Senate or participation in the National Judicial Hierarchy. All protections are limited to those expressly guaranteed by **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**.
 
 **5.2 Application Process**  
 - An application fee of one hundred (100) troy ounces of gold must be paid prior to any formal assessment. This fee must be paid exclusively from public funds raised by the applying state.  
@@ -74,13 +74,13 @@ Satellite States maintain a loose affiliation with the Hudson Republic. They rec
 A region may apply for Satellite State status or for full adoption as Ridings, but not both simultaneously.
 
 **5.4 Fiscal Considerations**  
-Prior to approval, the applying region must demonstrate a budgetary fiscal surplus for at least the preceding ten (10) years, a minimum credit rating of “A”, full conversion of all financial instruments into physical bullion meeting the standards of the **Legal Tender Act**, and no receipt of direct transfers or subsidies from any external entity.
+Prior to approval, the applying region must demonstrate a budgetary fiscal surplus for at least the preceding ten (10) years, a minimum credit rating of “A”, full conversion of all financial instruments into physical bullion meeting the standards of the **[Legal Tender Act](./CA_LEGALTENDER_20260401.md)**, and no receipt of direct transfers or subsidies from any external entity.
 
 ---
 
 ## Section 6 — Adoption of Satellite States as Ridings
 **6.1 Eligibility for Adoption**  
-A Satellite State may apply for full integration as one or more Ridings only after satisfying the following cumulative conditions (see Section 5.4 for fiscal requirements and CA_NATIONALSECURITY_20260401 for integrity screening).  
+A Satellite State may apply for full integration as one or more Ridings only after satisfying the following cumulative conditions (see Section 5.4 for fiscal requirements and **[CA_NATIONALSECURITY_20260401](./CA_NATIONALSECURITY_20260401.md)** for integrity screening).  
 
 **6.2 Application Process**  
 - An application fee of one thousand (1,000) troy ounces of gold must be paid prior to formal assessment.  
@@ -114,15 +114,15 @@ A region that applies for one category and is rejected, rescinds, or is revoked 
 
 ## Section 10 — Property and Stakeholder Supremacy
 **10.1** Real property is vested in the land of the Riding.  
-**10.2 Rights Supremacy**: In any conflict between local bylaws and **The Individual (Sovereign) Act**, the rights of the Individual prevail absolutely.
+**10.2 Rights Supremacy**: In any conflict between local bylaws and **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**, the rights of the Individual prevail absolutely.
 
 ---
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_BANKANDRESERVE_20260401  
-* CA_LEGALTENDER_20260401  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_BANKANDRESERVE_20260401](./CA_BANKANDRESERVE_20260401.md)**  
+* **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -135,4 +135,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_TERRITORIALPROVISION_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

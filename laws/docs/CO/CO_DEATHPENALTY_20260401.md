@@ -6,12 +6,12 @@
 All capitalized terms used in this Code shall be interpreted in accordance with their definitions in the referenced instruments below.
 
 - **Death Penalty**: The ultimate sanction imposed only for Level 9 (Absolute Conviction) offenses, applied solely as a last resort after all avenues of reform and due process have been exhausted.
-- **Sequential Mandate**: Cumulative sentencing for repeated or escalating violations, served consecutively, as defined in CA_CRIMECATEGORIZATION_20260401.
+- **Sequential Mandate**: Cumulative sentencing for repeated or escalating violations, served consecutively, as defined in **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**.
 
 ---
 
 ## Preamble
-This Legal Code establishes the limited circumstances, procedural safeguards, and methods of carrying out the death penalty for the most heinous crimes against the Republic. It operates as a subordinate instrument to CA_CRIMECATEGORIZATION_20260401 and is designed to protect the sovereignty and constitutional order of the Republic while preserving the immutable rights of the Individual under CA_THEINDIVIDUAL_20260401. All proceedings shall adhere to the strictest standards of due process, proportionality, and humanity.
+This Legal Code establishes the limited circumstances, procedural safeguards, and methods of carrying out the death penalty for the most heinous crimes against the Republic. It operates as a subordinate instrument to **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)** and is designed to protect the sovereignty and constitutional order of the Republic while preserving the immutable rights of the Individual under **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**. All proceedings shall adhere to the strictest standards of due process, proportionality, and humanity.
 
 The death penalty is employed only for the most serious and grave of crimes. It is a last resort, and the Republic strives for every reasonable opportunity to reform the individual before this sanction is imposed.
 
@@ -25,7 +25,7 @@ The purpose of this Code is to define the narrow application of the death penalt
 ## Provisions
 
 ### Criminal Priority Level
-The death penalty may be imposed only upon conviction of a **Level 9 (Absolute Conviction)** offense, as upgraded under CO_TREASON_20260401 or any future Code that explicitly authorizes Level 9 sanctions.
+The death penalty may be imposed only upon conviction of a **Level 9 (Absolute Conviction)** offense, as upgraded under **[CO_TREASON_20260401](./CO_TREASON_20260401.md)** or any future Code that explicitly authorizes Level 9 sanctions.
 
 ---
 
@@ -70,20 +70,20 @@ Execution by a trained firing squad, conducted in accordance with established pr
 ---
 
 ## Compliance and Non-Compliance
-Any deviation from the procedures or safeguards outlined in this Code constitutes a separate offense and may result in additional charges under this Code or CA_CRIMECATEGORIZATION_20260401. Willful non-compliance by any official triggers immediate enforcement measures, including personal liability and asset forfeiture where lawful.
+Any deviation from the procedures or safeguards outlined in this Code constitutes a separate offense and may result in additional charges under this Code or **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**. Willful non-compliance by any official triggers immediate enforcement measures, including personal liability and asset forfeiture where lawful.
 
 ---
 
 ## Conflicts
-This Code may overlap with **CO_TREASON_20260401** or **CO_SEDITION_20260401**. Prosecutors shall charge the most serious applicable offense, with sentencing governed by the higher classification level and the Sequential Mandate.
+This Code may overlap with **[CO_TREASON_20260401](./CO_TREASON_20260401.md)** or **[CO_SEDITION_20260401](./CO_SEDITION_20260401.md)**. Prosecutors shall charge the most serious applicable offense, with sentencing governed by the higher classification level and the Sequential Mandate.
 
 ---
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_CRIMECATEGORIZATION_20260401  
-* CA_THEINDIVIDUAL_20260401  
-* LA_CRIMINALAPPEALS_20260401  
+* **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
+* **[LA_CRIMINALAPPEALS_20260401](../LA/LA_CRIMINALAPPEALS_20260401.md)**  
 
 ---
 
@@ -96,4 +96,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CO_DEATHPENALTY_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

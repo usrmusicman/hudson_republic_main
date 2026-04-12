@@ -44,7 +44,7 @@ Any bullion meeting the purity, weight, and physical integrity requirements of S
 ---
 
 ## Section 4 — Verification Requirements
-All bullion used as legal tender or held in reserves shall be subject to verification by XRF assay or equivalent non-destructive chemical analysis to confirm purity and weight. Merchants and financial institutions must maintain records of verification for all significant transactions and are subject to audit under the Banking and Reserves Act.
+All bullion used as legal tender or held in reserves shall be subject to verification by XRF assay or equivalent non-destructive chemical analysis to confirm purity and weight. Merchants and financial institutions must maintain records of verification for all significant transactions and are subject to audit under the **[Banking and Reserves Act](./CA_BANKANDRESERVE_20260401.md)**.
 
 ---
 
@@ -55,7 +55,7 @@ No person or entity may debase, clip, shave, plate, or otherwise physically alte
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -68,4 +68,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_LEGALTENDER_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

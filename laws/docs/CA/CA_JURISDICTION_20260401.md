@@ -10,7 +10,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 - **Residual Powers**: All authorities, responsibilities, and legislative domains not explicitly granted to the federal government, which are reserved to the Ridings or the People.  
 - **Inter-Riding Dispute**: A legal or administrative conflict arising between two or more Ridings that cannot be resolved through local arbitration.  
 - **Legislative Challenge (LC)**: A formal procedural mechanism to contest the constitutionality or jurisdictional validity of an enacted instrument.  
-- **Language of Majority**: English, as defined in **CA_GENERALADMIN_20260401**, serving as the sole official administrative and working language of the federal government.
+- **Language of Majority**: English, as defined in **[CA_GENERALADMIN_20260401](./CA_GENERALADMIN_20260401.md)**, serving as the sole official administrative and working language of the federal government.
 
 ---
 
@@ -26,7 +26,7 @@ This Act defines the boundaries of authority within the Hudson Republic, establi
 * **Borders and Ports**: Administration of the Hudson Port Authority (HPA) and Hudson Border Control (HBC).  
 * **Federal Judiciary**: Operation of the Superior and Supreme Courts for constitutional and inter-Riding matters.  
 
-**1.2** Pursuant to the **General Administration Act**, the Language of Majority is the sole official language for federal taxation, tariffs, and the resolution of federal legal disputes. This is a functional requirement for administrative efficiency and cryptographic auditability; it does not constitute a mandate for cultural erasure.
+**1.2** Pursuant to the **[General Administration Act](./CA_GENERALADMIN_20260401.md)**, the Language of Majority is the sole official language for federal taxation, tariffs, and the resolution of federal legal disputes. This is a functional requirement for administrative efficiency and cryptographic auditability; it does not constitute a mandate for cultural erasure.
 
 ---
 
@@ -47,25 +47,25 @@ This Act defines the boundaries of authority within the Hudson Republic, establi
 ## Section 4 — Conflict of Laws
 **4.1** In matters of enumerated federal jurisdiction, federal law maintains supremacy.  
 **4.2** In matters of residual jurisdiction, Riding law is supreme.  
-**4.3** In any conflict between a Riding bylaw and **The Individual (Sovereign) Act**, the rights of the Individual shall prevail absolutely.  
+**4.3** In any conflict between a Riding bylaw and **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**, the rights of the Individual shall prevail absolutely.  
 **4.4** If a federal instrument attempts to legislate within a residual domain (e.g., education), it is *ultra vires* and subject to immediate nullification via a Legislative Challenge.
 
 ---
 
 ## Section EX1 (Illustrative Examples)
 **EX1.1** A Riding in a traditionally Francophone area passes a law requiring all local business signs to be in French. This is a valid exercise of residual power under Section 2.3.  
-**EX1.2** The Federal government refuses to provide a secondary set of tax forms or a parallel bureaucracy in French. This is a valid exercise of Section 1.2 and the **General Administration Act** intended to minimize federal overhead.  
+**EX1.2** The Federal government refuses to provide a secondary set of tax forms or a parallel bureaucracy in French. This is a valid exercise of Section 1.2 and the **[General Administration Act](./CA_GENERALADMIN_20260401.md)** intended to minimize federal overhead.  
 **EX1.3** A citizen files a federal lawsuit regarding a border tariff. Per the Language of Majority mandate, the proceedings and records must be in **Language of Majority** for administrative efficiency, though the citizen may utilize an interpreter at their own expense or as provided by local Riding support.
 
 ---
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_GENERALADMIN_20260401  
-* CA_LEGISLATIVEFRAMEWORK_20260401  
-* CA_NAMINGCONVENTION_20260401  
-* CA_TERRITORIALPROVISION_20260401  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_GENERALADMIN_20260401](./CA_GENERALADMIN_20260401.md)**  
+* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
+* **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
+* **[CA_TERRITORIALPROVISION_20260401](./CA_TERRITORIALPROVISION_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -78,4 +78,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_JURISDICTION_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

@@ -31,13 +31,13 @@ All capitalized terms used in this Schedule shall be interpreted in accordance w
   - **none**: No exemptions apply.
 
 - **Value in Fiat**: The declared value of the imported good in the exporter’s fiat currency prior to conversion.  
-- **Value in Bullion Beavers**: The equivalent value after conversion to Hudson Bullion Beavers using the formulas in LA_BULLIONSTANDARDS_20260401.  
+- **Value in Bullion Beavers**: The equivalent value after conversion to Hudson Bullion Beavers using the formulas in **[LA_BULLIONSTANDARDS_20260401](../CA/LA_BULLIONSTANDARDS_20260401.md)**.  
 - **Bitshift Adjustment**: The binary right-shift operation applied to calculate the tariff rate.
 
 ---
 
 ## Preamble
-This Schedule provides the definitive, machine-readable tariff rates and treaty framework for all imports and exports under the authority of the **Borders and Duties Act**. It establishes standardized product classifications, lifecycle stages, treaty categories, exemptions, and conversion protocols to ensure transparency, predictability, and consistency in the application of tariffs. All valuations and payments shall be conducted exclusively in physical bullion in accordance with the **Legal Tender Act** and the **Banking and Reserves Act**. This Schedule is purely referential and derives its authority from its parent instrument.
+This Schedule provides the definitive, machine-readable tariff rates and treaty framework for all imports and exports under the authority of the **[Borders and Duties Act](../CA/LA_BORDERSDUTIES_20260401.md)**. It establishes standardized product classifications, lifecycle stages, treaty categories, exemptions, and conversion protocols to ensure transparency, predictability, and consistency in the application of tariffs. All valuations and payments shall be conducted exclusively in physical bullion in accordance with the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)** and the **[Banking and Reserves Act](../CA/CA_BANKANDRESERVE_20260401.md)**. This Schedule is purely referential and derives its authority from its parent instrument.
 
 ---
 
@@ -51,7 +51,7 @@ This Schedule provides the definitive, machine-readable tariff rates and treaty 
 **Treaty State**: Current operational status of the treaty membership (affects the entire membership and all covered items).  
 **Exemptions**: Any tariff relief granted under the selected treaty.  
 **Value in Fiat**: Declared value in exporter’s currency (amount, currency).  
-**Value in Bullion Beavers**: Converted value using LA_BULLIONSTANDARDS_20260401 formulas.  
+**Value in Bullion Beavers**: Converted value using **[LA_BULLIONSTANDARDS_20260401](../CA/LA_BULLIONSTANDARDS_20260401.md)** formulas.  
 **Bitshift Adjustment**: Binary right-shift used to calculate the tariff.  
 **Percentage (%)**: Equivalent percentage rate.  
 **Weight (Per Unit)**: Weight of the item for assessment purposes.
@@ -82,10 +82,15 @@ This Schedule provides the definitive, machine-readable tariff rates and treaty 
 
 ---
 
+## Disclaimer
+**All tags require lowercase names and all multi-word tags require the use of underscores (_), instead of spaces ( ).**
+
+---
+
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* LA_BORDERSDUTIES_20260401  
-* LA_BULLIONSTANDARDS_20260401  
+* **[LA_BORDERSDUTIES_20260401](../LA/LA_BORDERSDUTIES_20260401.md)**  
+* **[LA_BULLIONSTANDARDS_20260401](../LA/LA_BULLIONSTANDARDS_20260401.md)**  
 
 ---
 
@@ -98,4 +103,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: SCH_TARIFFANDTREATIES_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

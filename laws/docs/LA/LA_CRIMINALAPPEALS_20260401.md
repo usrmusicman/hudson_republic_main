@@ -82,9 +82,9 @@ In death penalty cases, the condemned has one opportunity for a “Call of Mercy
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_CRIMECATEGORIZATION_20260401  
-* CA_JUDICIALCOURTS_20260401  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
+* **[CA_JUDICIALCOURTS_20260401](../CA/CA_JUDICIALCOURTS_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -97,4 +97,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: LA_CRIMINALAPPEALS_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

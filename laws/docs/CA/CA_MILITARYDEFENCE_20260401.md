@@ -7,7 +7,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 
 - **Hudson United Guard (HUG)**: The sole national defence force of the Hudson Republic.  
 - **Sequential Mandate**: Cumulative sentencing for violations of fiduciary duty, treason, or sedition, with penalties served consecutively.  
-- **The Individual Act**: Refers to **CA_THEINDIVIDUAL_20260401** (The Individual (Sovereign) Act).  
+- **The Individual Act**: Refers to **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)** (The Individual (Sovereign) Act).  
 - **CA class**: Constitutional Articles requiring unanimous Senate verdict (12/12) on three readings for amendment.
 
 ---
@@ -27,7 +27,7 @@ The defence of the Hudson Republic is an essential federal responsibility, exerc
 
 **1.3 Strict Prohibitions**: The HUG shall **never** be used to:  
 * Act on behalf of any private interest.  
-* Deprive any citizen or Riding of rights under **The Individual Act**.  
+* Deprive any citizen or Riding of rights under **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**.  
 * Conduct foreign missions without a direct armed attack on the Republic.  
 * **Penalty**: Violations constitute treason or sedition, triggering the **Sequential Mandate** (cumulative sentencing).
 
@@ -78,7 +78,7 @@ The defence of the Hudson Republic is an essential federal responsibility, exerc
 ---
 
 ## Section 6 — Constitutional Safeguards and Stand-Down Authority
-**6.1 Mandatory Refusal**: Every member of the HUG has the explicit **duty** to refuse any order that violates the Constitution or **The Individual Act**.  
+**6.1 Mandatory Refusal**: Every member of the HUG has the explicit **duty** to refuse any order that violates the Constitution or **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**.  
 **6.2 Protected Conduct**: Refusal of an unlawful order cannot be grounds for discipline or prosecution.  
 **6.3 Anti-Retaliation**: Any attempt to punish a member for exercising stand-down authority constitutes **sedition or treason**.
 
@@ -86,7 +86,7 @@ The defence of the Hudson Republic is an essential federal responsibility, exerc
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -99,4 +99,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_MILITARYDEFENCE_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

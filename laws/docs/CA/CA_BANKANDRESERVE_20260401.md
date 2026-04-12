@@ -18,7 +18,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 
 The Hudson Republic recognizes that sound money is the foundation of individual liberty, economic sovereignty, and resistance to centralized financial control or foreign influence. All monetary obligations must be strictly backed by verifiable physical bullion to prevent fractional-reserve abuse, inflation, and fiduciary betrayal. Reserves shall be transparent, mathematically simple (expressed in binary bitshift equivalents), and subject to rigorous, chemistry-verified audits.
 
-This Act operates in close coordination with the **Legal Tender Act** and the **Banking Administration Schedule**. Together they establish uniform reserve requirements, liquidation protocols, allocation rules, and enforcement mechanisms applicable to all financial institutions—including private banks and the National Holdings Vault—to ensure full backing, public trust, and protection against over-leveraging or hostile external actors.
+This Act operates in close coordination with the **[Legal Tender Act](CA_LEGALTENDER_20260401.md)** and the **[Banking Administration Schedule](../SCH/SCH_BANKADMIN_20260412.md)**. Together they establish uniform reserve requirements, liquidation protocols, allocation rules, and enforcement mechanisms applicable to all financial institutions—including private banks and the National Holdings Vault—to ensure full backing, public trust, and protection against over-leveraging or hostile external actors.
 
 ---
 
@@ -27,9 +27,9 @@ This Act operates in close coordination with the **Legal Tender Act** and the **
 Financial Holdings Insurance is mandatory for any financial institution to operate within the Hudson Republic. To maintain FHI coverage, institutions must continuously satisfy all of the following:  
 * Maintain reserve ratios strictly within the permitted bitshift limits (Section 2).  
 * Refrain from partnering with, transferring reserves to, or contracting with hostile foreign actors or criminal organizations.  
-* Comply fully with Vault-to-Ledger Liquidation protocols (Section 4) and the bullion standards set forth in the Legal Tender Act.  
+* Comply fully with Vault-to-Ledger Liquidation protocols (Section 4) and the bullion standards set forth in the **[Legal Tender Act](./CA_LEGALTENDER_20260401.md)**.  
 * Adhere to annual mining allocation requirements (Section 5).  
-* Pay the annual FHI audit fee as set out in the Banking Administration Schedule (SCH_BANKADMIN_20260412).
+* Pay the annual FHI audit fee as set out in the **[Banking Administration Schedule](../SCH/SCH_BANKADMIN_20260412.md)**.
 
 ---
 
@@ -37,7 +37,7 @@ Financial Holdings Insurance is mandatory for any financial institution to opera
 
 The National Holdings Vault is the federal government’s secure repository for accumulated surpluses. It shall be used exclusively for military defense, border security, verification technology, emergency funds, strategic reserves, and other constitutionally authorized national purposes. The NHV must:  
 * Maintain active Financial Holdings Insurance (FHI) at all times.  
-* Obtain Senate approval by clear majority (as defined in the Legislative Framework Act) for any change to the bitshift reserve ratio baseline.
+* Obtain Senate approval by clear majority (as defined in the **[Legislative Framework Act](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**) for any change to the bitshift reserve ratio baseline.
 
 ---
 
@@ -73,7 +73,7 @@ Permitted reserve ratios are restricted to the following discrete bitshift steps
 
 ## Section 4 — Vault-to-Ledger Liquidation Protocol
 
-**4.1** Only bullion meeting Legal Tender Act standards may be held in FHI vaults.  
+**4.1** Only bullion meeting **[Legal Tender Act](./CA_LEGALTENDER_20260401.md)** standards may be held in FHI vaults.  
 **4.2** High-purity bars (≥99.5%) may be transferred 1-to-1 between FHI institutions.  
 **4.3 Liquidation**: Institutions or merchants may sell bars (≥99.5%) for bullion or Ledger credits. Sales must use XRF-verified data. No sale shall reduce backing below the 1/16 minimum.  
 **4.4 Net Settlement**: Physical movement of bullion between institutions is optional if net-settled quarterly (every 3 months) via Ledger units.  
@@ -102,14 +102,14 @@ Permitted reserve ratios are restricted to the following discrete bitshift steps
 
 **7.1 Requirement**: Any business handling physical bullion transactions of 1 troy ounce of gold or more must maintain MTI. Electronic Ledger transactions are exempt.  
 **7.2 Verification Incentive**: Providers supplying XRF or compositional verification terminals to merchants qualify for reduced regulatory penalties.  
-**7.3 Penalties for Breaches**: See the Banking Administration Schedule (SCH_BANKADMIN_20260412).
+**7.3 Penalties for Breaches**: See the **[Banking Administration Schedule](../SCH/SCH_BANKADMIN_20260412.md)**.
 
 ---
 
 ## Section 8 — Certification of Inspectors and Examiners
 
-**8.1 Eligibility**: Clean criminal and credit record, Age of Majority, and commitment to the Legal Tender Act and this Act.  
-**8.2 Process**: Non-refundable fee and validity period as set out in the Banking Administration Schedule (SCH_BANKADMIN_20260412).  
+**8.1 Eligibility**: Clean criminal and credit record, Age of Majority, and commitment to the **[Legal Tender Act](./CA_LEGALTENDER_20260401.md)** and this Act.  
+**8.2 Process**: Non-refundable fee and validity period as set out in the **[Banking Administration Schedule](../SCH/SCH_BANKADMIN_20260412.md)**.  
 **8.3 Standards**: Minimum passing score of 1,000 out of 1,200.  
 **8.4 Disciplinary**: Any violation of the Acts results in immediate seizure of certification and a permanent lifetime ban.
 
@@ -128,7 +128,7 @@ Permitted reserve ratios are restricted to the following discrete bitshift steps
 ## Reference Dependencies
 
 Dependencies (in alphabetical order)  
-* CA_LEGALTENDER_20260401  
+* **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
 
 ---
 
@@ -141,4 +141,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_BANKANDRESERVE_20260401  
-**Revision**: 00000002
+**Revision**: 00000003

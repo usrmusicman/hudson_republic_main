@@ -54,8 +54,8 @@ This schedule sets out the standardized administrative expenses, fees, and penal
 ## Reference Dependencies
 
 Dependencies (in alphabetical order)  
-* CA_BANKANDRESERVE_20260401  
-* CA_LEGALTENDER_20260401  
+* **[CA_BANKANDRESERVE_20260401](../CA/CA_BANKANDRESERVE_20260401.md)**  
+* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
 
 ---
 
@@ -68,4 +68,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**:   
 
 **FQLN**: SCH_BANKADMIN_20260412  
-**Revision**: 00000001
+**Revision**: 00000002

@@ -4,7 +4,7 @@
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
 - **Fully Qualified Legislative Name (FQLN)**: A standardized identifier in the format `TYPE_SUBJECT_YYYYMMDD`.
-- **HoC**: House of Constituents, as defined in CA_LEGISLATIVEFRAMEWORK_20260401.
+- **HoC**: House of Constituents, as defined in **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**.
 - **CA class**: Constitutional Articles requiring unanimous approval (100%) in the House of Constituents and a unanimous verdict (12/12) in the Senate across three readings in each house.
 
 ## Preamble
@@ -118,8 +118,8 @@ A Form (FO) may depend upon any legislative instrument, as it is administrative 
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_LEGISLATIVEFRAMEWORK_20260401  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 **Original Author**: 
 
@@ -130,4 +130,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_NAMINGCONVENTION_20260401  
-**Revision**: 00000002
+**Revision**: 00000003

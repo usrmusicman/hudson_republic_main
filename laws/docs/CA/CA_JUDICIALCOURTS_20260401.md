@@ -12,7 +12,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-The judicial power of the Hudson Republic is vested in one unified, four-tier court system designed for efficiency, impartiality, accessibility, and finality. This Act establishes the structure, jurisdiction, procedures, and safeguards of the courts to ensure justice is swift, transparent, and faithful to the immutable rights of the Individual as enshrined in **The Individual (Sovereign) Act**. All proceedings shall uphold the presumption of innocence in criminal matters, the right to a fair hearing, and the prohibition against double jeopardy except as expressly provided. This Act operates in coordination with the **Elections Act**, the **Elected Officials and Integrity Act**, and the **Legislative Framework Act**.
+The judicial power of the Hudson Republic is vested in one unified, four-tier court system designed for efficiency, impartiality, accessibility, and finality. This Act establishes the structure, jurisdiction, procedures, and safeguards of the courts to ensure justice is swift, transparent, and faithful to the immutable rights of the Individual as enshrined in **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**. All proceedings shall uphold the presumption of innocence in criminal matters, the right to a fair hearing, and the prohibition against double jeopardy except as expressly provided. This Act operates in coordination with the **[Elections Act](./CA_ELECTIONS_20260401.md)**, the **[Elected Officials and Integrity Act](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**, and the **[Legislative Framework Act](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**.
 
 ---
 
@@ -67,10 +67,10 @@ Appeals follow a three-strike model unless elevated directly to the Supreme Cour
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_ELECTEDOFFICIALSINTEGRITY_20260401  
-* CA_ELECTIONS_20260401  
-* CA_LEGISLATIVEFRAMEWORK_20260401  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
+* **[CA_ELECTIONS_20260401](./CA_ELECTIONS_20260401.md)**  
+* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -83,4 +83,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_JUDICIALCOURTS_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

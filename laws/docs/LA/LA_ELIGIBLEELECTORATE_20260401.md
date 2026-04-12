@@ -5,17 +5,17 @@
 ## Definitions
 All terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below. For convenience, the following key terms are noted:
 
-- **Age of Majority**: Nineteen (19) years, as defined in CA_GENERALADMIN_20260401.  
-- **ARC/FARM Certificate Holders**: Holders of an active Authorized Resident Certificate or Foreign Agricultural and Resource Management visa, as defined in LA_IMMIGRATION_20260401.  
-- **Bi-election**: An election held between general elections to fill a vacancy, as defined in CA_ELECTIONS_20260401.  
-- **HIS (Hudson Intelligence Service)**: The national intelligence and policing agency, as defined in CA_NATIONALSECURITY_20260401.  
-- **Satellite State**: A region maintaining limited affiliation with the Republic but lacking full Riding status, as defined in CA_TERRITORIALPROVISION_20260401.  
+- **Age of Majority**: Nineteen (19) years, as defined in **[CA_GENERALADMIN_20260401](../CA/CA_GENERALADMIN_20260401.md)**.  
+- **ARC/FARM Certificate Holders**: Holders of an active Authorized Resident Certificate or Foreign Agricultural and Resource Management visa, as defined in **[LA_IMMIGRATION_20260401](./LA_IMMIGRATION_20260401.md)**.  
+- **Bi-election**: An election held between general elections to fill a vacancy, as defined in **[CA_ELECTIONS_20260401](../CA/CA_ELECTIONS_20260401.md)**.  
+- **HIS (Hudson Intelligence Service)**: The national intelligence and policing agency, as defined in **[CA_NATIONALSECURITY_20260401](../CA/CA_NATIONALSECURITY_20260401.md)**.  
+- **Satellite State**: A region maintaining limited affiliation with the Republic but lacking full Riding status, as defined in **[CA_TERRITORIALPROVISION_20260401](../CA/CA_TERRITORIALPROVISION_20260401.md)**.  
 - **Subsidized Co-op Housing**: Recognized communal or state-supported housing facilities designated for citizens lacking private rental or title records.
 
 ---
 
 ## Preamble
-This Act establishes clear, objective criteria for voter eligibility in all general elections and bi-elections of the Hudson Republic. It ensures that the electorate consists solely of citizens who are invested in the Republic’s stability, possess a verifiable stake in their Riding, and maintain full legal and behavioral standing. By anchoring eligibility to citizenship, residency, and personal accountability, this Act safeguards the integrity of the democratic process while providing narrowly tailored accommodations for citizens in transitional housing circumstances. All provisions operate in strict conformity with **The Individual (Sovereign) Act** and the referenced dependency instruments.
+This Act establishes clear, objective criteria for voter eligibility in all general elections and bi-elections of the Hudson Republic. It ensures that the electorate consists solely of citizens who are invested in the Republic’s stability, possess a verifiable stake in their Riding, and maintain full legal and behavioral standing. By anchoring eligibility to citizenship, residency, and personal accountability, this Act safeguards the integrity of the democratic process while providing narrowly tailored accommodations for citizens in transitional housing circumstances. All provisions operate in strict conformity with **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)** and the referenced dependency instruments.
 
 ---
 
@@ -52,11 +52,11 @@ The following categories of persons are expressly barred from voting in any elec
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_ELECTIONS_20260401  
-* CA_GENERALADMIN_20260401  
-* CA_NATIONALSECURITY_20260401  
-* CA_TERRITORIALPROVISION_20260401  
-* LA_IMMIGRATION_20260401  
+* **[CA_ELECTIONS_20260401](../CA/CA_ELECTIONS_20260401.md)**  
+* **[CA_GENERALADMIN_20260401](../CA/CA_GENERALADMIN_20260401.md)**  
+* **[CA_NATIONALSECURITY_20260401](../CA/CA_NATIONALSECURITY_20260401.md)**  
+* **[CA_TERRITORIALPROVISION_20260401](../CA/CA_TERRITORIALPROVISION_20260401.md)**  
+* **[LA_IMMIGRATION_20260401](./LA_IMMIGRATION_20260401.md)**  
 
 ---
 
@@ -69,4 +69,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: LA_ELIGIBLEELECTORATE_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

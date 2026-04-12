@@ -7,8 +7,8 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 
 - **Strict Blind Trust**: A trust in which the official retains no control, knowledge, or influence over the management or disposition of assets, managed by an independent trustee approved by the Judiciary Audit Office.  
 - **Sequential Mandate**: Cumulative sentencing for violations of fiduciary duty, abuse of power, or sedition, with penalties served consecutively.  
-- **The Individual (Sovereign) Act**: Refers to **CA_THEINDIVIDUAL_20260401**.  
-- **Legislative Challenge (LC)**: A formal challenge to legislation or budgets under the rules established in the Legislative Framework Act.
+- **The Individual (Sovereign) Act**: Refers to **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**.  
+- **Legislative Challenge (LC)**: A formal challenge to legislation or budgets under the rules established in the **[Legislative Framework Act](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**.
 
 ---
 
@@ -54,7 +54,7 @@ All candidates for elected office (Riding Representative, Senator, HoC Mediator,
 
 **2.1 Election**: Elected by a sixty percent (60%) vote of all sitting Riding Representatives, ninety (90) days after each general election.  
 **2.2 Duties**: Neutral procedural officer of the House of Constituents. At every reading and at the final rendering stage, the HoC Mediator’s sole duty is to receive legislation exactly as passed and transmit it, unchanged, to the next stage or to the Senate.  
-**2.3 Neutrality**: The HoC Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason under CO_TREASON_20260401.  
+**2.3 Neutrality**: The HoC Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason.  
 **2.4 Responsibilities and Consequences**: Identical to those of the Senate Mediator and the volunteer Supreme Court Justice (see Sections 3 and 6).
 
 ---
@@ -79,7 +79,7 @@ All candidates for elected office (Riding Representative, Senator, HoC Mediator,
 ## Section 4 — Senate Mediator
 
 **4.1 Duties**: Neutral procedural officer of the Senate. At every reading and at the final rendering stage, the Senate Mediator’s sole duty is to receive legislation exactly as passed and transmit it, unchanged, to the next stage or to the Executive Office for final review and minting.  
-**4.2 Neutrality**: The Senate Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason under CO_TREASON_20260401.  
+**4.2 Neutrality**: The Senate Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason.  
 **4.3 Responsibilities and Consequences**: Identical to those of the HoC Mediator and the volunteer Supreme Court Justice.
 
 ### Tenure and Eligibility
@@ -113,7 +113,7 @@ All candidates for elected office (Riding Representative, Senator, HoC Mediator,
 **6.4 Constraints**: Do not handle standard criminal or civil law and do not impose sentences.  
 **6.5 Accountability**: Justices must maintain a record of professionalism and rigor. Failure to do so triggers bi-annual integrity review or Legislative Challenge.  
 
-**6.6 Legislative Challenges (LC)**: Only one sitting Justice may volunteer to submit Legislative Challenges. At the final rendering stage, the volunteer Justice’s sole role is to transmit the LC, unchanged, to the Senate. The Justice shall have **zero influence** over the content or outcome beyond their single vote as a Justice. Any attempt to influence or alter an LC constitutes treason under CO_TREASON_20260401.  
+**6.6 Legislative Challenges (LC)**: Only one sitting Justice may volunteer to submit Legislative Challenges. At the final rendering stage, the volunteer Justice’s sole role is to transmit the LC, unchanged, to the Senate. The Justice shall have **zero influence** over the content or outcome beyond their single vote as a Justice. Any attempt to influence or alter an LC constitutes treason.  
 **6.7 Responsibilities and Consequences**: Identical to those of the HoC Mediator and Senate Mediator.
 
 ---
@@ -122,7 +122,7 @@ All candidates for elected office (Riding Representative, Senator, HoC Mediator,
 The HoC Mediator, Senate Mediator, and volunteer Supreme Court Justice for Legislative Challenges share identical duties, responsibilities, and consequences when acting in their rendering capacity:  
 - Strict neutrality and **zero influence** over legislative content, timing, or outcome at every reading level and at the final stage.  
 - Sole function is to receive and transmit decisions exactly as passed.  
-- Any breach constitutes treason under CO_TREASON_20260401 and triggers the Sequential Mandate.
+- Any breach constitutes treason under and triggers the Sequential Mandate.
 
 ---
 
@@ -148,9 +148,9 @@ The HoC Mediator, Senate Mediator, and volunteer Supreme Court Justice for Legis
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_THEINDIVIDUAL_20260401  
-* CA_NAMINGCONVENTION_20260401  
-* CA_LEGISLATIVEFRAMEWORK_20260401  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
+* **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
+* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
 
 ---
 
@@ -163,4 +163,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_ELECTEDOFFICIALSINTEGRITY_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

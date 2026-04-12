@@ -16,7 +16,7 @@ The Hudson Republic is founded on the principle that sovereignty resides ultimat
 
 The federal government of the Hudson Republic shall concern itself solely with monetary integrity, national defence, border security and ports, and the administration of federal courts for constitutional and inter-Riding matters. All other responsibilities — including but not limited to housing, healthcare, mental health, education, welfare, and local infrastructure — are reserved exclusively to the Ridings and their local boards. All power not expressly delegated is reserved to the people.
 
-This framework establishes three co-equal branches—the **House of Constituents** (prosecutorial originator), the **Senate** (constitutional jury), and the **Executive Office** (custodial enforcer)—each with defined roles, high evidentiary thresholds, personal accountability, and emergency safeguards to ensure fidelity to the Constitution and the protection of liberty. All legislative instruments shall follow the classification, naming, and procedural requirements set out in the **Legislative Document Classification and Naming Convention Act**.
+This framework establishes three co-equal branches—the **House of Constituents** (prosecutorial originator), the **Senate** (constitutional jury), and the **Executive Office** (custodial enforcer)—each with defined roles, high evidentiary thresholds, personal accountability, and emergency safeguards to ensure fidelity to the Constitution and the protection of liberty. All legislative instruments shall follow the classification, naming, and procedural requirements set out in the **[Legislative Document Classification and Naming Convention Act](./CA_NAMINGCONVENTION_20260401.md)**.
 
 ## Section 1 — House of Constituents
 
@@ -29,7 +29,7 @@ This framework establishes three co-equal branches—the **House of Constituents
 - **LB (Legislative Budget)**: Two separate readings in distinct sessions.  
 - **OP (Obligation Paper)**: One reading.  
 - **CO (Legal Code)**: One reading.  
-- **SCH (Schedule)**: See Section 6.2 of CA_NAMINGCONVENTION_20260401 for detailed rules.  
+- **SCH (Schedule)**: See Section 6.2 of **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)** for detailed rules.  
 - **CA (Constitutional Article)**: Three separate readings with unanimous approval (100%) in the HoC.
 
 **1.3 House Clear Majority**: Requires a sixty percent (60%) majority of the active voting pool to pass each reading, except for Constitutional Articles which require unanimous approval (100%).  
@@ -39,7 +39,7 @@ This framework establishes three co-equal branches—the **House of Constituents
 ### HoC Mediator
 **1.6** The HoC Mediator is the neutral procedural officer of the House of Constituents.  
 - Elected by a sixty percent (60%) vote of all sitting Riding Representatives, ninety (90) days after each general election.  
-- Must meet the same general eligibility criteria as all other elected officials (see CA_ELECTEDOFFICIALSINTEGRITY_20260401).  
+- Must meet the same general eligibility criteria as all other elected officials (see **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**).  
 - At every reading and at the final rendering stage, the HoC Mediator’s sole duty is to receive the legislation exactly as passed and transmit it, unchanged, to the next stage or to the Senate.  
 - The HoC Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason under CO_TREASON_20260401.
 
@@ -60,7 +60,7 @@ This framework establishes three co-equal branches—the **House of Constituents
 - **LB (Legislative Budget)**: Two separate readings.  
 - **OP (Obligation Paper)**: One reading.  
 - **CO (Legal Code)**: One reading.  
-- **SCH (Schedule)**: See Section 6.2 of CA_NAMINGCONVENTION_20260401 for detailed rules.  
+- **SCH (Schedule)**: See Section 6.2 of **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)** for detailed rules.  
 - **LC (Legislative Challenge)**: Senate applies the threshold required by the challenged instrument.  
 - **EL / EB (Emergency Legislation / Emergency Budget)**: Originated and adjudicated exclusively by the Senate. Requires **one reading**.  
 - **CA (Constitutional Article)**: Three separate readings with a unanimous verdict (12/12) at each stage.
@@ -72,7 +72,7 @@ This framework establishes three co-equal branches—the **House of Constituents
 ### Senate Mediator
 **2.7** The Senate Mediator is the neutral procedural officer of the Senate.  
 - At every reading and at the final rendering stage, the Senate Mediator’s sole duty is to receive the legislation exactly as passed and transmit it, unchanged, to the next stage or to the Executive Office for final review and minting.  
-- The Senate Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason under CO_TREASON_20260401.
+- The Senate Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason.
 
 **2.8 Transmission**: Once passed, legislation is transmitted to the Executive Office for final review and minting.
 
@@ -107,9 +107,9 @@ This framework establishes three co-equal branches—the **House of Constituents
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_NAMINGCONVENTION_20260401  
-* CA_THEINDIVIDUAL_20260401  
-* CA_ELECTEDOFFICIALSINTEGRITY_20260401  
+* **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
+* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
 
 **Original Author**: 
 
@@ -120,4 +120,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_LEGISLATIVEFRAMEWORK_20260401  
-**Revision**: 00000002
+**Revision**: 00000003

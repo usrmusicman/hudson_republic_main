@@ -18,7 +18,7 @@ This Act governs the Hudson Ledger, the official electronic record-keeping syste
 ## Section 1 — Hudson Ledger System
 **1.1** The Hudson Ledger is the sole official, immutable, cryptographically signed electronic record for bullion transactions and Ledger credits.  
 **1.2** All Ledger entries shall be publicly auditable, binding, and enforceable as legal tender equivalents.  
-**1.3** Transactions recorded on the Hudson Ledger may be net-settled annually between institutions in physical bullion per the Banking and Reserves Act.
+**1.3** Transactions recorded on the Hudson Ledger may be net-settled annually between institutions in physical bullion per the **[Banking and Reserves Act](../CA/CA_BANKANDRESERVE_20260401.md)**.
 
 ---
 
@@ -44,8 +44,8 @@ This Act governs the Hudson Ledger, the official electronic record-keeping syste
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_LEGALTENDER_20260401  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -58,4 +58,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: LA_HUDSONLEDGER_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

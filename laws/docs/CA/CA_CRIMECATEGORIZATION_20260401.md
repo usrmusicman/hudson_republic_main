@@ -16,7 +16,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-This Act establishes a clear, tiered classification system for criminal offenses in the Hudson Republic. It defines misdemeanors, felonies, and capital offenses with precise sentencing guidelines, expungement rules, and appeal pathways. The system prioritizes reformation for lesser offenses while imposing permanent and severe consequences for grave crimes against the Republic and its people. All classifications operate in full compliance with **The Individual (Sovereign) Act** and the **Judicial Courts Act**.
+This Act establishes a clear, tiered classification system for criminal offenses in the Hudson Republic. It defines misdemeanors, felonies, and capital offenses with precise sentencing guidelines, expungement rules, and appeal pathways. The system prioritizes reformation for lesser offenses while imposing permanent and severe consequences for grave crimes against the Republic and its people. All classifications operate in full compliance with **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)** and the **[Judicial Courts Act](./CA_JUDICIALCOURTS_20260401.md)**.
 
 ---
 
@@ -86,8 +86,8 @@ Examples: treason, terrorism causing mass casualties, aggravated murder, serial 
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_JUDICIALCOURTS_20260401  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_JUDICIALCOURTS_20260401](./CA_JUDICIALCOURTS_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -100,4 +100,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_CRIMECATEGORIZATION_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

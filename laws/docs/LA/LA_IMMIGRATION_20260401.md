@@ -15,7 +15,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-The Hudson Republic maintains a controlled, merit-based immigration system that prioritizes national security, economic sustainability, cultural cohesion, and the primacy of citizen sovereignty. Immigration serves the Republic, not the reverse. All fees, fines, restitution, licensing, and financial settlements under this Act shall be paid exclusively in physical bullion pursuant to the **Legal Tender Act**. Non-citizens (Guests and Residents) are prohibited from owning land or accessing government-funded social assistance or welfare; all services must be paid at fair market value in bullion. Every entrant—alien or citizen—must hold a valid internationally recognized passport prior to entry.
+The Hudson Republic maintains a controlled, merit-based immigration system that prioritizes national security, economic sustainability, cultural cohesion, and the primacy of citizen sovereignty. Immigration serves the Republic, not the reverse. All fees, fines, restitution, licensing, and financial settlements under this Act shall be paid exclusively in physical bullion pursuant to the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)**. Non-citizens (Guests and Residents) are prohibited from owning land or accessing government-funded social assistance or welfare; all services must be paid at fair market value in bullion. Every entrant—alien or citizen—must hold a valid internationally recognized passport prior to entry.
 
 ---
 
@@ -55,7 +55,7 @@ The Republic recognizes three non-citizen statuses:
 
 ## Section 4 — Naturalized Citizens
 **4.1 Origin**: Granted via the **Pathway to Citizenship (PTC)**.  
-**4.2 Rights**: Full constitutional protections under **The Individual (Sovereign) Act**.  
+**4.2 Rights**: Full constitutional protections under **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)**.  
 **4.3 Land Ownership**: Permitted (exclusive to citizens).
 
 ---
@@ -89,7 +89,7 @@ The Republic recognizes three non-citizen statuses:
 ---
 
 ## Section 9 — General Provisions
-**9.1 Bullion Mandate**: All fees and fines paid exclusively in physical bullion per the **Legal Tender Act**.  
+**9.1 Bullion Mandate**: All fees and fines paid exclusively in physical bullion per the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)**.  
 **9.2 Amendment**: This Act may only be amended via Constitutional Article procedure.
 
 ---
@@ -107,8 +107,8 @@ The Republic recognizes three non-citizen statuses:
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_LEGALTENDER_20260401  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -121,4 +121,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: LA_IMMIGRATION_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

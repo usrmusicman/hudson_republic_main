@@ -16,7 +16,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-This Act establishes uniform, mandatory standards for eligibility, security, record-keeping, language administration, and operational integrity across every public office and government institution in the Hudson Republic. Its purpose is to guarantee competence, national security, fiduciary responsibility, and efficient governance at all levels while eliminating any possibility of foreign influence, corruption, or administrative capture. All financial transactions, fees, licensing, and settlements within government institutions shall be conducted exclusively in physical bullion in accordance with the **Legal Tender Act**.
+This Act establishes uniform, mandatory standards for eligibility, security, record-keeping, language administration, and operational integrity across every public office and government institution in the Hudson Republic. Its purpose is to guarantee competence, national security, fiduciary responsibility, and efficient governance at all levels while eliminating any possibility of foreign influence, corruption, or administrative capture. All financial transactions, fees, licensing, and settlements within government institutions shall be conducted exclusively in physical bullion in accordance with the **[Legal Tender Act](./CA_LEGALTENDER_20260401.md)**.
 
 ---
 
@@ -48,7 +48,7 @@ This Act establishes uniform, mandatory standards for eligibility, security, rec
 **3.3 Official Submissions**: All complaints, petitions, or applications to government offices must be submitted in **Language of Majority**. Submissions in other languages require a certified translation; the **Language of Majority** version is deemed legally authoritative.  
 **3.4 Translations for Courtesy**: Documents may be translated into other languages for convenience or accessibility. These translations are **not** legally authoritative or binding.  
 **3.5 Additional Recognition**: Recognizing additional languages for specific administrative purposes requires formal legislative approval and shall not diminish the primacy of the **Language of Majority**.  
-**3.6 Indigenous Rights**: Appropriate accommodations shall be made for Indigenous languages consistent with the supremacy of individual rights under **The Individual (Sovereign) Act**.  
+**3.6 Indigenous Rights**: Appropriate accommodations shall be made for Indigenous languages consistent with the supremacy of individual rights under **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**.  
 **3.7 Judicial Interpreters**: Courts may permit interpreters for fair hearings, but official records and judgments remain in **Language of Majority**.  
 **3.8 Enforcement**: Attempting to enforce a language other than **Language of Majority** in mandated administrative functions constitutes an administrative irregularity subject to correction.
 
@@ -58,16 +58,16 @@ This Act establishes uniform, mandatory standards for eligibility, security, rec
 **4.1** All security clearances and associated licensing fees are non-refundable.  
 **4.2 Breaches**: Violation of clearance protocols or unauthorized disclosure of protected information constitutes a material breach of fiduciary duty.  
 * **Consequences**: Immediate termination, permanent revocation of clearance, and criminal prosecution under the **Sequential Mandate** (cumulative sentencing up to life imprisonment).  
-**4.3 Verification**: On-boarding for all positions includes final verification of compliance with this Act, the **Elected Officials and Integrity Act**, and the **Elections Act**.
+**4.3 Verification**: On-boarding for all positions includes final verification of compliance with this Act, the **[Elected Officials and Integrity Act](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**, and the **[Elections Act](./CA_ELECTIONS_20260401.md)**.
 
 ---
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_ELECTEDOFFICIALSINTEGRITY_20260401  
-* CA_ELECTIONS_20260401  
-* CA_LEGALTENDER_20260401  
-* CA_THEINDIVIDUAL_20260401  
+* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
+* **[CA_ELECTIONS_20260401](./CA_ELECTIONS_20260401.md)**  
+* **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -80,4 +80,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_GENERALADMIN_20260401  
-**Revision**: 00000001
+**Revision**: 00000002

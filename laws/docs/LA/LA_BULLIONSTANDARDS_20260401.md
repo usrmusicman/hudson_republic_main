@@ -131,8 +131,8 @@ All conversion examples and practical applications are illustrative only and mus
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* CA_BANKANDRESERVE_20260401  
-* CA_LEGALTENDER_20260401  
+* **[CA_BANKANDRESERVE_20260401](../CA/CA_BANKANDRESERVE_20260401.md)**  
+* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
 
 ---
 
@@ -145,4 +145,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: LA_BULLIONSTANDARDS_20260401  
-**Revision**: 00000002
+**Revision**: 00000003
