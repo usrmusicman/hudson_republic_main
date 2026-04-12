@@ -64,7 +64,7 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 │   │   ├── LB/               # Legislative Budgets  
 │   │   ├── OP/               # Obligation Papers  
 │   │   └── SCH/              # Schedules  
-│   └── etc...
+│   └── etc...  
 ├── ridings/                  # Riding-level examples (coming soon)  
 ├── templates/                # Official document templates  
 ├── FAQ.md                    # Plain-language answers (start here)  
