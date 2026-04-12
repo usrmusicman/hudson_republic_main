@@ -17,10 +17,10 @@ The rights, liberties, and duties of the Individual are the supreme foundation o
 ## Section 1 — Supremacy of Rights
 
 **1.1** The rights and liberties enumerated herein are supreme law and immutable.  
-**1.2** No amendment to these rights shall occur except through the unanimous Senate process (12 out of 12 seated senators on each of three readings) as defined in the **[Legislative Framework Act](CA_LEGISLATIVEFRAMEWORK_20260401.md)**.  
+**1.2** No amendment to these rights shall occur except through the unanimous Senate process (12 out of 12 seated senators on each of three readings) as defined in the **[Legislative Framework Act](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**.  
 **1.3** Any official act, decree, or emergency measure that infringes these rights without following the amendment procedure is legally null and void.  
 **1.4** Perpetrators of such infringement shall face prosecution for treason or sedition, with personal liability triggered and no immunity available.  
-**1.5** Emergency powers shall never suspend or diminish these rights. All emergency actions remain subject to immediate public audit and review by the Supreme Court (see **[Judicial Courts Act](CA_JUDICIALCOURTS_20260401.md)**).
+**1.5** Emergency powers shall never suspend or diminish these rights. All emergency actions remain subject to immediate public audit and review by the Supreme Court (see **[Judicial Courts Act](./CA_JUDICIALCOURTS_20260401.md)**).
 
 ---
 
@@ -76,6 +76,7 @@ The rights, liberties, and duties of the Individual are the supreme foundation o
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
 * **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
+* **[CA_JUDICIALCOURTS_20260401](./CA_JUDICIALCOURTS_20260401.md)**
 
 ---
 
@@ -88,4 +89,4 @@ Dependencies (in alphabetical order)
 **Executive Office Signature**: 
 
 **FQLN**: CA_THEINDIVIDUAL_20260401  
-**Revision**: 00000002
+**Revision**: 00000003
