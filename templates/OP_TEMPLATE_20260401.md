@@ -75,12 +75,12 @@ Gives a breakdown of a single item or function within a project.
 
 ## Reference Dependencies
 List any legislative instruments (in alphabetical order) that this one depends on using the FQLN.  
-Only **Constitutional Articles (CA)**, **Legislative Budgets** and **Obligation Papers (OP)** can be listed here.
+Only **Constitutional Articles (CA)** and **Legislative Articles** can be listed here.
 
 Dependencies
 * **[CA_EXAMPLE4_20260401](/path/to/legislative/instrument/CA_EXAMPLE4_20260401)**
-* **[LB_EXAMPLE1_20260401](/path/to/legislative/instrument/LB_EXAMPLE1_20260401)**
-* **[LB_EXAMPLE2_20260401](/path/to/legislative/instrument/LB_EXAMPLE2_20260401)**
+* **[LA_EXAMPLE1_20260401](/path/to/legislative/instrument/LA_EXAMPLE1_20260401)**
+* **[LA_EXAMPLE2_20260401](/path/to/legislative/instrument/LA_EXAMPLE2_20260401)**
 
 ---
 

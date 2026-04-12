@@ -87,13 +87,6 @@ This Schedule provides the definitive, machine-readable tariff rates and treaty 
 
 ---
 
-## Reference Dependencies
-Dependencies (in alphabetical order)  
-* **[LA_BORDERSDUTIES_20260401](../LA/LA_BORDERSDUTIES_20260401.md)**  
-* **[LA_BULLIONSTANDARDS_20260401](../LA/LA_BULLIONSTANDARDS_20260401.md)**  
-
----
-
 **Original Author**: 
 
 **House Signature**: 

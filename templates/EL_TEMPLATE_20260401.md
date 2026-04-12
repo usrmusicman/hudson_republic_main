@@ -63,7 +63,7 @@ This gives the Senate the reasoning for the extension of the emergency legislati
 
 ## Reference Dependencies
 List any legislative instruments (in alphabetical order) that this one depends on using the FQLN.  
-Only **Constitutional Articles (CA)** and **Emergency Legislation (EL)** can be listed here.
+Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
 * **[CA_EXAMPLE1_20260401](path/to/legislative/instrument/CA_EXAMPLE1_20260401.md)**
