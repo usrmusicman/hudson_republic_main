@@ -72,25 +72,33 @@ To preserve constitutional hierarchy and legislative integrity, every instrument
 - Instruments requiring **two readings** (LA, LB) may depend upon instruments requiring two or three readings.  
 - Instruments requiring **one reading** (OP, CO, SCH, LC, FO) may depend upon instruments requiring one, two, or three readings.
 
-### 6.2 Schedules (SCH) — Special Rule
+### 6.2 Supporting Instruments — Schedules (SCH) and Forms (FO)
+Schedules (SCH) and Forms (FO) are purely supporting instruments. They share the following rules:
+
+- They always require a **minimum of zero readings** and a **maximum of three readings**.  
+- They remain non-substantive. They cannot create new rights, obligations, or authorities independent of their parent instrument.  
+- **One-way reference only**: The parent instrument (CA, LA, LB, etc.) references the Schedule or Form. The Schedule or Form itself lists **no dependencies**.  
+- If a Schedule or Form is not depended upon by any instrument, it defaults to **no readings** in either legislative house (Senate or HoC).
+
+#### 6.2.1 Schedules (SCH) — Special Rule
 A Schedule (SCH) is a purely supporting instrument containing lists, indexes, technical specifications, tariffs, annexes, or similar material.  
 
-- Schedules always require a **minimum of one reading** and a **maximum of three readings**.  
-- When another instrument depends upon a Schedule, the Schedule inherits the exact enactment threshold of that parent instrument.  
-- If a Form (FO) is depended upon by a Schedule (SCH), it defaults to **one reading** unless it is also depended upon by a higher-threshold instrument elsewhere.  
-- A Schedule that is not depended upon by any instrument defaults to **one reading** in each house (or Senate-only in emergency).  
-- Schedules remain non-substantive. They cannot create new rights, obligations, or authorities independent of their parent instrument (if any). They may be amended or repealed only through the same process required for their parent (or the default one-reading process if standalone).
-- Schedules inherit dependencies from their parents, they are referenced as a dependency in the parent legislative instrument alone. Schedules do not have dependencies.
+- When a parent instrument depends upon a Schedule, the Schedule inherits the exact enactment threshold of that parent.
+
+#### 6.2.2 Forms (FO) — Special Rule
+Forms (FO) are administrative templates only and are non-binding.  
+
+- Forms are created or amended by the Executive Office; **no legislative readings are required**.  
+- When a parent instrument depends upon a Form, the Form inherits the exact enactment threshold of that parent.
 
 ### 6.3 Other Specific Dependency Rules
 1. **Legislative Budgets (LB)**: May only depend upon Legislative Articles (LA) and Constitutional Articles (CA). This directionality is not reciprocal. They may not depend upon Schedules (SCH) or other Legislative Budgets (LB).  
 2. **Legislative Articles (LA)**: May only depend upon other Legislative Articles (LA), Constitutional Articles (CA), and Schedules (SCH).  
 3. **Legal Codes (CO)**: May only depend upon Constitutional Articles (CA), Legislative Articles (LA), other Legal Codes (CO) and Schedules (SCH). They may not depend upon budgetary instruments such as Legislative Budgets (LB) or Obligation Papers (OP).  
 4. **Obligation Papers (OP)**: May only depend upon Constitutional Articles (CA), Legislative Articles (LA), Legal Codes (CO). They may not depend upon Schedules (SCH), Legislative Budgets (LB) or other Obligation Papers (OP).  
-5. **Forms (FO)**: May depend upon any legislative instrument, as they are administrative only and are non-binding.  
-6. **Legislative Challenges (LC)**: Shall have no dependencies. As reforming, amending, or decommissioning instruments, LCs stand independent and may target any class of legislation.  
-7. **Emergency Instruments (EL and EB)**: May only depend upon Constitutional Articles (CA). They must not depend upon any peacetime legislative instruments. No derivative legislative instruments may be created from an emergency instrument, as they carry an absolute, time-bound expiration.  
-8. **Cultural Instruments (CULT)**: Federal cultural items and symbols are immutable and serve ceremonial, educational, or identity purposes only. They are not binding legislative instruments and carry no dependencies. They may only be terminated by a seventy-five percent (75%) citizen referendum held simultaneously in all Ridings of the Hudson Republic.
+5. **Legislative Challenges (LC)**: Shall have no dependencies. As reforming, amending, or decommissioning instruments, LCs stand independent and may target any class of legislation.  
+6. **Emergency Instruments (EL and EB)**: May only depend upon Constitutional Articles (CA). They must not depend upon any peacetime legislative instruments. No derivative legislative instruments may be created from an emergency instrument, as they carry an absolute, time-bound expiration.  
+7. **Cultural Instruments (CULT)**: Federal cultural items and symbols are immutable and serve ceremonial, educational, or identity purposes only. They are not binding legislative instruments and carry no dependencies. They may only be terminated by a seventy-five percent (75%) citizen referendum held simultaneously in all Ridings of the Hudson Republic.
 
 ## Section 7 — Purpose and Effect
 This Act ensures machine-parseable legislative history, clear distinction between peacetime and emergency law, total transparency, auditable archival integrity, and a logically consistent dependency hierarchy that preserves constitutional supremacy.

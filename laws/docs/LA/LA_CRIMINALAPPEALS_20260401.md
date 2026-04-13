@@ -11,7 +11,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-This Act establishes the appeals process, timelines, fees, mistrial rules, speedy trial protections, and special procedures for capital cases in the Hudson Republic. It ensures due process while maintaining strict accountability and finality for serious offenses.
+This Act establishes the appeals process, timelines, mistrial rules, speedy trial protections, and special procedures for capital cases in the Hudson Republic. It ensures due process while maintaining strict accountability and finality for serious offenses. All appeal fees and validity periods are set out in the **[Criminal Appeal Fees Schedule](../SCH/SCH_CRIMEAPPEALFEES_20260413.md)**.
 
 ---
 
@@ -24,10 +24,7 @@ Appeals operate on a three-strike model:
 ---
 
 ## Section 2 — Appeals Fees
-- Appeal 1 (Local Court): 1 troy ounce silver.  
-- Appeal 2 (Superior Court): 1/8 troy ounce gold.  
-- Appeal 3 (Supreme Court): 1 troy ounce gold + Superior Court fee.  
-- Stay of Execution (“Call of Mercy”): 1 troy ounce silver.
+All appeal fees and validity periods are set out in the **[Criminal Appeal Fees Schedule](../SCH/SCH_CRIMEAPPEALFEES_20260413.md)**.
 
 ---
 
@@ -85,6 +82,7 @@ Dependencies (in alphabetical order)
 * **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
 * **[CA_JUDICIALCOURTS_20260401](../CA/CA_JUDICIALCOURTS_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
+* **[SCH_CRIMEAPPEALFEES_20260413](../SCH/SCH_CRIMEAPPEALFEES_20260413.md)**  
 
 ---
 
