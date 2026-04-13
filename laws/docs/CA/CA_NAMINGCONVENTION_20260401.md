@@ -65,7 +65,11 @@ The Republic establishes ten classes of legislative instrument. Constitutional A
 
 ## Section 6 — Dependency Handling and Reference Rules
 
-To preserve constitutional hierarchy and legislative integrity, every instrument must comply with the following dependency rules. No instrument may depend upon a lower-authority instrument in a manner that would undermine its own enactment threshold.
+To preserve constitutional hierarchy and legislative integrity, every instrument must comply with the following dependency rules. No instrument may depend upon a lower-authority instrument in a manner that would undermine its own enactment threshold.__
+
+**Legislative Framework Dependency Tree**
+
+![Dependency Tree](../../images/CA/CA_NAMINGCONVENTION_20260401/HUDSON_DEPENDENCYTREE.png)
 
 ### 6.1 General Dependency Tree Logic
 - Instruments requiring **three readings** (CA class) may only depend upon other instruments that also require three readings.  

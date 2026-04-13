@@ -17,7 +17,7 @@
 
 ## Preamble
 
-This schedule sets out the standardized fees, conditions, renewal rules, and administrative requirements for all immigration programs in the Hudson Republic. It enforces a controlled, merit-based system that prioritizes national security, economic sustainability, cultural cohesion, and citizen sovereignty. All fees, fines, and penalties are expressed in HCB8 (Hudson Copper Bullion units) and must be paid exclusively in physical bullion. This schedule is purely referential and derives its full authority from the **[Immigration and Citizenship Act](../LA/LA_IMMIGRATION_20260401)**.
+This schedule sets out the standardized fees, conditions, renewal rules, and administrative requirements for all immigration programs in the Hudson Republic. It enforces a controlled, merit-based system that prioritizes national security, economic sustainability, cultural cohesion, and citizen sovereignty. All fees, fines, and penalties are expressed in HCB8 (Hudson Copper Bullion units) and must be paid exclusively in physical bullion. This schedule is purely referential and derives its full authority from the **[Immigration and Citizenship Act](../LA/LA_IMMIGRATION_20260401.md)**.
 
 ---
 
