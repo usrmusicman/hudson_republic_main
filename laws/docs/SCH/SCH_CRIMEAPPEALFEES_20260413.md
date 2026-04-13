@@ -54,16 +54,6 @@ This schedule sets out the standardized administrative fees for criminal appeals
 
 ---
 
-## Reference Dependencies
-
-Dependencies (in alphabetical order)  
-* **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
-* **[CA_JUDICIALCOURTS_20260401](../CA/CA_JUDICIALCOURTS_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
-* **[LA_CRIMINALAPPEALS_20260401](../LA/LA_CRIMINALAPPEALS_20260401.md)**  
-
----
-
 **Original Author**:  
 
 **House Signature**:   
