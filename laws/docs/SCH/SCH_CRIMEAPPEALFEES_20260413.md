@@ -10,15 +10,16 @@
 - **Stay of Execution**: A temporary suspension of a death sentence granted only by the Riding Representative after a “Call of Mercy” hearing.  
 - **Individual's Name**: The name of the appellant or condemned individual to whom the fee applies.  
 - **Short Description**: Brief plain-language summary of the appeal type.  
-- **Crime Level**: The criminal classification level (from CA_CRIMECATEGORIZATION_20260401) associated with the case.  
-- **Amount in Bullion Beavers**: The fee expressed in the smallest unit of Bullion Beavers.  
-- **Number of Months Valid**: The duration (in months) for which the listed fee remains valid before it must be re-assessed, renewed, or expires.
+- **Crime Level**: The criminal classification level (from **[Crime Categorization Act](../CA/CA_CRIMECATEGORIZATION_20260401.md)**) associated with the case.  
+- **Amount in HCB8**: The fee expressed in Hudson Copper Bullion units (HCB8).  
+- **Number of Months Valid**: The duration (in months) for which the listed fee remains valid before it must be re-assessed, renewed, or expires.  
+- **HCB8**: The smallest unit of Hudson Copper Bullion (1/8 troy ounce of 95% pure copper).
 
 ---
 
 ## Preamble
 
-This schedule sets out the standardized administrative fees for criminal appeals and stays of execution in the Hudson Republic. These fees support the three-strike appeals model while maintaining strict accountability and sound-money integrity. All amounts are expressed in Bullion Beavers and include a validity period for auditability and transparency. This schedule is purely referential and derives its authority from its parent instrument, the Criminal Appeals and Procedures Act.
+This schedule sets out the standardized administrative fees for criminal appeals and stays of execution in the Hudson Republic. These fees support the three-strike appeals model while maintaining strict accountability and sound-money integrity. All amounts are expressed in HCB8 and include a validity period for auditability and transparency. This schedule is purely referential and derives its authority from its parent instrument, the Criminal Appeals and Procedures Act.
 
 ---
 
@@ -30,7 +31,7 @@ This schedule sets out the standardized administrative fees for criminal appeals
 **Individual's Name**: This is the name of the appellant or condemned individual.  
 **Short Description**: This is a brief description of the appeal type.  
 **Crime Level**: This is the criminal classification level associated with the case.  
-**Amount in Bullion Beavers**: This is the amount expressed in the smallest unit of Bullion Beavers.  
+**Amount in HCB8**: This is the amount expressed in Hudson Copper Bullion units (HCB8).  
 **Number of Months Valid**: This is the number of months for which the listed fee remains valid before it must be re-assessed, renewed, or expires.
 
 ---
@@ -39,12 +40,12 @@ This schedule sets out the standardized administrative fees for criminal appeals
 
 **Criminal Appeal Fees**
 
-| Appeal Fee            | Individual's Name   | Short Description                          | Crime Level | Amount in Bullion Beavers | Number of Months Valid |
-|-----------------------|---------------------|--------------------------------------------|-------------|---------------------------|------------------------|
-| **1st Appeal**        | name                | Initial appeal in Riding Court             | level       | 512                       | 12                     |
-| **2nd Appeal**        | name                | Appeal in Superior Court                   | level       | 4,096                     | 12                     |
-| **3rd Appeal**        | name                | Final appeal in Supreme Court              | level       | 32,768                    | 12                     |
-| **Stay of Execution** | name                | Temporary suspension of death sentence     | level       | 512                       | 3                      |
+| Appeal Fee            | Individual's Name   | Short Description                          | Crime Level | Amount in HCB8 | Number of Months Valid |
+|-----------------------|---------------------|--------------------------------------------|-------------|----------------|------------------------|
+| **1st Appeal**        | name                | short_description                          | level       | 512            | 12                     |
+| **2nd Appeal**        | name                | short_description                          | level       | 4,096          | 12                     |
+| **3rd Appeal**        | name                | short_description                          | level       | 32,768         | 12                     |
+| **Stay of Execution** | name                | short_description                          | level       | 512            | 3                      |
 
 ---
 

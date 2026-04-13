@@ -17,7 +17,7 @@
 
 ## Preamble
 
-This schedule sets out the standardized fees, conditions, renewal rules, and administrative requirements for all immigration programs in the Hudson Republic. It enforces a controlled, merit-based system that prioritizes national security, economic sustainability, cultural cohesion, and citizen sovereignty. All fees, fines, and penalties are expressed in HCB8 (Hudson Copper Bullion units) and must be paid exclusively in physical bullion. This schedule is purely referential and derives its full authority from the Immigration and Citizenship Act (LA_IMMIGRATION_20260401).
+This schedule sets out the standardized fees, conditions, renewal rules, and administrative requirements for all immigration programs in the Hudson Republic. It enforces a controlled, merit-based system that prioritizes national security, economic sustainability, cultural cohesion, and citizen sovereignty. All fees, fines, and penalties are expressed in HCB8 (Hudson Copper Bullion units) and must be paid exclusively in physical bullion. This schedule is purely referential and derives its full authority from the **[Immigration and Citizenship Act](../LA/LA_IMMIGRATION_20260401)**.
 
 ---
 
@@ -42,9 +42,9 @@ This table governs the final stage for Residents seeking full citizenship.
 
 | Immigration Status | Program Type | Issuance Date (YYYYMMDD) | Expiry Date (YYYYMMDD) | Maximum Length of Stay (months) | Application Fee (HCB8) | Renewal Period (months) | Renewal Fee (HCB8) | Conditions of Stay | Fine for Non-Compliance (per count) (HCB8) | Ban Period (months) |
 |--------------------|--------------|--------------------------|------------------------|---------------------------------|------------------------|-------------------------|--------------------|--------------------|--------------------------------------------|---------------------|
-| guest              | guest        | YYYYMMDD                 | YYYYMMDD               | 24                              | 512                    | 3                       | 512                | No domestic employment; remote work only | 512                                        | 60                  |
-| resident           | farm         | YYYYMMDD                 | YYYYMMDD               | 6                               | 4,096                  | 12                      | 4,096              | Must be sponsored; 50% local hiring rule | 4,096 (company) / 512 (individual)        | 60                  |
-| resident           | arc          | YYYYMMDD                 | YYYYMMDD               | 120                             | 32,768                 | 0                       | 0                  | No land ownership; no government assistance | 512                                        | 60                  |
+| guest              | guest        | YYYYMMDD                 | YYYYMMDD               | 24                              | 512                    | 3                       | 512                | short_description  | 512                                        | 60                  |
+| resident           | farm         | YYYYMMDD                 | YYYYMMDD               | 6                               | 4,096                  | 12                      | 4,096              | short_description  | 4,096                                      | 60                  |
+| resident           | arc          | YYYYMMDD                 | YYYYMMDD               | 120                             | 32,768                 | 0                       | 0                  | short_description  | 512                                        | 60                  |
 
 **Pathway to Citizenship (PTC) Table**
 

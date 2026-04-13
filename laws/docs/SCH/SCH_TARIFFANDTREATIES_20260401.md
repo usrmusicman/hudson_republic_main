@@ -31,13 +31,14 @@ All capitalized terms used in this Schedule shall be interpreted in accordance w
   - **none**: No exemptions apply.
 
 - **Value in Fiat**: The declared value of the imported good in the exporter’s fiat currency prior to conversion.  
-- **Value in Bullion Beavers**: The equivalent value after conversion to Hudson Bullion Beavers using the formulas in **[LA_BULLIONSTANDARDS_20260401](../CA/LA_BULLIONSTANDARDS_20260401.md)**.  
-- **Bitshift Adjustment**: The binary right-shift operation applied to calculate the tariff rate.
+- **Value in Bullion Beavers**: The equivalent value after conversion to Hudson Bullion Beavers using the formulas in **[LA_BULLIONSTANDARDS_20260401](../LA/LA_BULLIONSTANDARDS_20260401.md)**.  
+- **Bitshift Adjustment**: The binary right-shift operation applied to calculate the tariff rate.  
+- **HCB8**: The smallest unit of Hudson Copper Bullion (1/8 troy ounce of 95% pure copper).
 
 ---
 
 ## Preamble
-This Schedule provides the definitive, machine-readable tariff rates and treaty framework for all imports and exports under the authority of the **[Borders and Duties Act](../CA/LA_BORDERSDUTIES_20260401.md)**. It establishes standardized product classifications, lifecycle stages, treaty categories, exemptions, and conversion protocols to ensure transparency, predictability, and consistency in the application of tariffs. All valuations and payments shall be conducted exclusively in physical bullion in accordance with the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)** and the **[Banking and Reserves Act](../CA/CA_BANKANDRESERVE_20260401.md)**. This Schedule is purely referential and derives its authority from its parent instrument.
+This Schedule provides the definitive, machine-readable tariff rates and treaty framework for all imports and exports under the authority of the **[Borders and Duties Act](../LA/LA_BORDERSDUTIES_20260401.md)**. It establishes standardized product classifications, lifecycle stages, treaty categories, exemptions, and conversion protocols to ensure transparency, predictability, and consistency in the application of tariffs. All valuations and payments shall be conducted exclusively in physical bullion in accordance with the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)** and the **[Banking and Reserves Act](../CA/CA_BANKANDRESERVE_20260401.md)**. This Schedule is purely referential and derives its authority from its parent instrument.
 
 ---
 
@@ -51,16 +52,16 @@ This Schedule provides the definitive, machine-readable tariff rates and treaty 
 **Treaty State**: Current operational status of the treaty membership (affects the entire membership and all covered items).  
 **Exemptions**: Any tariff relief granted under the selected treaty.  
 **Value in Fiat**: Declared value in exporter’s currency (amount, currency).  
-**Value in Bullion Beavers**: Converted value using **[LA_BULLIONSTANDARDS_20260401](../CA/LA_BULLIONSTANDARDS_20260401.md)** formulas.  
+**Value in Bullion Beavers**: Converted value using **[LA_BULLIONSTANDARDS_20260401](../LA/LA_BULLIONSTANDARDS_20260401.md)** formulas.  
 **Bitshift Adjustment**: Binary right-shift used to calculate the tariff.  
 **Percentage (%)**: Equivalent percentage rate.  
 **Weight (Per Unit)**: Weight of the item for assessment purposes.
 
-| Product or Material | Lifecycle State | Treaties   | Treaty State | Exemptions | Value in Fiat (Currency Type) | Value in Bullion Beavers | Bitshift Adjustment | Percentage | Weight (Per Unit) |
-|---------------------|-----------------|------------|--------------|------------|-------------------------------|--------------------------|---------------------|------------|-------------------|
-| Copper              | all             | standard   | active       | standard   | amount                        | amount                   | >>2                 | 25%        | 1 oz              |
-| Maple Syrup         | complete        | standard   | active       | standard   | amount                        | amount                   | >>3                 | 12.5%      | 100 g             |
-| Lumber              | raw             | none       | active       | none       | amount                        | amount                   | >>3                 | 12.5%      | 1 kg              |
+| Product or Material | Lifecycle State | Treaties   | Treaty State | Exemptions | Value in Fiat (Currency Type) | Value in Bullion Beavers (HCB8) | Bitshift Adjustment | Percentage | Weight (Per Unit) |
+|---------------------|-----------------|------------|--------------|------------|-------------------------------|---------------------------------|---------------------|------------|-------------------|
+| Copper              | all             | standard   | active       | standard   | amount                        | amount                          | >>2                 | 25%        | 1 oz              |
+| Maple Syrup         | complete        | standard   | active       | standard   | amount                        | amount                          | >>3                 | 12.5%      | 100 g             |
+| Lumber              | raw             | none       | active       | none       | amount                        | amount                          | >>3                 | 12.5%      | 1 kg              |
 
 **Note**: Treaty State applies at the line-item level. Membership status affects the entire membership and any items covered under that treaty.
 
@@ -72,11 +73,11 @@ This Schedule provides the definitive, machine-readable tariff rates and treaty 
 **Adoption Date**: Date the National Representative signed the treaty (YYYYMMDD).  
 **Renewal Date**: Next scheduled renewal or review date (YYYYMMDD).
 
-| Treaty Name | Membership Status | Country(s) or Region(s)                  | Adoption Date (YYYYMMDD) | Renewal Date (YYYYMMDD) |
-|-------------|-------------------|------------------------------------------|--------------------------|-------------------------|
-| standard    | active            | hudson_ridings,satellite_states,adoption_candidates | 20260401                 | 20310401                |
-| nap         | review            | usa,mexico,greenland                     | tbd                      | tbd                     |
-| gtpa        | review            | uk,eu,uae,japan,korea,india              | tbd                      | tbd                     |
+| Treaty Name | Membership Status | Country(s) or Region(s)                             | Adoption Date (YYYYMMDD) | Renewal Date (YYYYMMDD) |
+|-------------|-------------------|-----------------------------------------------------|--------------------------|-------------------------|
+| standard    | active            | hudson_ridings,satellite_states,adoption_candidates | YYYYMMDD                 | YYYYMMDD                |
+| nap         | review            | usa,mexico,greenland                                | tbd                      | tbd                     |
+| gtpa        | review            | uk,eu,uae,japan,korea,india                         | tbd                      | tbd                     |
 
 **Note**: If only specific countries or regions within a treaty experience a status change, a new row shall be added for those affected parties only. All tags must use lowercase letters and underscores (_) in place of spaces.
 
