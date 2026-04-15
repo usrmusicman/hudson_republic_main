@@ -38,7 +38,7 @@ All capitalized terms used in this Schedule shall be interpreted in accordance w
 ---
 
 ## Preamble
-This Schedule provides the definitive, machine-readable tariff rates and treaty framework for all imports and exports under the authority of the **[Borders and Duties Act](../LA/LA_BORDERSDUTIES_20260401.md)**. It establishes standardized product classifications, lifecycle stages, treaty categories, exemptions, and conversion protocols to ensure transparency, predictability, and consistency in the application of tariffs. All valuations and payments shall be conducted exclusively in physical bullion in accordance with the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)** and the **[Banking and Reserves Act](../CA/CA_BANKANDRESERVE_20260401.md)**. This Schedule is purely referential and derives its authority from its parent instrument.
+This Schedule provides the definitive, machine-readable tariff rates and treaty framework for all imports and exports under the authority of the **[Borders and Duties Act](../LA/LA_BORDERSDUTIES_20260401.md)**. It establishes standardized product classifications, lifecycle stages, treaty categories, exemptions, and conversion protocols to ensure transparency, predictability, and consistency in the application of tariffs. All valuations and payments shall be conducted exclusively in physical bullion in accordance with the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)**. This Schedule is purely referential and derives its authority from its parent instrument.
 
 ---
 

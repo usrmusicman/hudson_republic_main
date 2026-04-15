@@ -7,7 +7,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 
 - **Hudson United Guard (HUG)**: The sole national defence force of the Hudson Republic.  
 - **Sequential Mandate**: Cumulative sentencing for violations of fiduciary duty, treason, or sedition, with penalties served consecutively.  
-- **The Individual Act**: Refers to **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)** (The Individual (Sovereign) Act).  
+- **The Individual Act**: Refers to **[Legislative Document Classification and Naming Convention Act](./CA_NAMINGCONVENTION_20260401.md)** (The Individual (Sovereign) Act).  
 - **CA class**: Constitutional Articles requiring unanimous Senate verdict (12/12) on three readings for amendment.
 
 ---
@@ -36,7 +36,7 @@ The defence of the Hudson Republic is an essential federal responsibility, exerc
 ## Section 2 — Military Funding
 **2.1 Wartime Funding**: Budget shall not exceed the annual reserve ratio of total bullion holdings in the **National Holdings Vault**.  
 **2.2 Peacetime Funding**: Budget is capped at **fifty percent (50%)** of the wartime reserve ratio.  
-**2.3 Approval**: All military budgets are **LB class** (two readings in the HoC, two in the Senate). No off-budget expenditures are permitted.
+**2.3 Approval**: All military budgets are **Legislative Budgets (LB)** (two readings in the HoC, two in the Senate). No off-budget expenditures are permitted.
 
 ---
 

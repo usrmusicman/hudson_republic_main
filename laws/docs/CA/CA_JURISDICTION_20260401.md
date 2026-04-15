@@ -10,7 +10,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 - **Residual Powers**: All authorities, responsibilities, and legislative domains not explicitly granted to the federal government, which are reserved to the Ridings or the People.  
 - **Inter-Riding Dispute**: A legal or administrative conflict arising between two or more Ridings that cannot be resolved through local arbitration.  
 - **Legislative Challenge (LC)**: A formal procedural mechanism to contest the constitutionality or jurisdictional validity of an enacted instrument.  
-- **Language of Majority**: English, as defined in **[CA_GENERALADMIN_20260401](./CA_GENERALADMIN_20260401.md)**, serving as the sole official administrative and working language of the federal government.
+- **Language of Majority**: English, as defined in **[General Administration Act](./CA_GENERALADMIN_20260401.md)**, serving as the sole official administrative and working language of the federal government.
 
 ---
 
@@ -62,10 +62,8 @@ This Act defines the boundaries of authority within the Hudson Republic, establi
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
 * **[CA_GENERALADMIN_20260401](./CA_GENERALADMIN_20260401.md)**  
-* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
-* **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
-* **[CA_TERRITORIALPROVISION_20260401](./CA_TERRITORIALPROVISION_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
+* **[CA_TERRITORIALPROVISION_20260401](./CA_TERRITORIALPROVISION_20260401.md)**  
 
 ---
 

@@ -5,11 +5,11 @@
 ## Definitions
 All terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below. For convenience, the following key terms are noted:
 
-- **Age of Majority**: Nineteen (19) years, as defined in **[CA_GENERALADMIN_20260401](../CA/CA_GENERALADMIN_20260401.md)**.  
-- **ARC/FARM Certificate Holders**: Holders of an active Authorized Resident Certificate or Foreign Agricultural and Resource Management visa, as defined in **[LA_IMMIGRATION_20260401](./LA_IMMIGRATION_20260401.md)**.  
-- **Bi-election**: An election held between general elections to fill a vacancy, as defined in **[CA_ELECTIONS_20260401](../CA/CA_ELECTIONS_20260401.md)**.  
-- **HIS (Hudson Intelligence Service)**: The national intelligence and policing agency, as defined in **[CA_NATIONALSECURITY_20260401](../CA/CA_NATIONALSECURITY_20260401.md)**.  
-- **Satellite State**: A region maintaining limited affiliation with the Republic but lacking full Riding status, as defined in **[CA_TERRITORIALPROVISION_20260401](../CA/CA_TERRITORIALPROVISION_20260401.md)**.  
+- **Age of Majority**: Nineteen (19) years, as defined in **[General Administration Act](../CA/CA_GENERALADMIN_20260401.md)**.  
+- **ARC/FARM Certificate Holders**: Holders of an active Authorized Resident Certificate or Foreign Agricultural and Resource Management visa, as defined in **[Immigration and Citizenship Act](./LA_IMMIGRATION_20260401.md)**.  
+- **Bi-election**: An election held between general elections to fill a vacancy, as defined in **[Elections Act](../CA/CA_ELECTIONS_20260401.md)**.  
+- **HIS (Hudson Intelligence Service)**: The national intelligence and policing agency, as defined in **[National Security Act](../CA/CA_NATIONALSECURITY_20260401.md)**.  
+- **Satellite State**: A region maintaining limited affiliation with the Republic but lacking full Riding status, as defined in **[Territorial Provisioning and Domain Administration Act](../CA/CA_TERRITORIALPROVISION_20260401.md)**.  
 - **Subsidized Co-op Housing**: Recognized communal or state-supported housing facilities designated for citizens lacking private rental or title records.
 
 ---
@@ -56,6 +56,7 @@ Dependencies (in alphabetical order)
 * **[CA_GENERALADMIN_20260401](../CA/CA_GENERALADMIN_20260401.md)**  
 * **[CA_NATIONALSECURITY_20260401](../CA/CA_NATIONALSECURITY_20260401.md)**  
 * **[CA_TERRITORIALPROVISION_20260401](../CA/CA_TERRITORIALPROVISION_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
 * **[LA_IMMIGRATION_20260401](./LA_IMMIGRATION_20260401.md)**  
 
 ---

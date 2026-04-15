@@ -13,7 +13,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 
 ## Preamble
 
-Elections in the Hudson Republic are sacred exercises of individual sovereignty, conducted with uncompromising integrity to prevent capture, fraud, or external influence. This Act ensures transparent, verifiable, in-person voting; bullion-exclusive financing aligned with sound-money principles (pursuant to the **[Legal Tender Act](./CA_LEGALTENDER_20260401.md)** and the **[Banking and Reserves Act](./CA_BANKANDRESERVE_20260401.md)**); strict personal accountability for interference; and mechanisms that prioritize citizen trust over convenience or partisan advantage. All electoral processes shall be fully auditable, continuously video-monitored, and subject to freedom-of-information access.
+Elections in the Hudson Republic are sacred exercises of individual sovereignty, conducted with uncompromising integrity to prevent capture, fraud, or external influence. This Act ensures transparent, verifiable, in-person voting; bullion-exclusive financing aligned with sound-money principles (pursuant to the **[Legal Tender Act](./CA_LEGALTENDER_20260401.md)**); strict personal accountability for interference; and mechanisms that prioritize citizen trust over convenience or partisan advantage. All electoral processes shall be fully auditable, continuously video-monitored, and subject to freedom-of-information access.
 
 ---
 
@@ -22,7 +22,7 @@ Elections in the Hudson Republic are sacred exercises of individual sovereignty,
 **1.1** General elections for all offices shall be held every five (5) years.  
 **1.2** Campaign period: Minimum sixty (60) days, maximum ninety (90) days prior to election day.  
 **1.3** Funding: Donation-based only, from Hudson Republic-registered businesses or residents. Non-reimbursable.  
-**1.4 Bullion Mandate**: All funding, donations, and fees must be settled exclusively in physical bullion per the **[Legal Tender Act](./CA_LEGALTENDER_20260401.md)** and must adhere to the **[Banking and Reserves Act](./CA_BANKANDRESERVE_20260401.md)**.  
+**1.4 Bullion Mandate**: All funding, donations, and fees must be settled exclusively in physical bullion per the **[Legal Tender Act](./CA_LEGALTENDER_20260401.md)**.  
 **1.5 Timing**: Election day shall not fall on a weekend or statutory holiday.  
 **1.6 Penalties**: Election interference carries a minimum sentence of five (5) years imprisonment and a fine of **ten (10) troy ounces of gold** per count.
 
@@ -147,10 +147,10 @@ Elections in the Hudson Republic are sacred exercises of individual sovereignty,
 ## Reference Dependencies
 
 Dependencies (in alphabetical order)  
-* **[CA_BANKANDRESERVE_20260401](./CA_BANKANDRESERVE_20260401.md)**  
 * **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
 * **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
-* **[SCH_ELECTIONSADMIN_20260401](../SCH/SCH_ELECTIONSADMIN_20260401.md)**
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
+* **[SCH_ELECTIONSADMIN_20260401](../SCH/SCH_ELECTIONSADMIN_20260401.md)**  
 
 ---
 

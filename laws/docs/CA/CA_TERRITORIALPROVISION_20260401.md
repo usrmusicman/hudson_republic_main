@@ -8,7 +8,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 - **Riding**: A primary territorial and electoral division of the Hudson Republic, defined by land area rather than population, with each Riding approximating 35,000 to 50,000 square kilometers.  
 - **Array**: A contiguous block of exactly twelve (12) Ridings, the minimum territorial unit for secession or full accession.  
 - **Subzone**: A non-political administrative subdivision within a Riding used solely for logistics, postal, utility, emergency services, or internal mapping purposes.  
-- **Satellite State**: A region that maintains a loose, non-voting affiliation with the Hudson Republic, as defined in this Act and cross-referenced in **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**.
+- **Satellite State**: A region that maintains a loose, non-voting affiliation with the Hudson Republic, as defined in this Act and cross-referenced in **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**.
 
 ---
 

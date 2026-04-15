@@ -75,8 +75,8 @@ The rights, liberties, and duties of the Individual are the supreme foundation o
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
+* **[CA_JUDICIALCOURTS_20260401](./CA_JUDICIALCOURTS_20260401.md)**  
 * **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
-* **[CA_JUDICIALCOURTS_20260401](./CA_JUDICIALCOURTS_20260401.md)**
 
 ---
 

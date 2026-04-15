@@ -129,6 +129,7 @@ Permitted reserve ratios are restricted to the following discrete bitshift steps
 
 Dependencies (in alphabetical order)  
 * **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 * **[SCH_BANKADMIN_20260412](../SCH/SCH_BANKADMIN_20260412.md)**  
 
 ---

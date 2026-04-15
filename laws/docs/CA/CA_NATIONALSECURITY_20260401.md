@@ -10,7 +10,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 - **Hudson Port Authority (HPA)**: Federal agency responsible for port security, cargo inspection, and tariff collection.  
 - **Operations General**: Senior operational commander with authority over multi-jurisdictional security actions.  
 - **Sequential Mandate**: Cumulative sentencing for violations of fiduciary duty, treason, or sedition.  
-- **The Individual (Sovereign) Act**: Refers to **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**.
+- **The Individual (Sovereign) Act**: Refers to **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**.
 
 ---
 

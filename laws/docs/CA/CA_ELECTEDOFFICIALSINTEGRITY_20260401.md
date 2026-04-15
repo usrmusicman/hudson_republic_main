@@ -7,7 +7,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 
 - **Strict Blind Trust**: A trust in which the official retains no control, knowledge, or influence over the management or disposition of assets, managed by an independent trustee approved by the Judiciary Audit Office.  
 - **Sequential Mandate**: Cumulative sentencing for violations of fiduciary duty, abuse of power, or sedition, with penalties served consecutively.  
-- **The Individual (Sovereign) Act**: Refers to **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**.  
+- **The Individual (Sovereign) Act**: Refers to **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**.  
 - **Legislative Challenge (LC)**: A formal challenge to legislation or budgets under the rules established in the **[Legislative Framework Act](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**.
 
 ---
@@ -148,9 +148,9 @@ The HoC Mediator, Senate Mediator, and volunteer Supreme Court Justice for Legis
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
-* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
-* **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
 * **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
+* **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 

@@ -29,7 +29,7 @@ This framework establishes three co-equal branches—the **House of Constituents
 - **LB (Legislative Budget)**: Two separate readings in distinct sessions.  
 - **OP (Obligation Paper)**: One reading.  
 - **CO (Legal Code)**: One reading.  
-- **SCH (Schedule)**: See Section 6.2 of **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)** for detailed rules.  
+- **SCH (Schedule)**: See Section 6.2 of **[Legislative Document Classification and Naming Convention Act](./CA_NAMINGCONVENTION_20260401.md)** for detailed rules.  
 - **CA (Constitutional Article)**: Three separate readings with unanimous approval (100%) in the HoC.
 
 **1.3 House Clear Majority**: Requires a sixty percent (60%) majority of the active voting pool to pass each reading, except for Constitutional Articles which require unanimous approval (100%).  
@@ -39,7 +39,7 @@ This framework establishes three co-equal branches—the **House of Constituents
 ### HoC Mediator
 **1.6** The HoC Mediator is the neutral procedural officer of the House of Constituents.  
 - Elected by a sixty percent (60%) vote of all sitting Riding Representatives, ninety (90) days after each general election.  
-- Must meet the same general eligibility criteria as all other elected officials (see **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**).  
+- Must meet the same general eligibility criteria as all other elected officials (see **[Elected Officials and Integrity Act](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**).  
 - At every reading and at the final rendering stage, the HoC Mediator’s sole duty is to receive the legislation exactly as passed and transmit it, unchanged, to the next stage or to the Senate.  
 - The HoC Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason under CO_TREASON_20260401.
 
@@ -60,7 +60,7 @@ This framework establishes three co-equal branches—the **House of Constituents
 - **LB (Legislative Budget)**: Two separate readings.  
 - **OP (Obligation Paper)**: One reading.  
 - **CO (Legal Code)**: One reading.  
-- **SCH (Schedule)**: See Section 6.2 of **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)** for detailed rules.  
+- **SCH (Schedule)**: See Section 6.2 of **[Legislative Document Classification and Naming Convention Act](./CA_NAMINGCONVENTION_20260401.md)** for detailed rules.  
 - **LC (Legislative Challenge)**: Senate applies the threshold required by the challenged instrument.  
 - **EL / EB (Emergency Legislation / Emergency Budget)**: Originated and adjudicated exclusively by the Senate. Requires **one reading**.  
 - **CA (Constitutional Article)**: Three separate readings with a unanimous verdict (12/12) at each stage.
@@ -107,9 +107,9 @@ This framework establishes three co-equal branches—the **House of Constituents
 
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
+* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
 * **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
-* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
 
 **Original Author**: 
 
