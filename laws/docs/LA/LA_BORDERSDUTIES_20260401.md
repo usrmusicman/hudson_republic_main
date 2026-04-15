@@ -49,6 +49,14 @@ This Act governs all entry, inspection, revenue collection, cargo handling, and 
 
 **3.2** Digital products and digital distribution (software, streaming content, electronic files, online services, and similar intangible goods) are exempt from all tariffs under this Act.
 
+**3.3** All tariffs, treaty partner statuses, and bitshift rates shall be reviewed quarterly at the conclusion of each business quarter.
+
+**3.4** Treaty partner statuses may be established, modified, or revoked at any time as necessary to preserve the trade interests and economic sovereignty of the Hudson Republic.
+
+**3.5** Any modifications to tariffs during a declared emergency shall be authorized exclusively through Emergency Legislation (EL) and shall not be incorporated into the **[Tariff and Treaties Schedule](../SCH/SCH_TARIFFANDTREATIES_20260401.md)**.
+
+**3.6** The National Representative shall have sole authority to adjust tariffs, treaty partner statuses, and bitshift rates for a period not exceeding one business quarter (three months). Upon expiration of this period, the Senate shall review the adjustments. If the Senate determines that the adjustments are not in the best interests of the Republic, the default Senate-approved tariffs, treaty partner statuses, and bitshift rates shall be immediately restored. If the Senate determines that the adjustments are in the best interests of the Republic, any permanent changes must follow the full legislative amendment process for the associated schedule **[Tariff and Treaties Schedule](../SCH/SCH_TARIFFANDTREATIES_20260401.md)**, in accordance with the Legislative Article instrument type outlined in the **[Legislative Document Classification and Naming Convention Act](../CA/CA_NAMINGCONVENTION_20260401.md)**.
+
 ---
 
 ## Section 4 — Inbound and Outbound Traffic Policy
@@ -112,16 +120,17 @@ Serious contraband leading to criminal and civil charges.
 ## Reference Dependencies
 Dependencies (in alphabetical order)  
 * **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
+* **[CA_NAMINGCONVENTION_20260401](../CA/CA_NAMINGCONVENTION_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
-**Original Author**: 
+**Original Author**:
 
-**House Signature**: 
+**House Signature**:
 
-**Senate Signature**: 
+**Senate Signature**:
 
-**Executive Office Signature**: 
+**Executive Office Signature**:
 
 **FQLN**: LA_BORDERSDUTIES_20260401
