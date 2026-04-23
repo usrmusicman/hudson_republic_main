@@ -2,6 +2,16 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
+
+---
+
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -57,16 +67,6 @@ The Hudson Republic is founded on the principle that taxation shall serve only t
 
 ## Section 5 — Judicial Review
 **5.1 Challenges**: Any tax measure violating the principles of this Act (including the Section 1.4 destitution prohibition) may be challenged via a **Legislative Challenge (LC)**. The **Superior Court** holds original jurisdiction, with the **Supreme Court** holding final appellate jurisdiction.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
-
-Dependencies
-* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 

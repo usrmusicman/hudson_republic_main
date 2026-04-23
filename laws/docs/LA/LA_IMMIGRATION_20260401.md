@@ -2,6 +2,17 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
+* **[SCH_IMMIGRATIONAPP_20260413](../SCH/SCH_IMMIGRATIONAPP_20260413.md)**  
+
+---
+
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -81,17 +92,6 @@ All PTC screening, fees, examination requirements, and timelines are set out in 
 * **Part-time positions** are reserved **exclusively** for Hudson Citizens; no FARM visa holders permitted.  
 
 All FARM-specific fees, penalties, and compliance rules are set out in the **[Immigration Application Schedule](../SCH/SCH_IMMIGRATIONAPP_20260413.md)**.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
-
-Dependencies
-* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
-* **[SCH_IMMIGRATIONAPP_20260413](../SCH/SCH_IMMIGRATIONAPP_20260413.md)**  
 
 ---
 

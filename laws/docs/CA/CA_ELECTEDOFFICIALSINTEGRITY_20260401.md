@@ -2,6 +2,17 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
+* **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
+
+---
+
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -143,17 +154,6 @@ The HoC Mediator, Senate Mediator, and volunteer Supreme Court Justice for Legis
 **9.2 Absolute Personal Responsibility**: The final legislative text must be the product of the official’s personal review. Delegation of substantive intent is strictly prohibited.  
 **9.3 Omnibus Legislation Prohibition**: Bundling unrelated subjects into one instrument is a high misdemeanor.  
 **9.4 Plain Language Requirement**: All legislation must be drafted in clear, plain language comprehensible to the average citizen. Legalese designed to obscure meaning is prohibited.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** can be listed here.
-
-Dependencies
-* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
-* **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 

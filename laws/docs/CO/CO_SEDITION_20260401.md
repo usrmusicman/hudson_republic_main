@@ -2,6 +2,17 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)**, **Legislative Articles (LA)**, **Legislative Codes (CO)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
+* **[LA_CRIMINALAPPEALS_20260401](../LA/LA_CRIMINALAPPEALS_20260401.md)**  
+
+---
+
 ## Definitions
 All capitalized terms used in this Code shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -61,17 +72,6 @@ Failure to comply with restitution or prison labour constitutes a separate offen
 
 ## Conflicts
 This Code may overlap with **[Treason (Criminal) Code](./CO_TREASON_20260401.md)**. Prosecutors shall charge the most serious applicable offense, with sentencing governed by the higher classification and the Sequential Mandate.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Legislative Codes (CO)** can be listed here.
-
-Dependencies
-* **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
-* **[LA_CRIMINALAPPEALS_20260401](../LA/LA_CRIMINALAPPEALS_20260401.md)**  
 
 ---
 

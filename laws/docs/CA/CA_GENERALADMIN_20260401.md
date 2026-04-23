@@ -3,6 +3,18 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
+* **[CA_ELECTIONS_20260401](./CA_ELECTIONS_20260401.md)**  
+* **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
+
+---
+
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -59,18 +71,6 @@ This Act establishes uniform, mandatory standards for eligibility, security, rec
 **4.2 Breaches**: Violation of clearance protocols or unauthorized disclosure of protected information constitutes a material breach of fiduciary duty.  
 * **Consequences**: Immediate termination, permanent revocation of clearance, and criminal prosecution under the **Sequential Mandate** (cumulative sentencing up to life imprisonment).  
 **4.3 Verification**: On-boarding for all positions includes final verification of compliance with this Act, the **[Elected Officials and Integrity Act](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**, and the **[Elections Act](./CA_ELECTIONS_20260401.md)**.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** can be listed here.
-
-Dependencies
-* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
-* **[CA_ELECTIONS_20260401](./CA_ELECTIONS_20260401.md)**  
-* **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 

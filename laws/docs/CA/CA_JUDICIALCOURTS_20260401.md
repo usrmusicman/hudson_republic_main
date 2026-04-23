@@ -2,6 +2,18 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
+* **[CA_ELECTIONS_20260401](./CA_ELECTIONS_20260401.md)**  
+* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
+
+---
+
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -62,18 +74,6 @@ Appeals follow a three-strike model unless elevated directly to the Supreme Cour
 **5.1** The Republic maintains **no** separate mental-health, family, or administrative tribunals.  
 **5.2** All matters are heard within the general court hierarchy.  
 **5.3** Judges and juries are assigned based on demonstrated expertise relevant to the specific case.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** can be listed here.
-
-Dependencies
-* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
-* **[CA_ELECTIONS_20260401](./CA_ELECTIONS_20260401.md)**  
-* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 

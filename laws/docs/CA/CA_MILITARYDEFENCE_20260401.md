@@ -2,6 +2,15 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
+
+---
+
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -81,15 +90,6 @@ The defence of the Hudson Republic is an essential federal responsibility, exerc
 **6.1 Mandatory Refusal**: Every member of the HUG has the explicit **duty** to refuse any order that violates the Constitution or **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**.  
 **6.2 Protected Conduct**: Refusal of an unlawful order cannot be grounds for discipline or prosecution.  
 **6.3 Anti-Retaliation**: Any attempt to punish a member for exercising stand-down authority constitutes **sedition or treason**.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** can be listed here.
-
-Dependencies
-* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 

@@ -2,6 +2,18 @@
 
 ---
 
+## Affected Dependencies
+List any other dependencies (in alphabetical order) that may need to be challenged alongside this one. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+If more than one is listed then it will need to be determined if it needs to be amended or removed.  
+All legislative instruments are accepted as dependencies.
+
+Dependencies
+* **[CA_EXAMPLE4_20260401](/path/to/legislative/instrument/CA_EXAMPLE4_20260401.md)** | [amend|remove]
+* **[LA_EXAMPLE1_20260401](/path/to/legislative/instrument/LA_EXAMPLE1_20260401.md)** | [amend|remove]
+* **[LB_EXAMPLE2_20260401](/path/to/legislative/instrument/LB_EXAMPLE2_20260401.md)** | [amend|remove]
+
+---
+
 ## Definitions
 List any ambiguous terms with definitions here. If you must use links external to the repository, please use the following syntax "EXTERNAL LINK: protocol://link/to/your/external/content or link/to/your/external/content" (without quotes).
 
@@ -55,18 +67,6 @@ This is the legislation that is being challenged and why.
 		+ etc...
 	- etc...
 * Final summary for the Senate's deliberation
-
----
-
-## Affected Dependencies
-List any other dependencies (in alphabetical order) that may need to be challenged alongside this one. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-If more than one is listed then it will need to be determined if it needs to be amended or removed.  
-All legislative instruments are accepted as dependencies.
-
-Dependencies
-* **[CA_EXAMPLE4_20260401](/path/to/legislative/instrument/CA_EXAMPLE4_20260401.md)** | [amend|remove]
-* **[LA_EXAMPLE1_20260401](/path/to/legislative/instrument/LA_EXAMPLE1_20260401.md)** | [amend|remove]
-* **[LB_EXAMPLE2_20260401](/path/to/legislative/instrument/LB_EXAMPLE2_20260401.md)** | [amend|remove]
 
 ---
 

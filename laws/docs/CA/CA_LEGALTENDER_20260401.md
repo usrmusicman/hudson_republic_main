@@ -2,6 +2,15 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
+
+---
+
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -50,15 +59,6 @@ All bullion used as legal tender or held in reserves shall be subject to verific
 
 ## Section 5 — Prohibited Practices
 No person or entity may debase, clip, shave, plate, or otherwise physically alter bullion in a manner that misrepresents its weight or purity. No person or entity shall create, issue, or circulate any paper, digital, or non-bullion instrument that purports to function as currency or credit of the Hudson Republic without express authorization. Violations constitute fraud and are punishable under the Criminal Code of the Hudson Republic.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** can be listed here.
-
-Dependencies
-* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 

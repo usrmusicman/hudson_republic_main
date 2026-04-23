@@ -2,6 +2,16 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_JUDICIALCOURTS_20260401](./CA_JUDICIALCOURTS_20260401.md)**  
+* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
+
+---
+
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -70,16 +80,6 @@ The rights, liberties, and duties of the Individual are the supreme foundation o
 **7.1** All public officials serve as Independents and bear absolute personal liability for their actions. Corruption, bribery, fraud, or acceptance of undue influence from external entities or prohibited political organizations constitutes a material breach of the Oath of Integrity.  
 **7.2** Any such breach triggers immediate termination, revocation of office, and prosecution under the Sequential Mandate with cumulative penalties up to life imprisonment.  
 **7.3** All treaties, international contracts, and agreements are binding only after full constitutional review and may never override the rights of the Individual or the territorial sovereignty of the Ridings.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** can be listed here.
-
-Dependencies
-* **[CA_JUDICIALCOURTS_20260401](./CA_JUDICIALCOURTS_20260401.md)**  
-* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
 
 ---
 

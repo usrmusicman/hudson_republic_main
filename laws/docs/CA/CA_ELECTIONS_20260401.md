@@ -2,6 +2,18 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
+* **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
+* **[SCH_ELECTIONSADMIN_20260401](../SCH/SCH_ELECTIONSADMIN_20260401.md)**  
+
+---
+
 ## Definitions
 
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
@@ -141,18 +153,6 @@ Elections in the Hudson Republic are sacred exercises of individual sovereignty,
 * Resignation creates an immediate vacancy and triggers the election process.  
 * The official must remain in office until a successor is sworn in.  
 * Resignation of the National Representative triggers a **full General Election**.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** can be listed here.
-
-Dependencies
-* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
-* **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
-* **[SCH_ELECTIONSADMIN_20260401](../SCH/SCH_ELECTIONSADMIN_20260401.md)**  
 
 ---
 

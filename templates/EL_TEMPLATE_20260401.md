@@ -2,6 +2,17 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)** can be listed here.
+
+Dependencies
+* **[CA_EXAMPLE1_20260401](path/to/legislative/instrument/CA_EXAMPLE1_20260401.md)**
+* **[EL_EXAMPLE2_20260401](path/to/legislative/instrument/EL_EXAMPLE2_20260401.md)**
+* **[EL_EXAMPLE4_20260401](path/to/legislative/instrument/EL_EXAMPLE4_20260401.md)**
+
+---
+
 ## Definitions
 List any ambiguous terms with definitions here. If you must use links external to the repository, please use the following syntax "EXTERNAL LINK: protocol://link/to/your/external/content or link/to/your/external/content" (without quotes).
 
@@ -58,17 +69,6 @@ This gives the Senate the reasoning for the extension of the emergency legislati
 	- etc...
 * Estimated sunset date
 * Absolute mandated end date
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** can be listed here.
-
-Dependencies
-* **[CA_EXAMPLE1_20260401](path/to/legislative/instrument/CA_EXAMPLE1_20260401.md)**
-* **[EL_EXAMPLE2_20260401](path/to/legislative/instrument/EL_EXAMPLE2_20260401.md)**
-* **[EL_EXAMPLE4_20260401](path/to/legislative/instrument/EL_EXAMPLE4_20260401.md)**
 
 ---
 

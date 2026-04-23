@@ -2,6 +2,20 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_ELECTIONS_20260401](../CA/CA_ELECTIONS_20260401.md)**  
+* **[CA_GENERALADMIN_20260401](../CA/CA_GENERALADMIN_20260401.md)**  
+* **[CA_NATIONALSECURITY_20260401](../CA/CA_NATIONALSECURITY_20260401.md)**  
+* **[CA_TERRITORIALPROVISION_20260401](../CA/CA_TERRITORIALPROVISION_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
+* **[LA_IMMIGRATION_20260401](./LA_IMMIGRATION_20260401.md)**  
+
+---
+
 ## Definitions
 All terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below. For convenience, the following key terms are noted:
 
@@ -47,20 +61,6 @@ The following categories of persons are expressly barred from voting in any elec
 
 1. **Non-Citizens**: All non-citizens, including Guests, ARC/FARM Certificate Holders, and former citizens who have renounced citizenship.  
 2. **Insufficient Residency (Satellite/Transitional)**: Any citizen who has relocated from a Satellite State or a territory undergoing adoption into the Republic and who has resided in their current standard Riding for less than one (1) continuous year.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
-
-Dependencies
-* **[CA_ELECTIONS_20260401](../CA/CA_ELECTIONS_20260401.md)**  
-* **[CA_GENERALADMIN_20260401](../CA/CA_GENERALADMIN_20260401.md)**  
-* **[CA_NATIONALSECURITY_20260401](../CA/CA_NATIONALSECURITY_20260401.md)**  
-* **[CA_TERRITORIALPROVISION_20260401](../CA/CA_TERRITORIALPROVISION_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
-* **[LA_IMMIGRATION_20260401](./LA_IMMIGRATION_20260401.md)**  
 
 ---
 

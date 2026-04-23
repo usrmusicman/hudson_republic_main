@@ -2,6 +2,17 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)**, **Legislative Articles (LA)**, **Legislative Codes (CO)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_EXAMPLE4_20260401](path/to/legislative/instrument/CA_EXAMPLE4_20260401.md)**
+* **[CO_EXAMPLE2_20260401](path/to/legislative/instrument/CO_EXAMPLE2_20260401.md)**
+* **[LA_EXAMPLE1_20260401](path/to/legislative/instrument/LA_EXAMPLE1_20260401.md)**
+
+---
+
 ## Definitions
 List any ambiguous terms with definitions here. If you must use links external to the repository, please use the following syntax "EXTERNAL LINK: protocol://link/to/your/external/content or link/to/your/external/content" (without quotes).
 
@@ -34,17 +45,6 @@ Explain the consequences of non-compliance and any punitive measures that will b
 
 ## Conflicts
 List any potential conflicts with other legislative codes.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Legislative Codes (CO)** can be listed here.
-
-Dependencies
-* **[CA_EXAMPLE4_20260401](path/to/legislative/instrument/CA_EXAMPLE4_20260401.md)**
-* **[CO_EXAMPLE2_20260401](path/to/legislative/instrument/CO_EXAMPLE2_20260401.md)**
-* **[LA_EXAMPLE1_20260401](path/to/legislative/instrument/LA_EXAMPLE1_20260401.md)**
 
 ---
 

@@ -2,6 +2,18 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Schedules (SCH)** can be listed here.
+
+Dependencies
+* **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
+* **[CA_JUDICIALCOURTS_20260401](../CA/CA_JUDICIALCOURTS_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
+* **[SCH_CRIMEAPPEALFEES_20260413](../SCH/SCH_CRIMEAPPEALFEES_20260413.md)**  
+
+---
+
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
@@ -74,18 +86,6 @@ This program is available only to informants. High-risk convicts (e.g., gang lea
 ## Section 9 — Death Penalty and Call of Mercy
 The death penalty is available only at the federal level for Level 9 offenses. Local Ridings may waive the death penalty and limit prosecutions to Level 8.  
 In death penalty cases, the condemned has one opportunity for a “Call of Mercy” hearing with the Riding Representative (or designated Local Chamber Justice). The hearing lasts no more than 10 minutes. Only the Riding Representative may grant a stay of execution. All parties must sign the final transcript at least 24 hours before execution. Failure to pay fees or file correctly results in the sentence proceeding as scheduled.
-
----
-
-## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
-
-Dependencies
-* **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
-* **[CA_JUDICIALCOURTS_20260401](../CA/CA_JUDICIALCOURTS_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
-* **[SCH_CRIMEAPPEALFEES_20260413](../SCH/SCH_CRIMEAPPEALFEES_20260413.md)**  
 
 ---
 
