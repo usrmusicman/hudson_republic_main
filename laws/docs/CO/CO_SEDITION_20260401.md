@@ -64,8 +64,11 @@ This Code may overlap with **[Treason (Criminal) Code](./CO_TREASON_20260401.md)
 
 ---
 
-## Reference Dependencies
-Dependencies (in alphabetical order)  
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Legislative Codes (CO)** can be listed here.
+
+Dependencies
 * **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
 * **[LA_CRIMINALAPPEALS_20260401](../LA/LA_CRIMINALAPPEALS_20260401.md)**  

@@ -5,57 +5,66 @@
 
 ## Verse 1
 
-There's a place we will be, a future where we're free.  
-A moment of love and grace in each other's arms.  
-The staple of the land, where neighbours lend a hand.  
-Together we're stronger without a king or command.    
+There is a place that we strive to see, a future where everyone is free, a moment of love and grace in each other’s arms.  
+Neighbours lend a hand, across this sovereign land, together we stand stronger without a king or command.  
 
-*This place I call home!*    
-*Now it's time for all of us to thrive!*
+This place of the North I call home!  
+Now it’s time for all of us to thrive!  
 
 ## Chorus
+
 **My home is the Hudson!**  
 **From the plains to the ocean!**  
 **A beautiful place that one can embrace!**  
 **Long live the Beaver Nation!**  
+
 **My home is the Hudson!**  
 **The forests to the watershed motion!**  
-**From the freshwater lakes to a shield that can't break!**  
-**Long live the Hudson!**
+**From the freshwater lakes to a shield that won’t break!**  
+**Long live the Hudson!**  
 
 ## Verse 2
 
-In our time of trial, we will see, a place where the spruce and birds sing.  
-The beauty of her vastness is the crown majesty.  
-The kingdom, the heart of liberty.  
+In our time of trial, we will see where the spruce and freedom birds sing.  
+The vastness of this land is our true crowned majesty.  
+A moment of silence for those who have fallen, let grace lift up the souls of those forgotten.  
 
-A moment of silence for the fallen.  
-May the grace lift the souls of the forgotten.  
-May we build our new home.  
+May we build our new home, may our new nation grow!!  
 
-*May we atone!* *Long live the Northern Republic!*
+## Chorus
 
-### Chorus
+**My home is the Hudson!**  
+**From the plains to the ocean!**  
+**A beautiful place that one can embrace!**  
+**Long live the Beaver Nation!**  
 
-(Repeat)
+**My home is the Hudson!**  
+**The forests to the watershed motion!**  
+**From the freshwater lakes to a shield that won’t break!**  
+**Long live the Hudson!**  
 
 ## Verse 3
 
-There's a hope where one can see the river.  
-This land is about a thousand pictures.  
-In a world of the wicked, we must stand to protect it.  
-That is the way of the Hudson.  
+There is hope where the river runs strong and clear, the people build a future that is warm and sincere.  
+In a world gone wicked, we will stand and protect it.  
+That is the way of the Hudson!  
 
-Our fathers paid for sovereign tears.  
-We sing them praises and cheers.  
-Their sweat we embrace.  
+Our fathers paid for freedom, with blood, sweat and tears.  
+We carry their courage as we build our new frontier.  
 
-*We must keep our faith!*  
-*Long live the Hudson!*  
+Their sacrifice we remember, their faith we keep alive — the lifeblood that will make our new nation thrive!!  
 
-## Final Chorus
+## Chorus
 
-(Repeat)
+**My home is the Hudson!**  
+**From the plains to the ocean!**  
+**A beautiful place that one can embrace!**  
+**Long live the Beaver Nation!**  
+
+**My home is the Hudson!**  
+**The forests to the watershed motion!**  
+**From the freshwater lakes to a shield that won’t break!**  
+**Long live the Hudson!**  
 
 ---
 **Official Record of the Hudson Republic**  

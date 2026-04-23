@@ -1,9 +1,9 @@
 # Constitutional Act Name
 
----
+--- 
 
 ## Definitions
-List any ambiguous terms with definitions here.
+List any ambiguous terms with definitions here. If you must use links external to the repository, please use the following syntax "EXTERNAL LINK: protocol://link/to/your/external/content or link/to/your/external/content" (without quotes).
 
 ---
 
@@ -22,8 +22,8 @@ These sections include examples to better explain the application of the legally
 
 ---
 
-## Reference Dependencies
-List any legislative instruments (in alphabetical order) that this one depends on using the FQLN.  
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
 Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies

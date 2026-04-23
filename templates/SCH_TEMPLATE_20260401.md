@@ -3,7 +3,7 @@
 ---
 
 ## Definitions
-List any ambiguous terms with definitions here.
+List any ambiguous terms with definitions here. If you must use links external to the repository, please use the following syntax "EXTERNAL LINK: protocol://link/to/your/external/content or link/to/your/external/content" (without quotes).
 
 ---
 

@@ -129,8 +129,11 @@ This architecture permits:
 
 All conversion examples and practical applications are illustrative only and must conform to the formulas and rounding rules set out in Sections 3 and 4.
 
-## Reference Dependencies
-Dependencies (in alphabetical order)  
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
+
+Dependencies
 * **[CA_BANKANDRESERVE_20260401](../CA/CA_BANKANDRESERVE_20260401.md)**  
 * **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  

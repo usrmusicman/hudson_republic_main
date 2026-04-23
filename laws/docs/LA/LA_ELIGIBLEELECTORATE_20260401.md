@@ -50,8 +50,11 @@ The following categories of persons are expressly barred from voting in any elec
 
 ---
 
-## Reference Dependencies
-Dependencies (in alphabetical order)  
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
+
+Dependencies
 * **[CA_ELECTIONS_20260401](../CA/CA_ELECTIONS_20260401.md)**  
 * **[CA_GENERALADMIN_20260401](../CA/CA_GENERALADMIN_20260401.md)**  
 * **[CA_NATIONALSECURITY_20260401](../CA/CA_NATIONALSECURITY_20260401.md)**  
