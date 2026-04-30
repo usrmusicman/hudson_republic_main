@@ -55,6 +55,7 @@ All application, issuance, renewal, and replacement fees shall be paid exclusive
 Visual renders and reference images for the Hudson Passport design can be found in the [Passport Image Renders](../../images/CO/CO_PASSPORTDOC_20260430) directory.  
 
 This is the primary rendered image of the proposed Hudson Passport.  
+
 ![Hudson Republic Passport 2026](../../images/CO/CO_PASSPORTDOC_20260430/HUDSON_PASSPORT_2026.jpg)
 
 ---
