@@ -86,7 +86,7 @@ To preserve constitutional hierarchy and legislative integrity, every instrument
 ### 6.1 General Dependency Tree Logic
 - Instruments requiring **three readings** (CA class) may only depend upon other instruments that also require three readings.  
 - Instruments requiring **two readings** (LA, LB) may depend upon instruments requiring two or three readings.  
-- Instruments requiring **one reading** (OP, CO, LC) may depend upon instruments requiring one, two, or three readings.  
+- Instruments requiring **one reading** (OP, CO) may depend upon instruments requiring one, two, or three readings.  
 - Instruments requiring **zero readings** (SCH, FO) must be standalone and not depend on any other instrument.
 
 ### 6.2 Supporting Instruments — Schedules (SCH) and Forms (FO)
@@ -94,7 +94,6 @@ Schedules (SCH) and Forms (FO) are purely supporting instruments. They share the
 
 - They always require a **minimum of zero readings** and a **maximum of three readings**.  
 - They remain non-substantive. They cannot create new rights, obligations, or authorities independent of their parent instrument.  
-- **One-way reference only**: The parent instrument (CA, LA, LB, etc.) references the Schedule or Form. The Schedule or Form itself lists **no dependencies**.  
 - If a Schedule or Form is not depended upon by any instrument, it defaults to **no readings** in either legislative house (Senate or HoC).
 
 #### 6.2.1 Schedules (SCH) — Special Rule
