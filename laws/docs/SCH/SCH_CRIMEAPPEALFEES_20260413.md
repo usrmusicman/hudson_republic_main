@@ -2,6 +2,15 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Legislative Codes (CO)** can be listed here.
+
+Dependencies
+* **[LA_CRIMINALAPPEALS_20260401](../LA/LA_CRIMINALAPPEALS_20260401.md)**
+
+---
+
 ## Definitions
 
 - **1st Appeal**: The initial appeal filed in the Riding Court (Local Court).  

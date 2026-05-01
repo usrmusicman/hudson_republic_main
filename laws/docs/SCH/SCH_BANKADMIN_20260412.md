@@ -2,6 +2,15 @@
 
 ---
 
+## Hard Dependencies
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Legislative Codes (CO)** can be listed here.
+
+Dependencies
+* **[CA_BANKANDRESERVE_20260401](../CA/CA_BANKANDRESERVE_20260401.md)**
+
+---
+
 ## Definitions
 
 - **FHI Audit Fee**: The annual compliance audit fee required to maintain Financial Holdings Insurance.  
