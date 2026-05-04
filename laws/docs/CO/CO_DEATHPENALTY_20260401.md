@@ -8,7 +8,6 @@ Only **Constitutional Articles (CA)**, **Legislative Articles (LA)**, **Legislat
 
 Dependencies
 * **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
 * **[LA_CRIMINALAPPEALS_20260401](../LA/LA_CRIMINALAPPEALS_20260401.md)**  
 
 ---

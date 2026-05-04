@@ -8,7 +8,6 @@ Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Sched
 
 Dependencies
 * **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
 * **[SCH_IMMIGRATIONAPP_20260413](../SCH/SCH_IMMIGRATIONAPP_20260413.md)**  
 
 ---
