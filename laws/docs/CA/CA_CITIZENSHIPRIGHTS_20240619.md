@@ -67,6 +67,7 @@ This Act defines the criteria for acquiring and maintaining citizenship in the H
 ---
 
 ## Section EX1 — Illustrative Examples (Non-binding)
+
 **EX1.1** A child born in a Toronto hospital to a Canadian-born mother (Citizen) and a foreign father qualifies for citizenship because one biological parent is a Citizen and the mother has resided in the Republic for more than one year.
 
 **EX1.2** A child born in the United States during a six-month parental business trip to a Citizen mother and non-Citizen father automatically qualifies for Hudson Republic citizenship.

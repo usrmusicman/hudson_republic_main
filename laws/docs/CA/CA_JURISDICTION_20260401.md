@@ -64,8 +64,11 @@ This Act defines the boundaries of authority within the Hudson Republic, establi
 ---
 
 ## Section EX1 (Illustrative Examples)
+
 **EX1.1** A Riding in a traditionally Francophone area passes a law requiring all local business signs to be in French. This is a valid exercise of residual power under Section 2.3.  
+
 **EX1.2** The Federal government refuses to provide a secondary set of tax forms or a parallel bureaucracy in French. This is a valid exercise of Section 1.2 and the **[General Administration Act](./CA_GENERALADMIN_20260401.md)** intended to minimize federal overhead.  
+
 **EX1.3** A citizen files a federal lawsuit regarding a border tariff. Per the Language of Majority mandate, the proceedings and records must be in **Language of Majority** for administrative efficiency, though the citizen may utilize an interpreter at their own expense or as provided by local Riding support.
 
 ---

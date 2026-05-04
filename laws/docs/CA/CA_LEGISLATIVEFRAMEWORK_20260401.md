@@ -24,12 +24,16 @@ All Senate decisions are rendered as **passed** or **failed**.
 - **Senate Mediator**: The neutral procedural officer of the Senate.  
 - **Volunteer Justice (LC)**: A single sitting Supreme Court Justice who volunteers to submit Legislative Challenges.
 
+---
+
 ## Preamble
 The Hudson Republic is founded on the principle that sovereignty resides ultimately with the individual, not the state. Government exists only as a limited fiduciary agent, strictly bound by immutable individual rights and transparent, adversarial legislative processes designed to prevent capture, overreach, or tyranny. 
 
 The federal government of the Hudson Republic shall concern itself solely with monetary integrity, national defence, border security and ports, and the administration of federal courts for constitutional and inter-Riding matters. All other responsibilities — including but not limited to housing, healthcare, mental health, education, welfare, and local infrastructure — are reserved exclusively to the Ridings and their local boards. All power not expressly delegated is reserved to the people.
 
 This framework establishes three co-equal branches—the **House of Constituents** (prosecutorial originator), the **Senate** (constitutional jury), and the **Executive Office** (custodial enforcer)—each with defined roles, high evidentiary thresholds, personal accountability, and emergency safeguards to ensure fidelity to the Constitution and the protection of liberty. All legislative instruments shall follow the classification, naming, and procedural requirements set out in the **[Legislative Document Classification and Naming Convention Act](./CA_NAMINGCONVENTION_20260401.md)**.
+
+---
 
 ## Section 1 — House of Constituents
 
@@ -59,6 +63,8 @@ This framework establishes three co-equal branches—the **House of Constituents
 ### Administrative Integrity
 **1.7** The House is legally barred from recognizing legislative actions performed by unelected personnel.  
 **1.8 Transparency**: All staff expenditures and office budgets must be itemized for public record and Senate audit.
+
+---
 
 ## Section 2 — Senate
 
@@ -96,6 +102,8 @@ This framework establishes three co-equal branches—the **House of Constituents
 - Personally and financially liable for rights violations.  
 - Criminal penalties include life imprisonment, served sequentially.  
 **2.11 War**: Requires **monthly** unanimous validation (12/12).
+
+---
 
 ## Section 3 — Executive Office
 

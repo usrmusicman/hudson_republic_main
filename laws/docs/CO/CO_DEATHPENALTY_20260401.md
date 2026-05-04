@@ -17,6 +17,7 @@ All capitalized terms used in this Code shall be interpreted in accordance with 
 
 - **Death Penalty**: The ultimate sanction imposed only for Level 9 (Absolute Conviction) offenses, applied solely as a last resort after all avenues of reform and due process have been exhausted.
 - **Sequential Mandate**: Cumulative sentencing for repeated or escalating violations, served consecutively, as defined in **[Criminal Categorization Act](../CA/CA_CRIMECATEGORIZATION_20260401.md)**.
+- **Sedative**: A medically administered calming agent given optionally to reduce anxiety or distress on execution day.
 
 ---
 
@@ -64,13 +65,14 @@ Execution by a trained firing squad, conducted in accordance with established pr
 4. The condemned may request a last meal not exceeding the value of one-eighth (1/8) troy ounce of silver.
 
 ### Execution Day Procedures
-1. Three hours prior: The condemned is moved to a holding area. Behind a protective enclosure, victims’ families and the condemned may make final statements.  
-2. One hour prior: The chosen device (The Box or firing squad station) is prepared and secured.  
-3. Thirty minutes prior: Family members may deliver a final “casket speech.”  
-4. Ten minutes prior: The condemned is fitted with protective goggles and escorted to the execution device.  
-5. Five minutes prior: The condemned is positioned in the device.  
-6. Two minutes prior: The device is sealed and the control room is notified.  
-7. At the appointed time: “The Signal” is given. The black button is pressed to draw the curtains, shielding observers from the act itself. Four executioners then simultaneously press the red “Drop” button, carrying out the execution.
+1. **Optional Sedative**: At any time on execution day, upon the request of the condemned, a medically approved sedative may be administered by a qualified medical professional to reduce anxiety or distress. The condemned may decline this option.  
+2. Three hours prior: The condemned is moved to a holding area. Behind a protective enclosure, victims’ families and the condemned may make final statements.  
+3. One hour prior: The chosen device (The Box or firing squad station) is prepared and secured.  
+4. Thirty minutes prior: Family members may deliver a final “casket speech.”  
+5. Ten minutes prior: The condemned is fitted with protective goggles and escorted to the execution device.  
+6. Five minutes prior: The condemned is positioned in the device.  
+7. Two minutes prior: The device is sealed and the control room is notified.  
+8. At the appointed time: “The Signal” is given. The black button is pressed to draw the curtains, shielding observers from the act itself. Four executioners then simultaneously press the red “Drop” button, carrying out the execution.
 
 ### Post-Execution Procedures
 1. The device is removed and secured.  
