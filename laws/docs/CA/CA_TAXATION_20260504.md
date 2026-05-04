@@ -7,8 +7,8 @@ List any legislative instrument(s) (in alphabetical order) that this article mus
 Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Schedules (SCH)** can be listed here.
 
 Dependencies
-* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**  
+* **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 
@@ -21,7 +21,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-The Hudson Republic is founded on the principle that taxation shall serve only to support legitimate local governance and national sovereignty, without unduly burdening individual liberty or economic freedom. The federal level imposes no direct taxes on natural persons. All taxation authority is devolved to the Ridings, subject to strict constitutional limits designed to prevent destitution, coercion, or extractive abuse. Federal taxation is limited to specific, enumerated activities that undermine Republic sovereignty or economic self-reliance. All taxes, fees, fines, penalties, and other financial obligations shall be paid in full exclusively in physical bullion in accordance with the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)** and the **[Banking and Reserves Act](../CA/CA_BANKANDRESERVE_20260401.md)**. No fiat currency, digital tokens, or other forms of payment shall be accepted.
+The Hudson Republic is founded on the principle that taxation shall serve only to support legitimate local governance and national sovereignty, without unduly burdening individual liberty or economic freedom. The federal level imposes no direct taxes on natural persons. All taxation authority is devolved to the Ridings, subject to strict constitutional limits designed to prevent destitution, coercion, or extractive abuse. Federal taxation is limited to specific, enumerated activities that undermine Republic sovereignty or economic self-reliance. All taxes, fees, fines, penalties, and other financial obligations shall be paid in full exclusively in physical bullion in accordance with the **[Legal Tender Act](./CA_LEGALTENDER_20260401.md)** and the **[Banking and Reserves Act](./CA_BANKANDRESERVE_20260401.md)**. No fiat currency, digital tokens, or other forms of payment shall be accepted.
 
 ---
 
