@@ -54,8 +54,8 @@ The Hudson Republic is founded on the principle that taxation shall serve only t
 **4.1 Filing Deadline**: All tax filings and documentation must be submitted by **May 31** of the year following the tax year.  
 **4.2 Payment Deadline**: All federal taxes must be paid in full by **June 30** of the filing year.  
 **4.3 Late Payment Penalties**:  
-* **Natural Persons**: One (1) troy ounce of silver per day.  
-* **Registered Businesses**: One (1) troy ounce of gold per day.  
+* **Natural Persons**: One (1/8) troy ounce of silver per day.  
+* **Registered Businesses**: One (1/8) troy ounce of gold per day.  
 * Penalties accrue daily starting July 1.  
 
 **4.4 Enforcement**: Unpaid liabilities remaining after **December 31** of the filing year may trigger:  
@@ -78,4 +78,4 @@ The Hudson Republic is founded on the principle that taxation shall serve only t
 
 **Executive Office Signature**: 
 
-**FQLN**: LA_TAXATION_20260401
+**FQLN**: CA_TAXATION_20260504
