@@ -26,7 +26,7 @@ Any jurisdiction may:
 
 This modular, consent-based model ensures that participation is never imposed. Regions that feel disenfranchised under the current Canadian system are free to chart their own course or integrate gradually on their own terms.
 
-For full legal details, see **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401)** and **[Territorial Provisioning and Domain Administration Act](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401)**.
+For full legal details, see **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md)** and **[Territorial Provisioning and Domain Administration Act](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401.md)**.
 
 ### Individual Rights
 In the Hudson Republic, individual rights are **absolute and immutable**, not fluid or subject to government discretion as they have often been in Canada.  
@@ -38,7 +38,7 @@ The only real safeguard against federal overreach has been Section 33 of the Cha
 Instead, the Republic is deliberately structured with:
 - **Minimal federal power** — limited to enumerated responsibilities such as monetary integrity, national defence, border security, and constitutional courts.  
 - **Riding-level stewardship** — local governments own and manage their territory as true stewards.  
-- **Maximal individual freedom and responsibility** — the Individual is sovereign, and all government power is strictly subordinate to **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401)**.
+- **Maximal individual freedom and responsibility** — the Individual is sovereign, and all government power is strictly subordinate to **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md)**.
 
 ### Separation of Powers
 The Hudson Republic maintains a strict, adversarial separation of powers across three legislative houses plus an independent judiciary.
@@ -64,7 +64,7 @@ A general-election ballot spans a maximum of 48 candidates across two pages, div
 - **National Representative** (effectively the head of government)  
 - **Senate Mediator** (the neutral referee who maintains order and performs custodial duties for the Senate)
 
-For full legal details, see **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401)**, **[Legislative Framework Act](./laws/docs/CA/CA_LEGISLATIVEFRAMEWORK_20260401.md)**, and **[Elected Officials and Integrity Act](./laws/docs/CA/CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**. 
+For full legal details, see **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md)**, **[Legislative Framework Act](./laws/docs/CA/CA_LEGISLATIVEFRAMEWORK_20260401.md)**, and **[Elected Officials and Integrity Act](./laws/docs/CA/CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**. 
 
 ## Territorial Provisioning and Autonomy
 
@@ -79,9 +79,9 @@ Ridings do not receive direct inter-Riding transfers. Instead, they may issue sh
 ### How can regions join or leave the Republic?
 Regions are never forced to participate. A jurisdiction may remain fully independent, apply to become a **Satellite State** (retaining complete internal autonomy while gaining access to the Hudson Economic Zone, currency, and defence), or pursue full adoption as Ridings at a later date.
 
-To leave the Republic, a region must secede as a complete contiguous block of exactly twelve (12) Ridings (an **Array**) in order to preserve Senate balance and constitutional stability. Full legal procedures for both joining and secession are set out in **[Territorial Provisioning and Domain Administration Act](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401)**.
+To leave the Republic, a region must secede as a complete contiguous block of exactly twelve (12) Ridings (an **Array**) in order to preserve Senate balance and constitutional stability. Full legal procedures for both joining and secession are set out in **[Territorial Provisioning and Domain Administration Act](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401.md)**.
 
-For complete details, see **[Territorial Provisioning and Domain Administration Act](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401)** and **[Elected Officials and Integrity Act](./laws/docs/CA/CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**.
+For complete details, see **[Territorial Provisioning and Domain Administration Act](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401.md)** and **[Elected Officials and Integrity Act](./laws/docs/CA/CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**.
 
 ## Bullion and Monetary System
 
@@ -219,4 +219,4 @@ This structure provides both **flexibility** and **predictability**. If the fiat
 5. **Riding tax at >>4 (6.25 %)**
    On a 50 Silver Beaver purchase, the binary ledger subtotal 0.000.000.000.110.010 is bit-shifted to calculate exactly **3 × 1/8 oz Copper Beavers** in tax.
 
-For full legal specifications, see **[Bullion Standards and Conversion Act](./laws/docs/LA/LA_BULLIONSTANDARDS_20260401)**.
+For full legal specifications, see **[Bullion Standards and Conversion Act](./laws/docs/LA/LA_BULLIONSTANDARDS_20260401.md)**.
