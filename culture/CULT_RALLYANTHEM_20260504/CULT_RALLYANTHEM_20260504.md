@@ -1,4 +1,4 @@
-# Hudson Rally Anthem of the Hudson Republic
+# Rally Anthem of the Hudson Republic
 **Title: Hudson Rally Call**
 
 ---
