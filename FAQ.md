@@ -2,31 +2,38 @@
 
 ## National Symbols and Cultural Policy
 
+### Where did you first get the idea for a Hudson Republic?
+The idea for the Hudson Republic first emerged in late 2023 as a contingency plan in case Ottawa irreversibly damages Canada. The foundational inspiration for the entire project came from the Beaver Scouts.
+
 ### Why did the Hudson Republic choose the beaver as the national symbol?
-The beaver has been the original and enduring symbol of the Hudson region for centuries. It is a well-recognised Indigenous symbol deeply tied to the land and history of what is now Manitoba, Ontario, Quebec, and Labrador. In contrast, the maple leaf is a relatively modern emblem that became strongly associated with the Crown and the Dominion of Canada after Confederation.
+The beaver has been the original and enduring symbol of the Hudson region for centuries. It is a well-recognized Indigenous symbol deeply tied to the land and history of what is now Manitoba, Ontario, Quebec, and Labrador. In contrast, the maple leaf is a relatively modern emblem that became strongly associated with the Crown and the Dominion of Canada after Confederation.
 
 ### Isn’t the maple leaf the traditional symbol of these regions?
-The maple leaf (genus *Acer*) is indeed native to these provinces and remains abundant in parts of the Hudson Republic’s territory. However, the genus is not unique to Canada — it grows widely across North America and even in parts of Europe and Asia. The Sugar Maple (*Acer saccharum*), the primary source of maple syrup, is also common in the north-eastern United States. Notably, over 90 % of Canada’s maple syrup production historically came from a small region of Quebec; the Hudson Republic therefore views the maple leaf as a regional agricultural symbol rather than a uniquely national one.
+The maple leaf (genus *Acer*) is indeed native to these provinces and remains abundant in parts of the Hudson Republic’s territory. However, the genus is not unique to Canada — it grows widely across North America and even in parts of Europe and Asia. The Sugar Maple (*Acer saccharum*), the primary source of maple syrup, is also common in the north-eastern United States. Notably, over 90% of Canada’s maple syrup production historically came from a small region of Quebec. The Hudson Republic therefore views the maple leaf as a regional agricultural symbol rather than a uniquely national one.
+
+For full details, see **[15 Beautiful Species of Maple Trees](https://www.thespruce.com/thirteen-species-of-maple-trees-3269671)**.
 
 ### What is the National Cuisine of the Hudson Republic?
 The culinary cornerstone of the Hudson Republic is the **Beaver Tail**.
 
 - **Sweet Beaver Tail**: A classic fried dough pastry shaped like a beaver’s tail, served warm and topped with seasonal local ingredients such as fresh peaches, strawberries, blackberries, blueberries, pears, whipped cream, or maple syrup.
-- **Savory Beaver Tail**: A hearty variation featuring a thick wheat shell or wrap shaped like a beaver’s tail, filled with substantial ingredients including ground beef, shepherd’s pie mixture, cream cheese and spinach, garlic butter asparagus with mushrooms and mashed potato, BBQ sweet potato and seasoned chickpeas, or other local specialties.
+- **Savory Beaver Tail**: A hearty variation featuring a thick wheat shell or wrap shaped like the base of the beaver’s tail, filled with substantial ingredients including ground beef, shepherd’s pie mixture, cream cheese and spinach, garlic butter asparagus with mushrooms and mashed potato, BBQ sweet potato and seasoned chickpeas, or other local specialties.
 - **Beaver Dam Ice Cream**: The Republic’s signature premium ice cream. It features a rich chocolate-mint base (with optional cinnamon variants for a subtle spicy note), butterscotch swirls, and generous chunks of cookie dough. The flavor profile is intentionally evocative of the northern wilderness — robust, refreshing, and satisfying.
 
-For full details, see **[National Cuisine of the Hudson Republic](./culture/CULT_CUISINE_20260504/CULT_CUISINE_20260504.md)**
+For full details, see **[National Cuisine of the Hudson Republic](./culture/CULT_CUISINE_20260504/CULT_CUISINE_20260504.md)**.
 
 ### Why are lacrosse and basketball the national sports instead of hockey?
 Lacrosse is the oldest known team sport in North America and originated with Indigenous peoples of the region. Basketball was invented by Dr. James Naismith, a Canadian from Almonte, Ontario. Both sports are therefore authentic to the Hudson Republic’s territory and heritage, while hockey — though popular — is treated as a regional and recreational sport rather than the official national sport.
 
+For full details, see **[History of Lacrosse](https://thecanadianencyclopedia.ca/en/article/lacrosse)** and **[History of Basketball](https://en.wikipedia.org/wiki/History_of_basketball)**.
+
 ### How does the Hudson Republic handle regional cultures differently from Canada?
-Culture and language are devolved entirely to the riding level. Each riding is free to adopt French, Indigenous languages, or any other language as its primary working language, and to celebrate its own cultural traditions.
+Culture and language are devolved entirely to the Riding level. Each Riding is free to adopt French, Indigenous languages, or any other language as its primary working language, and to celebrate its own cultural traditions.
 
 To maximise efficiency in trade, commerce, and cross-border investment, **English is the sole administrative language (Language of Majority) of the federal government**. This creates a predictable, consistent business and legal environment while preserving full cultural autonomy at the local level.
 
 ### How does the Hudson Republic approach disenfranchised or reluctant regions such as Quebec?
-The Hudson Republic is structured as a voluntary association of ridings. No region, province, or territory is required to join.
+The Hudson Republic is structured as a voluntary association of Ridings. No region, province, or territory is required to join.
 
 Any jurisdiction may:
 - Remain fully independent and outside the Republic,
@@ -213,19 +220,19 @@ This structure provides both **flexibility** and **predictability**. If the fiat
 **Example binary representation**: 21.25 troy ounces of gold = 21,010.000.000.000.000 Ledger units (full binary: 10101.010.000.000.000.000).
 
 #### Real-world examples
-1. **Mortgage priced in gold**
+1. **Mortgage priced in gold**  
    A house priced at 210.33 troy ounces of gold converts to 6,873,164 Ledger units (1/8 oz copper Beavers) after rounding up the final decimal for an expense.
 
-2. **Converting 4 × 1 oz Gold Beavers to USD**
+2. **Converting 4 × 1 oz Gold Beavers to USD**  
    Ledger-to-fiat: (131,072 ÷ 32,768) × (0.95 × current gold spot) = $19,000 USD (at $5,000/oz gold spot).
 
-3. **Converting a $100,000 USD salary back to Bullion Beavers**
+3. **Converting a $100,000 USD salary back to Bullion Beavers**  
    Fiat-to-Ledger: (100,000 ÷ (0.95 × 5,000)) × 32,768 = 689,852 Ledger units (rounded down for income).
 
-4. **Farmers-market change**
+4. **Farmers-market change**  
    A total of 0.000.010.000.010.100 Ledger units converts to octal 0.0.2.0.2.4 → **2 × 1 oz Silver Beavers, 2 × 1 oz Copper Beavers, 4 × 1/8 oz Copper Beavers**.
 
-5. **Riding tax at >>4 (6.25 %)**
+5. **Riding tax at >>4 (6.25 %)**  
    On a 50 Silver Beaver purchase, the binary ledger subtotal 0.000.000.000.110.010 is bit-shifted to calculate exactly **3 × 1/8 oz Copper Beavers** in tax.
 
 For full legal specifications, see **[Bullion Standards and Conversion Act](./laws/docs/LA/LA_BULLIONSTANDARDS_20260401.md)**.
