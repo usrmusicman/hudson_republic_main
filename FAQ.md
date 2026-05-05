@@ -8,6 +8,15 @@ The beaver has been the original and enduring symbol of the Hudson region for ce
 ### Isn’t the maple leaf the traditional symbol of these regions?
 The maple leaf (genus *Acer*) is indeed native to these provinces and remains abundant in parts of the Hudson Republic’s territory. However, the genus is not unique to Canada — it grows widely across North America and even in parts of Europe and Asia. The Sugar Maple (*Acer saccharum*), the primary source of maple syrup, is also common in the north-eastern United States. Notably, over 90 % of Canada’s maple syrup production historically came from a small region of Quebec; the Hudson Republic therefore views the maple leaf as a regional agricultural symbol rather than a uniquely national one.
 
+### What is the National Cuisine of the Hudson Republic?
+The culinary cornerstone of the Hudson Republic is the **Beaver Tail**.
+
+- **Sweet Beaver Tail**: A classic fried dough pastry shaped like a beaver’s tail, served warm and topped with seasonal local ingredients such as fresh peaches, strawberries, blackberries, blueberries, pears, whipped cream, or maple syrup.
+- **Savory Beaver Tail**: A hearty variation featuring a thick wheat shell or wrap shaped like a beaver’s tail, filled with substantial ingredients including ground beef, shepherd’s pie mixture, cream cheese and spinach, garlic butter asparagus with mushrooms and mashed potato, BBQ sweet potato and seasoned chickpeas, or other local specialties.
+- **Beaver Dam Ice Cream**: The Republic’s signature premium ice cream. It features a rich chocolate-mint base (with optional cinnamon variants for a subtle spicy note), butterscotch swirls, and generous chunks of cookie dough. The flavor profile is intentionally evocative of the northern wilderness — robust, refreshing, and satisfying.
+
+For full details, see **[National Cuisine of the Hudson Republic](./culture/CULT_CUISINE_20260504/CULT_CUISINE_20260504.md)**
+
 ### Why are lacrosse and basketball the national sports instead of hockey?
 Lacrosse is the oldest known team sport in North America and originated with Indigenous peoples of the region. Basketball was invented by Dr. James Naismith, a Canadian from Almonte, Ontario. Both sports are therefore authentic to the Hudson Republic’s territory and heritage, while hockey — though popular — is treated as a regional and recreational sport rather than the official national sport.
 

@@ -1,4 +1,4 @@
-# Legislative Document Classification and Naming Convention Act
+## Legislative Document Classification and Naming Convention Act
 
 ---
 
@@ -83,7 +83,7 @@ The Republic establishes ten classes of legislative instrument. Constitutional A
 
 ## Section 2 — Dependency Handling and Reference Rules
 
-To preserve constitutional hierarchy and legislative integrity, every instrument must comply with the following dependency rules. No instrument may depend upon a lower-authority instrument in a manner that would undermine its own enactment threshold.__
+To preserve constitutional hierarchy and legislative integrity, every instrument must comply with the following dependency rules. No instrument may depend upon a lower-authority instrument in a manner that would undermine its own enactment threshold.
 
 **Legislative Framework Dependency Tree**
 
@@ -99,16 +99,16 @@ To preserve constitutional hierarchy and legislative integrity, every instrument
 The **CA_THEINDIVIDUAL_20260401** is a foundational Constitutional Article.  
 
 - It shall be listed as a **Hard Dependency** only by other **Constitutional Articles (CA)**.  
-- All other legislative instruments (LA, CO, SCH, FO, etc.) shall treat **CA_THEINDIVIDUAL_20260401** as an **implicit foundational dependency** by inheritance. They are not required to list it explicitly in their Hard Dependencies section.  
+- All other legislative instruments (LA, CO, SCH, FO, etc.) shall treat **CA_THEINDIVIDUAL_20260401** as an **implicit foundational dependency** by inheritance. They are not required to list it explicitly.
 
 This rule minimizes unnecessary dependency clutter while ensuring the immutable rights of the Individual remain the bedrock of the entire legislative framework.
 
 ### 2.2 Supporting Instruments — Schedules (SCH) and Forms (FO)
 Schedules (SCH) and Forms (FO) are purely supporting instruments. They share the following rules:
 
-- They always require a **minimum of zero readings** and a **maximum of three readings**.  
-- They remain non-substantive. They cannot create new rights, obligations, or authorities independent of their parent instrument.  
-- If a Schedule or Form is not depended upon by any instrument, it defaults to **no readings** in either legislative house (Senate or HoC).
+- They always require a minimum of zero readings and a maximum of three readings.  
+- They remain non-substantive. They cannot create new rights, obligations, or authorities independent of their parent instrument(s).  
+- If a Schedule or Form is not depended upon by any instrument, it defaults to no readings in either legislative house.
 
 #### 2.2.1 Schedules (SCH) — Special Rule
 A Schedule (SCH) is a purely supporting instrument containing lists, indexes, technical specifications, tariffs, annexes, or similar material.  
@@ -130,7 +130,34 @@ Forms (FO) are administrative templates only and are non-binding.
 6. **Emergency Instruments (EL and EB)**: May only depend upon Constitutional Articles (CA). They must not depend upon any peacetime legislative instruments. No derivative legislative instruments may be created from an emergency instrument, as they carry an absolute, time-bound expiration.  
 7. **Cultural Instruments (CULT)**: Federal cultural items and symbols are immutable and serve ceremonial, educational, or identity purposes only. They are not binding legislative instruments and carry no dependencies. They may only be terminated by a seventy-five percent (75%) citizen referendum held simultaneously in all Ridings of the Hudson Republic.
 
-## Section 3 — Purpose and Effect
+---
+
+## Section 3 — File Organization and Asset Management
+
+To ensure long-term maintainability, clarity, and scalability of the legislative repository, all instruments shall follow this standardized file structure:
+
+### 3.1 Legislative Text Files
+All primary legislative text files shall be stored in:  
+`[root]/laws/docs/[INSTRUMENT_TYPE]/[INSTRUMENT_FQLN]`
+
+**Example**:  
+`[root]/laws/docs/CO/CO_HAZCHEMICALDISPOSAL_20260504.md`
+
+### 3.2 Associated Image Assets
+All supporting image assets (diagrams, dependency trees, charts, illustrations, etc.) for a specific instrument shall be stored in a dedicated subdirectory using the instrument’s full **FQLN** as the folder name:  
+`[root]/laws/images/[INSTRUMENT_TYPE]/[INSTRUMENT_FQLN]/`
+
+Individual image files may use any descriptive name, but best practice is to prefix the filename with the full **FQLN** followed by an underscore.
+
+**Example**:  
+`[root]/laws/images/CO/CO_HAZCHEMICALDISPOSAL_20260504/CO_HAZCHEMICALDISPOSAL_20260504_DEPENDENCYTREE.png`  
+`[root]/laws/images/CO/CO_HAZCHEMICALDISPOSAL_20260504/CO_HAZCHEMICALDISPOSAL_20260504_PROCESSFLOW.png`
+
+This separation of legislative text from visual assets streamlines repository maintenance, improves organization, and simplifies long-term archival and auditing.
+
+---
+
+## Section 4 — Purpose and Effect
 This Act ensures machine-parseable legislative history, clear distinction between peacetime and emergency law, total transparency, auditable archival integrity, and a logically consistent dependency hierarchy that preserves constitutional supremacy.
 
 ---
@@ -151,6 +178,13 @@ A Legal Code (CO) on criminal procedure does **not** list **CA_THEINDIVIDUAL_202
 
 **EX1.5**  
 If a new Constitutional Article is created that has no direct bearing on individual rights, it may still list **CA_THEINDIVIDUAL_20260401** for emphasis and clarity, but this is not mandatory.
+
+## Section EX2 — Dependency and File Organization Examples
+
+**EX2.1 — File Organization Example**  
+For a Legislative Code with the FQLN **CO_HAZCHEMICALDISPOSAL_20260504**:
+- Legislative text: `[root]/laws/docs/CO/CO_HAZCHEMICALDISPOSAL_20260504.md`
+- Associated images: `[root]/laws/images/CO/CO_HAZCHEMICALDISPOSAL_20260504/CO_HAZCHEMICALDISPOSAL_20260504_DIAGRAM.png`
 
 ---
 
