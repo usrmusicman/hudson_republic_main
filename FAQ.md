@@ -1,5 +1,7 @@
 # FAQ
 
+---
+
 ## National Symbols and Cultural Policy
 
 ### Where did you first get the idea for a Hudson Republic?
@@ -44,7 +46,9 @@ This modular, consent-based model ensures that participation is never imposed. R
 
 For full legal details, see **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md)** and **[Territorial Provisioning and Domain Administration Act](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401.md)**.
 
-### Individual Rights
+---
+
+## Individual Rights
 In the Hudson Republic, individual rights are **absolute and immutable**, not fluid or subject to government discretion as they have often been in Canada.  
 
 Canadians historically possessed no entrenched rights independent of the Crown. Provisions were granted under the Crown until 1931 (Statute of Westminster), with the Crown remaining the literal head of state until the patriation of the Constitution in 1982. Even then, the Crown retained symbolic and practical influence, enabling foreign actors to exert pressure on Canadian resources. Recent federal actions have further eroded provincial authority to legislate independently.  
@@ -56,7 +60,9 @@ Instead, the Republic is deliberately structured with:
 - **Riding-level stewardship** — local governments own and manage their territory as true stewards.  
 - **Maximal individual freedom and responsibility** — the Individual is sovereign, and all government power is strictly subordinate to **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md)**.
 
-### Separation of Powers
+---
+
+## Separation of Powers
 The Hudson Republic maintains a strict, adversarial separation of powers across three legislative houses plus an independent judiciary.
 
 - **House of Constituents (HoC)**: The “prosecutorial” chamber. Riding Representatives draft and refine legislation (like building a case). Amendments are permitted here to strengthen the bill before it reaches the Senate.  
@@ -70,7 +76,9 @@ A Sequential Mandate ensures politicians face full accountability. Penalties for
 **Unlimited Liability**  
 This applies only during declared emergencies or war, where the highest standard of care is required. Any illegal action by an official (or third party acting under their authority) triggers the full weight of the law. The Sequential Mandate also applies, removing all immunity and imposing personal and financial liability to prevent corruption that could compromise the Republic.
 
-### Politics
+---
+
+## Politics
 Politics in the Hudson Republic is non-partisan at the federal level. Only independents may run, and they appear on the ballot solely under their own legal name. No political parties, factions, or organizational endorsements are permitted.
 
 **What does a ballot look like?**  
@@ -81,6 +89,8 @@ A general-election ballot spans a maximum of 48 candidates across two pages, div
 - **Senate Mediator** (the neutral referee who maintains order and performs custodial duties for the Senate)
 
 For full legal details, see **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md)**, **[Legislative Framework Act](./laws/docs/CA/CA_LEGISLATIVEFRAMEWORK_20260401.md)**, and **[Elected Officials and Integrity Act](./laws/docs/CA/CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**. 
+
+---
 
 ## Territorial Provisioning and Autonomy
 
@@ -98,6 +108,8 @@ Regions are never forced to participate. A jurisdiction may remain fully indepen
 To leave the Republic, a region must secede as a complete contiguous block of exactly twelve (12) Ridings (an **Array**) in order to preserve Senate balance and constitutional stability. Full legal procedures for both joining and secession are set out in **[Territorial Provisioning and Domain Administration Act](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401.md)**.
 
 For complete details, see **[Territorial Provisioning and Domain Administration Act](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401.md)** and **[Elected Officials and Integrity Act](./laws/docs/CA/CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**.
+
+---
 
 ## Bullion and Monetary System
 

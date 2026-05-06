@@ -2,6 +2,8 @@
 The Hudson Republic is a sovereign entity, but it also acts as a global governance standard known as the **“Beaver Standard.”**  
 This document outlines how to contribute to the project or adapt it for independent use.
 
+---
+
 ## Contribution Workflow
 Due to legislative restrictions, contributions follow an issue-based process:
 
@@ -16,6 +18,8 @@ Due to legislative restrictions, contributions follow an issue-based process:
 
 Direct pull requests from non-authorized contributors are not accepted.
 
+---
+
 ## Notes About Forking
 
 ### Pull Request Support
@@ -25,6 +29,8 @@ See the **[Legislative Framework Act](https://github.com/usrmusicman/hudson_repu
 
 ### Assets, Culture, Language
 Use of beaver imagery is permitted, but independent projects are encouraged to adopt their own cultural symbols, legislative structures, and assets. The Hudson Republic provides a working governance model built on DVCS principles.
+
+---
 
 ## Forking (Other Projects)
 Forking creates a derivative repository for independent development, experimentation, or drafting proposals prior to Issue submission.
