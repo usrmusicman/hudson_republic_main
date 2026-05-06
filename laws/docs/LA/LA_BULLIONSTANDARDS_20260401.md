@@ -21,7 +21,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-This Act establishes the fixed bullion ratios, conversion rules between fiat and the Hudson Ledger, rounding protocols, binary representation mechanics, and detailed specifications for Founders Edition coins and institutional bars.
+This Act establishes the fixed bullion ratios, conversion rules, rounding protocols, binary representation mechanics, and specifications for coinage and institutional bars. All provisions operate in accordance with the rights of the Individual as protected under **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)** and the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)**.
 
 ---
 

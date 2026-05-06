@@ -23,7 +23,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-This Act defines the criteria for acquiring and maintaining citizenship in the Hudson Republic, the rights and obligations of Citizens, and the limited exceptions that apply to residents of Satellite States. It ensures that citizenship is grounded in clear, objective standards of birth, adoption, naturalization, or voluntary oath, while preserving the immutable rights of the Individual and the modular nature of the Republic’s territorial structure.
+This Act defines the criteria for acquiring and maintaining citizenship in the Hudson Republic, the rights and obligations of Citizens, and the limited exceptions that apply to residents of Satellite States. It ensures that citizenship is grounded in clear, objective standards of birth, adoption, naturalization, or voluntary oath, while preserving the rights of the Individual as protected under **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)** and the modular nature of the Republic’s territorial structure.
 
 ---
 
@@ -49,7 +49,7 @@ This Act defines the criteria for acquiring and maintaining citizenship in the H
 ---
 
 ## Section 3 — Rights and Obligations of Citizens
-**3.1** Every Citizen is bound by the legislative framework of the Hudson Republic and is entitled to the full suite of immutable rights and protections set out in **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**.
+**3.1** Every Citizen is bound by the legislative framework of the Hudson Republic and is entitled to the full suite of rights and protections set out in **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**.
 
 **3.2** Every Citizen has the right to official citizenship documentation, including passports, identity cards, and other legal instruments issued by the Republic.
 

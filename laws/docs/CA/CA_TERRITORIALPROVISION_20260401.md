@@ -24,7 +24,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-The Hudson Republic is constituted as a single, indivisible sovereign entity whose territory is organized into equal-area Ridings to ensure balanced representation, local accountability, and the rejection of population-weighted or hierarchical governance layers. Sovereignty resides with the People, expressed through direct Riding-based voting and strict constitutional limits on central power. 
+The Hudson Republic is constituted as a single, indivisible sovereign entity whose territory is organized into equal-area Ridings to ensure balanced representation, local accountability, and the rejection of population-weighted or hierarchical governance layers. Sovereignty resides with the People, expressed through direct Riding-based voting and strict constitutional limits on central power in accordance with **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)**. 
 
 This Act establishes the territorial framework, Riding boundaries, redraw procedures, mechanisms for secession and accession, the management of Satellite States, and the absolute prohibition of intermediate provincial structures, thereby preserving modularity, equality, and the supremacy of the Individual’s rights over any administrative claim.
 

@@ -23,8 +23,7 @@ All capitalized terms used in this Code shall be interpreted in accordance with 
 ---
 
 ## Preamble
-This Legal Code defines the offense of treason, its elements, classification, and penalties. As the gravest crime against the Republic, treason is subject to the highest scrutiny. This Code operates as a subordinate instrument to **[Criminal Categorization Act](../CA/CA_CRIMECATEGORIZATION_20260401.md)** and protects the sovereignty and constitutional order of the Republic while preserving the immutable rights of the Individual under **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)**. All proceedings shall adhere to strict due process and proportionality.
-
+This Legal Code defines the offense of treason, its elements, classification, and penalties. As the gravest crime against the Republic, treason is subject to the highest scrutiny. This Code operates as a subordinate instrument to **[Criminal Categorization Act](../CA/CA_CRIMECATEGORIZATION_20260401.md)** and protects the sovereignty and constitutional order of the Republic while preserving the rights of the Individual as protected under **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)**. All proceedings shall adhere to strict due process and proportionality.
 ---
 
 ## Purpose

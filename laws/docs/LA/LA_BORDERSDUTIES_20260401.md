@@ -21,7 +21,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-This Act governs all entry, inspection, revenue collection, cargo handling, and security at the ports and borders of the Hudson Republic. It ensures that ports remain clean, efficient, and free of abandoned, junk, or prohibited cargo while generating revenue solely through usage-based and enforcement-based mechanisms. All federal charges at borders and ports are assessed at flat rates where applicable, with tariffs calculated via bitshift. This Act operates in full harmony with **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)** and the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)**. All financial transactions and settlements under this Act shall be made exclusively in physical bullion in accordance with the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)**.
+This Act governs all entry, inspection, revenue collection, cargo handling, and security at the ports and borders of the Hudson Republic. It ensures that ports remain clean, efficient, and free of abandoned, junk, or prohibited cargo while generating revenue solely through usage-based and enforcement-based mechanisms. All provisions of this Act shall operate in full harmony with the rights of the Individual as protected under **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)** and the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)**. All financial transactions and settlements under this Act shall be made exclusively in physical bullion.
 
 ---
 
@@ -90,12 +90,12 @@ Goods that harm the public or are invasive to Republic ecosystems.
 ### 5.4 Priority 2 to 4 — Illegal but Not Criminal
 Items that warrant fines rather than imprisonment.  
 * **Handling**: Immediate forfeiture and destruction.  
-* **Consequence**: Fines in bullion. Domestic businesses may lose their commerce license for ≥ 5 years. Outside actors may be barred for 5 years.
+* **Consequence**: Fines in bullion. Domestic businesses may lose their commerce license for five (5) years or more. Outside actors may be barred for five (5) years.
 
 ### 5.5 Priority 5 to 7 — Illegal (Criminal)
 Serious contraband leading to criminal and civil charges.  
 * **Handling**: Immediate forfeiture and destruction.  
-* **Consequence**: Criminal charges and bullion fines. Outside actors barred for 25 years. Domestic merchants face permanent or long-term license revocation.
+* **Consequence**: Criminal charges and bullion fines. Outside actors barred for twenty-five (25) years. Domestic merchants face permanent or long-term license revocation.
 
 ---
 
@@ -127,12 +127,12 @@ Serious contraband leading to criminal and civil charges.
 
 ---
 
-**Original Author**:
+**Original Author**: 
 
-**House Signature**:
+**House Signature**: 
 
-**Senate Signature**:
+**Senate Signature**: 
 
-**Executive Office Signature**:
+**Executive Office Signature**: 
 
 **FQLN**: LA_BORDERSDUTIES_20260401

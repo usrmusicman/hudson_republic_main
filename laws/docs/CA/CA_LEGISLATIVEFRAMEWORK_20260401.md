@@ -27,7 +27,7 @@ All Senate decisions are rendered as **passed** or **failed**.
 ---
 
 ## Preamble
-The Hudson Republic is founded on the principle that sovereignty resides ultimately with the individual, not the state. Government exists only as a limited fiduciary agent, strictly bound by immutable individual rights and transparent, adversarial legislative processes designed to prevent capture, overreach, or tyranny. 
+The Hudson Republic is founded on the principle that sovereignty resides ultimately with the individual, not the state. Government exists only as a limited fiduciary agent, strictly bound by the rights of the Individual as protected under **[The Individual (Sovereign) Act](./CA_THEINDIVIDUAL_20260401.md)** and transparent, adversarial legislative processes designed to prevent capture, overreach, or tyranny. 
 
 The federal government of the Hudson Republic shall concern itself solely with monetary integrity, national defence, border security and ports, and the administration of federal courts for constitutional and inter-Riding matters. All other responsibilities — including but not limited to housing, healthcare, mental health, education, welfare, and local infrastructure — are reserved exclusively to the Ridings and their local boards. All power not expressly delegated is reserved to the people.
 

@@ -1,7 +1,3 @@
-# FAQ
-
----
-
 ## National Symbols and Cultural Policy
 
 ### Where did you first get the idea for a Hudson Republic?
@@ -49,7 +45,7 @@ For full legal details, see **[The Individual (Sovereign) Act](./laws/docs/CA/CA
 ---
 
 ## Individual Rights
-In the Hudson Republic, individual rights are **absolute and immutable**, not fluid or subject to government discretion as they have often been in Canada.  
+In the Hudson Republic, individual rights are **supreme and foundational**, protected under **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md)**. Limitations on these rights are permitted only when they satisfy the **Strict Scrutiny Standard** — the highest level of judicial review.
 
 Canadians historically possessed no entrenched rights independent of the Crown. Provisions were granted under the Crown until 1931 (Statute of Westminster), with the Crown remaining the literal head of state until the patriation of the Constitution in 1982. Even then, the Crown retained symbolic and practical influence, enabling foreign actors to exert pressure on Canadian resources. Recent federal actions have further eroded provincial authority to legislate independently.  
 

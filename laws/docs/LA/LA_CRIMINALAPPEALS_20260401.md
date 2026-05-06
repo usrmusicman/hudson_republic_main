@@ -22,7 +22,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ---
 
 ## Preamble
-This Act establishes the appeals process, timelines, mistrial rules, speedy trial protections, and special procedures for capital cases in the Hudson Republic. It ensures due process while maintaining strict accountability and finality for serious offenses. All appeal fees and validity periods are set out in the **[Criminal Appeal Fees Schedule](../SCH/SCH_CRIMEAPPEALFEES_20260413.md)**.
+This Act establishes the appeals process, timelines, mistrial rules, speedy trial protections, and special procedures for capital cases in the Hudson Republic. It ensures due process while maintaining strict accountability and finality for serious offenses. All procedures under this Act shall conform to the rights of the Individual as protected under **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)**, including the application of the Strict Scrutiny Standard for any limitation of Core Rights. All appeal fees and validity periods are set out in the **[Criminal Appeal Fees Schedule](../SCH/SCH_CRIMEAPPEALFEES_20260413.md)**.
 
 ---
 
@@ -40,10 +40,10 @@ All appeal fees and validity periods are set out in the **[Criminal Appeal Fees 
 ---
 
 ## Section 3 — Appeals Timeline
-- Appeal 1: Must be filed within 1 year of initial conviction.  
-- Appeal 2: Must be filed within 1 year of the first appeal decision.  
-- Appeal 3: Must be filed within 1 year of the second appeal decision.  
-- Stay of Execution (“Call of Mercy”): Must be requested within 90 days of final sentencing.
+- Appeal 1: Must be filed within one (1) year of initial conviction.  
+- Appeal 2: Must be filed within one (1) year of the first appeal decision.  
+- Appeal 3: Must be filed within one (1) year of the second appeal decision.  
+- Stay of Execution (“Call of Mercy”): Must be requested within ninety (90) days of final sentencing.
 
 ---
 
@@ -63,7 +63,7 @@ The 30-month maximum may be extended only by order of the Superior Court if:
 - The accused explicitly waives the right to a speedy trial, or  
 - The case is certified as exceptionally complex (e.g., multi-jurisdictional evidence, terrorism-related charges, or mass casualties).  
 
-All extensions must be publicly documented and are subject to immediate judicial review upon motion by the accused.
+All extensions must be publicly documented and are subject to immediate judicial review under the Strict Scrutiny Standard set out in **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)**.
 
 ---
 
@@ -84,7 +84,8 @@ This program is available only to informants. High-risk convicts (e.g., gang lea
 
 ## Section 9 — Death Penalty and Call of Mercy
 The death penalty is available only at the federal level for Level 9 offenses. Local Ridings may waive the death penalty and limit prosecutions to Level 8.  
-In death penalty cases, the condemned has one opportunity for a “Call of Mercy” hearing with the Riding Representative (or designated Local Chamber Justice). The hearing lasts no more than 10 minutes. Only the Riding Representative may grant a stay of execution. All parties must sign the final transcript at least 24 hours before execution. Failure to pay fees or file correctly results in the sentence proceeding as scheduled.
+
+In death penalty cases, the condemned has one opportunity for a “Call of Mercy” hearing with the Riding Representative (or designated Local Chamber Justice). The hearing lasts no more than ten (10) minutes. Only the Riding Representative may grant a stay of execution. All parties must sign the final transcript at least twenty-four (24) hours before execution. Failure to pay fees or file correctly results in the sentence proceeding as scheduled. Any limitation or procedure under this section is subject to the rights and protections in **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)**.
 
 ---
 

@@ -16,13 +16,13 @@ Dependencies
 All capitalized terms used in this Code shall be interpreted in accordance with their definitions in the referenced instruments below.
 
 - **Death Penalty**: The ultimate sanction imposed only for Level 9 (Absolute Conviction) offenses, applied solely as a last resort after all avenues of reform and due process have been exhausted.
-- **Sequential Mandate**: Cumulative sentencing for repeated or escalating violations, served consecutively, as defined in **[Criminal Categorization Act](../CA/CA_CRIMECATEGORIZATION_20260401.md)**.
+- **Sequential Mandate**: Cumulative sentencing for repeated or escalating violations, served consecutively.
 - **Sedative**: A medically administered calming agent given optionally to reduce anxiety or distress on execution day.
 
 ---
 
 ## Preamble
-This Legal Code establishes the limited circumstances, procedural safeguards, and methods of carrying out the death penalty for the most heinous crimes against the Republic. It operates as a subordinate instrument to **[Criminal Categorization Act](../CA/CA_CRIMECATEGORIZATION_20260401.md)** and is designed to protect the sovereignty and constitutional order of the Republic while preserving the immutable rights of the Individual under **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)**. All proceedings shall adhere to the strictest standards of due process, proportionality, and humanity.
+This Legal Code establishes the limited circumstances, procedural safeguards, and methods of carrying out the death penalty for the most heinous crimes against the Republic. It operates as a subordinate instrument to **[Criminal Categorization Act](../CA/CA_CRIMECATEGORIZATION_20260401.md)**. All proceedings shall conform to the rights of the Individual as protected under **[The Individual (Sovereign) Act](../CA/CA_THEINDIVIDUAL_20260401.md)**, including the application of the Strict Scrutiny Standard where relevant.
 
 The death penalty is employed only for the most serious and grave of crimes. It is a last resort, and the Republic strives for every reasonable opportunity to reform the individual before this sanction is imposed.
 
@@ -36,7 +36,7 @@ The purpose of this Code is to define the narrow application of the death penalt
 ## Provisions
 
 ### Criminal Priority Level
-The death penalty may be imposed only upon conviction of a **Level 9 (Absolute Conviction)** offense, as upgraded under **[Treason (Criminal) Code](./CO_TREASON_20260401.md)** or any future Code that explicitly authorizes Level 9 sanctions.
+The death penalty may be imposed only upon conviction of a **Level 9 (Absolute Conviction)** offense.
 
 ---
 
@@ -47,10 +47,10 @@ Before any execution may proceed, the following mandatory safeguards apply:
 1. Automatic judicial review by the Supreme Court.  
 2. Personal review by the National Representative, who may grant clemency or veto the sentence.  
 3. A mandatory “Call of Mercy” hearing before the Riding Representative.  
-4. Execution is automatically stayed if any procedural error, new exculpatory evidence, or constitutional violation is identified at any stage.
+4. Execution is automatically stayed if any procedural error, new exculpatory evidence, or constitutional violation is identified.
 
 ### Methods of Execution
-The Republic authorizes two methods of execution, to be selected by the condemned or, in the absence of a choice, by the Executive Office:
+The Republic authorizes two methods of execution, to be selected by the condemned or, in the absence of a choice, by the Executive Office.
 
 **Method 1 – The Box**  
 A coffin-like device designed for instantaneous decapitation. The device incorporates a precisely aligned blade, a neck mold prepared 90 days in advance, and limited airflow vents. The procedure ensures speed and minimizes suffering.

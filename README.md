@@ -5,7 +5,7 @@
 **Released: April 1, 2026**
 
 **Beaver Nation is live.**  
-Honest money. Absolute individual rights. Real local stewardship. No parties. No Crown. No nonsense.
+Honest money. Individual sovereignty. Real local stewardship. No parties. No Crown. No nonsense.
 
 **Our Flag**
 
@@ -23,9 +23,9 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 
 ## Core Principles That Matter
 
-- **Individual Sovereignty First** — Rights are absolute and immutable, not granted by government or the Crown (see `laws/docs/CA/CA_THEINDIVIDUAL_20260401.md`).
+- **Individual Sovereignty First** — Rights are supreme and foundational, protected under **[The Individual (Sovereign) Act](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md)** with Strict Scrutiny as the standard for any limitation.
 - **Minimal Federal Power** — The federal government handles only monetary integrity, national defence, border security/ports, and constitutional courts. Everything else belongs to the Ridings.
-- **Riding Stewardship** — Each Riding is fully autonomous over culture, language, healthcare, education, roads, and local taxes. The Riding Representative is a true steward of the land.
+- **Riding Stewardship** — Each Riding is fully autonomous.
 - **No Political Parties** — Representatives run as independents under their own name only.
 - **Sound Money** — 100% physical bullion via the Beaver Ledger and Silver Hour standard. Practical 95% purity beaver coins with XRF verification.
 - **Voluntary & Modular** — No region is forced to join. Reluctant areas can remain independent, become Satellite States, or join later.
