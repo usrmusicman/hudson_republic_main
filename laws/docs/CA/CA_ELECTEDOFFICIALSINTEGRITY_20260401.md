@@ -118,7 +118,7 @@ All candidates for elected office (Riding Representative, Senator, HoC Mediator,
 
 ## Section 6 — Supreme Court Justices
 
-**6.1 Election**: Six Justices are elected by the Senate by clear verdict (7/12) immediately following each general election.  
+**6.1 Election**: Twelve justices are elected by the Senate by clear verdict (7/12) immediately following each general election.  
 **6.2 Term Limits**: Maximum of three five-year terms (15 years total), aligned with all other elected roles.  
 **6.3 Jurisdiction**: Exclusive jurisdiction over matters of constitutionality.  
 **6.4 Constraints**: Do not handle standard criminal or civil law and do not impose sentences.  
