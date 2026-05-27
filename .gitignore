@@ -1,0 +1,15 @@
+# Block All MS Office Formats
+*.doc
+*.docm
+*.docx
+*.dotx
+*.potx
+*.ppsx
+*.ppt
+*.pptm
+*.pptx
+*.xls
+*.xlsb
+*.xlsm
+*.xlsx
+*.xltx
