@@ -1,7 +1,8 @@
 # Hudson Republic 🦫
 
 **A focused, post-collapse constitutional atomic republic for Central Canada**  
-**All items contained in this repository relate to the Hudsoner culture.**
+**All items contained in this repository relate to the main repository.**  
+**All legislation found here is considered final and binding**
 
 **Beaver Nation is live.**  
 Honest money. Individual sovereignty. Real local stewardship. No parties. No Crown. No nonsense.
