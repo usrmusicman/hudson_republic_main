@@ -12,13 +12,16 @@ Honest money. Individual sovereignty. Real local stewardship. No parties. No Cro
 ![Hudson Republic Banner](./HUDSON_REPUBLIC_BANNER.png)
 
 ## Clone The Repository and Updating Submodules
-Clone Repository: git clone https://github.com/usrmusicman/hudson_republic_main  
 
-Update submodules (first time):  
+Clone Repository
+
+	git clone https://github.com/usrmusicman/hudson_republic_main  
+
+Update submodules (first time)
 
 	git submodule update --init --recursive
 
-Update submodules (after initialization):  
+Update submodules (after initialization)
 
 	git submodule update --remote
 
