@@ -2,7 +2,7 @@
 
 **A focused, post-collapse constitutional atomic republic for Central Canada**  
 **All items contained in this repository relate to the main repository.**  
-**All legislation found here is considered final and binding**
+**All legislation found here is considered final and binding.**
 
 **Beaver Nation is live.**  
 Honest money. Individual sovereignty. Real local stewardship. No parties. No Crown. No nonsense.
@@ -10,6 +10,11 @@ Honest money. Individual sovereignty. Real local stewardship. No parties. No Cro
 **Our Flag**
 
 ![Hudson Republic Banner](./HUDSON_REPUBLIC_BANNER.png)
+
+## Clong The Repository and Updating Submodules
+Clone Repository: git clone https://github.com/usrmusicman/hudson_republic_main  
+Update submodules (first time): git submodule update --init --recursive  
+Update submodules (after initialization): git submodule update --remote
 
 ## Overview
 
