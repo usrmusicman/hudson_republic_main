@@ -57,8 +57,8 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 │   ├── docs/                 # Legislative Instruments  
 │   │   ├── CA/               # Constitutional Articles  
 │   │   ├── CO/               # Legislative Codes  
-│   │   ├── EA/               # Emergency Articles  
 │   │   ├── EB/               # Emergency Budgets  
+│   │   ├── EL/               # Emergency Legislation  
 │   │   ├── FO/               # Administrative Templates  
 │   │   ├── LA/               # Legislative Articles  
 │   │   ├── LB/               # Legislative Budgets  
@@ -67,8 +67,8 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 │   ├── images/               # Visual assets associated with legislative instruments found in the docs folder (coins, passports, etc.)  
 │   │   ├── CA/               # Constitutional Articles  
 │   │   ├── CO/               # Legislative Codes  
-│   │   ├── EA/               # Emergency Articles  
 │   │   ├── EB/               # Emergency Budgets  
+│   │   ├── EL/               # Emergency Legislation  
 │   │   ├── FO/               # Administrative Templates  
 │   │   ├── LA/               # Legislative Articles  
 │   │   ├── LB/               # Legislative Budgets  
@@ -77,8 +77,8 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 │   ├── attachments/          # Any binary attachments that can't be created using markdown (Excel files, CAD files, MS Project files, etc.)  
 │   │   ├── CA/               # Constitutional Articles  
 │   │   ├── CO/               # Legislative Codes  
-│   │   ├── EA/               # Emergency Articles  
 │   │   ├── EB/               # Emergency Budgets  
+│   │   ├── EL/               # Emergency Legislation  
 │   │   ├── FO/               # Administrative Templates  
 │   │   ├── LA/               # Legislative Articles  
 │   │   ├── LB/               # Legislative Budgets  
