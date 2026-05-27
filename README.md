@@ -108,10 +108,10 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 - [Legislative Framework](./laws/docs/CA/CA_LEGISLATIVEFRAMEWORK_20260401.md) - The Legislative Framework
 - [Naming Conventions](./laws/docs/CA/CA_NAMINGCONVENTION_20260401.md) - The Legislative Framework
 - [Dependency Tree](./laws/images/CA/CA_NAMINGCONVENTION_20260401/HUDSON_DEPENDENCYTREE.png) - Dependency Tree for Legislative Instrument Hierarchy
-- [Legal Tender](./laws/docs/CA/CA_LEGALTENDER_20260401/CA_LEGALTENDER_20260401.md) - Legal Tender
+- [Legal Tender](./laws/docs/CA/CA_LEGALTENDER_20260401.md) - Legal Tender
 - [Bullion Specifications](./laws/docs/LA/LA_BULLIONSTANDARDS_20260401/LA_BULLIONSTANDARDS_20260401.md) - Physical Specifications for the Tri-Metal System
 - [Founders Edition Beaver Coins](./laws/images/LA/LA_BULLIONSTANDARDS_20260401/BULLIONBEAVERS_FOUNDERS_EDITION_2026.png) - Bullion Beaver Coins (Hudson Ledger)
-- [Founders Edition Beaver Bars](./laws/images/LA/LA_BULLIONSTANDARDS_20260401/BULLIONBEAVERS_FOUNDERS_EDITION_BARS_2026.png) - Bullion Beaver Institutional Bars (Hudson Ledger)
+- [Founders Edition Beaver Bars](./laws/images/LA/LA_BULLIONSTANDARDS_20260401/BULLIONBEAVERS_FOUNDERS_EDITION_BARS_2026.jpg) - Bullion Beaver Institutional Bars (Hudson Ledger)
 - [Hudson Republic Banner](./HUDSON_REPUBLIC_BANNER.png) - Hudson Republic National Flag
 - [Hudson Republic Patch](./HUDSON_REPUBLIC_BANNER_ALT.png) - Hudson Republic Official Uniform Patch
 
