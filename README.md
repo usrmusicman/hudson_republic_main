@@ -16,11 +16,11 @@ Clone Repository: git clone https://github.com/usrmusicman/hudson_republic_main
 
 Update submodules (first time):  
 
-	```git submodule update --init --recursive```  
+	git submodule update --init --recursive
 
 Update submodules (after initialization):  
 
-	```git submodule update --remote```
+	git submodule update --remote
 
 ## Overview
 
