@@ -124,7 +124,7 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 
 **Let’s go Beaver Nation!**  
 Honk 🤡 Honk 🤡  
-Goodby Ottawa Maple Mafia!!
+Goodbye Ottawa Maple Mafia!!
 
 — The Hudson Republic Project  
 *Built for liberty, responsibility, and a future that actually works.*
