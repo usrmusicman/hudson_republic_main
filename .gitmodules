@@ -1,0 +1,3 @@
+[submodule "culture"]
+	path = culture
+	url = git@github.com:usrmusicman/hudson_republic_culture.git
