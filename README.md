@@ -13,8 +13,14 @@ Honest money. Individual sovereignty. Real local stewardship. No parties. No Cro
 
 ## Clone The Repository and Updating Submodules
 Clone Repository: git clone https://github.com/usrmusicman/hudson_republic_main  
-Update submodules (first time): git submodule update --init --recursive  
-Update submodules (after initialization): git submodule update --remote
+
+Update submodules (first time):  
+
+	```git submodule update --init --recursive```  
+
+Update submodules (after initialization):  
+
+	```git submodule update --remote```
 
 ## Overview
 
@@ -103,11 +109,11 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 - [Obligation Papers](./laws/docs/OP/) - Obligation Papers
 - [Schedules](./laws/docs/SCH/) - Schedules
 - [The Individual](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md) - The Core Constitution
-- [Territorial Provisioning](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401.md) - How Territory is Managed
+- [Territorial Provisioning](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401.md) - How the Territory(s) is Managed
 - [Constitutional Clarity](./laws/docs/CA/CA_CLARITYACT_20260522.md) - Deals With Constitutional Clarity Decisions
 - [Legislative Framework](./laws/docs/CA/CA_LEGISLATIVEFRAMEWORK_20260401.md) - The Legislative Framework
-- [Naming Conventions](./laws/docs/CA/CA_NAMINGCONVENTION_20260401.md) - The Legislative Framework
-- [Dependency Tree](./laws/images/CA/CA_NAMINGCONVENTION_20260401/HUDSON_DEPENDENCYTREE.png) - Dependency Tree for Legislative Instrument Hierarchy
+- [Naming Conventions](./laws/docs/CA/CA_NAMINGCONVENTION_20260401.md) - Legislative Naming Conventions and Dependency Handling
+- [Dependency Tree](./laws/images/CA/CA_NAMINGCONVENTION_20260401/HUDSON_DEPENDENCYTREE.png) - Dependency Tree Hierarchy
 - [Legal Tender](./laws/docs/CA/CA_LEGALTENDER_20260401.md) - Legal Tender
 - [Bullion Specifications](./laws/docs/LA/LA_BULLIONSTANDARDS_20260401/LA_BULLIONSTANDARDS_20260401.md) - Physical Specifications for the Tri-Metal System
 - [Founders Edition Beaver Coins](./laws/images/LA/LA_BULLIONSTANDARDS_20260401/BULLIONBEAVERS_FOUNDERS_EDITION_2026.png) - Bullion Beaver Coins (Hudson Ledger)
