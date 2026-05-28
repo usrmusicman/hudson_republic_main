@@ -56,7 +56,7 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 ## Repository Structure
 
 .  
-├── culture/                  # National anthem, salute, shield  
+├── culture/                  # National anthem, salute, shield (Submodule)  
 ├── houses/                   # The different federal legislative houses
 │   ├── eo                    # Executive Office (Submodule)  
 │   ├── hoc                   # House of Constituents (Submodule)  
@@ -68,7 +68,7 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 │   │   ├── CO/               # Legislative Codes  
 │   │   ├── EB/               # Emergency Budgets  
 │   │   ├── EL/               # Emergency Legislation  
-│   │   ├── FO/               # Administrative Templates  
+│   │   ├── FO/               # Forms  
 │   │   ├── LA/               # Legislative Articles  
 │   │   ├── LB/               # Legislative Budgets  
 │   │   ├── OP/               # Obligation Papers  
@@ -78,7 +78,7 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 │   │   ├── CO/               # Legislative Codes  
 │   │   ├── EB/               # Emergency Budgets  
 │   │   ├── EL/               # Emergency Legislation  
-│   │   ├── FO/               # Administrative Templates  
+│   │   ├── FO/               # Forms  
 │   │   ├── LA/               # Legislative Articles  
 │   │   ├── LB/               # Legislative Budgets  
 │   │   ├── OP/               # Obligation Papers  
@@ -88,14 +88,14 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 │   │   ├── CO/               # Legislative Codes  
 │   │   ├── EB/               # Emergency Budgets  
 │   │   ├── EL/               # Emergency Legislation  
-│   │   ├── FO/               # Administrative Templates  
+│   │   ├── FO/               # Forms  
 │   │   ├── LA/               # Legislative Articles  
 │   │   ├── LB/               # Legislative Budgets  
 │   │   ├── OP/               # Obligation Papers  
 │   │   └── SCH/              # Schedules  
 │   └── etc...  
-├── ridings/                  # Ridings part of the union  
-├── templates/                # Official document templates  
+├── ridings/                  # Ridings part of the union (Submodule)  
+├── templates/                # Official administrative templates  
 ├── FAQ.md                    # Plain-language answers (start here)  
 └── README.md                 # This file
 
@@ -106,11 +106,12 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 - [Legislative Codes](./laws/docs/CO/) - Legislative Codes
 - [Emergency Legislation](./laws/docs/EL/) - Emergency Legislation
 - [Emergency Budgets](./laws/docs/EB/) - Emergency Budgets
-- [Forms](./laws/docs/FO/) - Administrative Templates
+- [Forms](./laws/docs/FO/) - Forms
 - [Legislative Articles](./laws/docs/LA/) - Legislative Articles
 - [Legislative Budgets](./laws/docs/LB/) - Legislative Budget
 - [Obligation Papers](./laws/docs/OP/) - Obligation Papers
 - [Schedules](./laws/docs/SCH/) - Schedules
+- [Administrative Templates](./templates) - Administrative Templates
 - [The Individual](./laws/docs/CA/CA_THEINDIVIDUAL_20260401.md) - The Core Constitution
 - [Territorial Provisioning](./laws/docs/CA/CA_TERRITORIALPROVISION_20260401.md) - How the Territory(s) is Managed
 - [Constitutional Clarity](./laws/docs/CA/CA_CLARITYACT_20260522.md) - Deals With Constitutional Clarity Decisions
