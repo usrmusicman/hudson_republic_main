@@ -56,7 +56,7 @@ The Hudson Republic Postal System is a critical national infrastructure service 
 - First 3 characters (prefix) = Subzone identifier  
 - Last 5 characters (suffix) = Individual delivery endpoint  
 
-**1.6 Transaction Address Field Identifier (TAFI)**: 8 hexadecimal characters used for secure delivery verification.
+**1.6 Transaction Address Field Identifier (TAFI)**: 8 dynamically randomized hexadecimal characters used for secure delivery verification. The transaction is recorded for fulfillment and the TAFI identifier pool is completely reset per day (24 hours).
 
 ---
 
@@ -66,7 +66,7 @@ The Hudson Republic Postal System is a critical national infrastructure service 
 
 **RCO Field Constraints**  
 - **Riding Loss per Block (RLB)**: 2 reserved ridings per block  
-- **Total Available Ridings TAR**: (16⁴) - [((16²) * RLB) + (((16²) - 2) * RLB)]
+- **Total Available Ridings TAR**: (16⁴) - [((16²) × RLB) + (((16²) - 2) × RLB)]
 
 **IRA Field Constraints**  
 - **Per Subzone Loss (SZL)**: 2 reserved addresses per Subzone  
