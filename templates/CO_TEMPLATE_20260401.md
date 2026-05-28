@@ -7,7 +7,7 @@ This section determines the legal function of a particular code. Options include
 
 Legal code type is: **[Civil / Criminal / Trade / Technology / Documentation / Other]**
 
-Any notes about this code:
+Any notes about this code (if other): **[Notes]**
 
 ---
 
