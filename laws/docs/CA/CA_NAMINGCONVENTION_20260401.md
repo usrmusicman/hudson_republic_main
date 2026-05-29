@@ -27,7 +27,7 @@ Dependencies
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
 - **Distributed Version Control System (DVCS)**: A tool for managing code changes where every legislator (developer) has a full, local copy of the entire project repository, including its full history.  
-- **Fully Qualified Legislative Name (FQLN)**: A standardized identifier in the format `TYPE_SUBJECT_YYYYMMDD`.  
+- **Fully Qualified Legislative Name (FQLN)**: A standardized identifier in the format `TYPE_SUBJECT_DATE`.  
 - **HoC**: House of Constituents, as defined in the **[Legislative Framework Act](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**.
 
 ---
@@ -162,11 +162,12 @@ Forms (FO) are administrative templates only and are non-binding.
 7. **Cultural Instruments (CULT)**: Federal cultural items and symbols are immutable and serve ceremonial, educational, or identity purposes only. They are not binding legislative instruments and carry no dependencies. They may only be terminated by a seventy-five percent (75%) citizen referendum held simultaneously in all Ridings of the Hudson Republic.
 
 ### 2.4 Temporal Inversions and Implicit Amendments
-An internal timestamp mismatch where a parent instrument references a Hard Dependency with a chronologically subsequent FQLN date shall be treated under the following operational rules:
+Any legislative dependency created by temporal inversion (e.g., an instrument referencing a successor instrument that technically precedes it in the registry) shall be automatically classified as an "Implicit Technical Amendment." Such dependencies are considered legally valid and compliant provided the Git commit metadata timestamp supports the chronological validity of the reference. This clause supersedes strict linear hierarchy validation for these specific instances.
 
 1. **Presumption of Amendment**: The individual shall interpret this state as an implicit technical amendment to the implementation layers of the parent instrument, preserving the historical baseline of the parent law while consuming the updated dependency specification.
 2. **Rogue Policy Injection Safeguard**: Because a temporal inversion bypasses synchronous bicameral readings, it shall automatically trigger a high-scrutiny cryptographic audit flag. 
 3. **DVCS Verification Protocol**: To ensure the inversion does not mask a rogue policy injection, auditors must utilize the repository's native Distributed Version Control System (DVCS) functions (e.g., `git log -p` or `git diff`) to verify the exact commit history. The delta must prove that the dependency bump was executed by an authorized signature and carries purely administrative or technical adjustments aligned with the parent instrument's original intent.
+4. **FQLN Date Field**: The FQLN date is when the legislation is drafted in first reading. Since git handles integrity and versioning the date field can be ignored from the dependency resolution process. The date field is used for acrhival purposses only.
 
 ---
 
@@ -176,22 +177,19 @@ To ensure long-term maintainability, clarity, and scalability of the legislative
 
 ### 3.1 Legislative Text Files
 All primary legislative text files shall be stored in:  
-`[root]/laws/docs/[INSTRUMENT_TYPE]/[INSTRUMENT_FQLN]`
-
-**Example**:  
-`[root]/laws/docs/CO/CO_HAZCHEMICALDISPOSAL_20260504.md`
+`[root]/laws/docs/[INSTRUMENT_TYPE]/[INSTRUMENT_FQLN].md`
 
 ### 3.2 Associated Image Assets
 All supporting image assets (diagrams, dependency trees, charts, illustrations, etc.) for a specific instrument shall be stored in a dedicated subdirectory using the instrument’s full **FQLN** as the folder name:  
-`[root]/laws/images/[INSTRUMENT_TYPE]/[INSTRUMENT_FQLN]/`
-
 Individual image files may use any descriptive name, but best practice is to prefix the filename with the full **FQLN** followed by an underscore.
+`[root]/laws/images/[INSTRUMENT_TYPE]/[INSTRUMENT_FQLN]/[FILENAME]`
 
-**Example**:  
-`[root]/laws/images/CO/CO_HAZCHEMICALDISPOSAL_20260504/CO_HAZCHEMICALDISPOSAL_20260504_DEPENDENCYTREE.png`  
-`[root]/laws/images/CO/CO_HAZCHEMICALDISPOSAL_20260504/CO_HAZCHEMICALDISPOSAL_20260504_PROCESSFLOW.png`
+### 3.3 Associated Attachment Assets
+All supporting attachments assets (spreedsheets, pdfs, project source files, presentation files, etc.) for a specific instrument shall be stored in a dedicated subdirectory using the instrument’s full **FQLN** as the folder name:  
+Individual attachment files may use any descriptive name, but best practice is to prefix the filename with the full **FQLN** followed by an underscore.
+`[root]/laws/attachments/[INSTRUMENT_TYPE]/[INSTRUMENT_FQLN]/[FILENAME]`
 
-This separation of legislative text from visual assets streamlines repository maintenance, improves organization, and simplifies long-term archival and auditing.
+This separation of legislative text, from attachments and visual assets streamlines repository maintenance, improves organization, and simplifies long-term archival and auditing.
 
 ---
 
@@ -223,6 +221,7 @@ If a new Constitutional Article is created that has no direct bearing on individ
 For a Legislative Code with the FQLN **CO_HAZCHEMICALDISPOSAL_20260504**:
 - Legislative text: `[root]/laws/docs/CO/CO_HAZCHEMICALDISPOSAL_20260504.md`
 - Associated images: `[root]/laws/images/CO/CO_HAZCHEMICALDISPOSAL_20260504/CO_HAZCHEMICALDISPOSAL_20260504_DIAGRAM.png`
+- Associated attachment: `[root]/laws/images/CO/CO_HAZCHEMICALDISPOSAL_20260504/CO_HAZCHEMICALDISPOSAL_20260504_ENVIRONMENTIMPACT.ods`
 
 ---
 
