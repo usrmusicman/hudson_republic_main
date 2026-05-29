@@ -1,4 +1,4 @@
-# Hudson Republic - Bi-Election Special Accessibility Ballot
+# Bi-Election Special Accessibility Ballot
 
 ---
 

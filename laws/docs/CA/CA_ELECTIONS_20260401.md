@@ -14,13 +14,17 @@ This article is designated as: **Foundational**
 
 ## Hard Dependencies
 List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** and **Schedules (SCH)** can be listed here.
+Only **Constitutional Articles (CA)**, **Forms (FO)** and **Schedules (SCH)** can be listed here.
 
 Dependencies
 * **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
 * **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
-* **[SCH_ELECTIONSADMIN_20260401](../SCH/SCH_ELECTIONSADMIN_20260401.md)**  
+* **[FO_BALLOTGENERAL_20260529](../FO/FO_BALLOTGENERAL_20260529.md)**  
+* **[FO_BALLOTSPECIAL_20260529](../FO/FO_BALLOTSPECIAL_20260529.md)**  
+* **[FO_BIELECTIONGENERAL_20260529](../FO/FO_BIELECTIONGENERAL_20260529.md)**  
+* **[FO_BIELECTIONSPECIAL_20260529](../FO/FO_BIELECTIONSPECIAL_20260529.md)**  
+* **[SCH_ELECTIONSADMIN_20260401](../SCH/SCH_ELECTIONSADMIN_20260401.md)**
 
 ---
 
@@ -66,10 +70,22 @@ Elections in the Hudson Republic are sacred exercises of individual sovereignty,
 
 ## Section 3 — Ballot Specifications
 
-**3.1 Ballots**: Physical paper, Legal size (8.5 × 14 inches), high opacity.  
-**3.2 Layout (Dual-sided Quadrant)**:  
-* **Side One (Obverse)**: Part A (Riding Representative) & Part B (Senator)  
-* **Side Two (Reverse)**: Part C (Senate Mediator) & Part D (National Representative)
+**3.2 General Election Ballot**  
+- **Format**: Double-sided (duplex), four roles total.  
+- **Layout**: Dual-sided quadrant design.  
+  - **Side One (Obverse)**: Riding Representative and Senate Mediator.  
+  - **Side Two (Reverse)**: Senator and National Representative.  
+- **Voting Style**: Optical Mark Recognition (OMR) with up to 12 candidate slots per role plus write-in option.  
+- **Reference**: See **[Official Election Ballot](../FO/FO_BALLOTGENERAL_20260529.md)** and **[Special Accessibility Ballot](../FO/FO_BALLOTSPECIAL_20260529.md)**.
+
+**3.3 Bi-Election Ballot**  
+- **Format**: Single-sided, single-role contest.  
+- **Layout**: Two-column horizontal design with 12 candidates divided into two vertical columns of 6 candidates each.  
+- **Voting Style**: Optical Mark Recognition (OMR) with write-in option.  
+- **Reference**: See **[Bi-Election General Ballot](../FO/FO_BIELECTIONGENERAL_20260529.md)** and **[Bi-Election Special Accessibility Ballot](../FO/FO_BIELECTIONSPECIAL_20260529.md)**.
+
+**3.4 Accessibility Ballot**  
+The Special Accessibility Ballot shall be single-sided with large write-in fields designed for voters requiring additional space or using Intelligent Character Recognition (ICR) processing.
 
 ---
 

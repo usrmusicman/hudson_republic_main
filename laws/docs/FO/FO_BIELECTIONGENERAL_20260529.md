@@ -1,4 +1,4 @@
-# Hudson Republic - Bi-Election General Ballot
+# Bi-Election General Ballot
 
 ---
 

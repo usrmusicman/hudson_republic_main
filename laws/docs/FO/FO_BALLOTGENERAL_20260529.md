@@ -1,4 +1,4 @@
-# Hudson Republic - Official Ballot Template
+# Official Election Ballot
 
 ---
 
@@ -50,7 +50,7 @@ To ensure high-speed tabulators correctly identify and read voter selections, co
 ■                                                                                             ■
 ■ ------------------------------------------------------------------------------------------- ■
 ■   [ COLUMN 1 / ROLE 1 ]                          [ COLUMN 2 / ROLE 2 ]                      ■
-■   TITLE: RIDING REPRESENTATIVE                   TITLE: SENATE MEDIATOR                     ■
+■   TITLE: RIDING REPRESENTATIVE                   TITLE: SENATOR                             ■
 ■   Vote for exactly ONE (1)                       Vote for exactly ONE (1)                   ■
 ■ ------------------------------------------------------------------------------------------- ■
 ■                                                                                             ■
@@ -100,7 +100,7 @@ To ensure high-speed tabulators correctly identify and read voter selections, co
 ■                                                                                             ■
 ■ ------------------------------------------------------------------------------------------- ■
 ■   [ COLUMN 3 / ROLE 3 ]                          [ COLUMN 4 / ROLE 4 ]                      ■
-■   TITLE: SENATOR                                 TITLE: NATIONAL REPRESENTATIVE             ■
+■   TITLE: SENATE MEDIATOR                         TITLE: NATIONAL REPRESENTATIVE             ■
 ■   Vote for exactly ONE (1)                       Vote for exactly ONE (1)                   ■
 ■ ------------------------------------------------------------------------------------------- ■
 ■                                                                                             ■

@@ -1,4 +1,4 @@
-# Hudson Republic - Special Accessibility Ballot Template
+# Special Accessibility Election Ballot
 
 ---
 
@@ -57,14 +57,14 @@ All coordinates are measured from the **Top-Left Corner Registration Mark (0.00,
 ■  │                                                                     │  ■
 ■  └─────────────────────────────────────────────────────────────────────┘  ■
 ■                                                                           ■
-■  [ ROLE 2 ] SENATE MEDIATOR                                               ■
+■  [ ROLE 2 ] SENATOR                                                       ■
 ■  ┌─────────────────────────────────────────────────────────────────────┐  ■
 ■  │                                                                     │  ■
 ■  │                                                                     │  ■
 ■  │                                                                     │  ■
 ■  └─────────────────────────────────────────────────────────────────────┘  ■
 ■                                                                           ■
-■  [ ROLE 3 ] SENATOR                                                       ■
+■  [ ROLE 3 ] SENATE MEDIATOR                                               ■
 ■  ┌─────────────────────────────────────────────────────────────────────┐  ■
 ■  │                                                                     │  ■
 ■  │                                                                     │  ■
