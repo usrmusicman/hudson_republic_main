@@ -29,11 +29,6 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 ### Verdicts
 All Senate decisions are rendered as **passed** or **failed**.
 
-### Mediators
-- **HoC Mediator**: The neutral procedural officer of the House of Constituents.  
-- **Senate Mediator**: The neutral procedural officer of the Senate.  
-- **Volunteer Justice (LC)**: A single sitting Supreme Court Justice who volunteers to submit Legislative Challenges.
-
 ---
 
 ## Preamble
