@@ -12,7 +12,6 @@ Dependencies
 ---
 
 ## Definitions
-
 - **1st Appeal**: The initial appeal filed in the Riding Court (Local Court).  
 - **2nd Appeal**: The appeal filed in the Superior Court.  
 - **3rd Appeal**: The final appeal filed in the Supreme Court (only on constitutional grounds or legislative ambiguity).  
@@ -27,15 +26,14 @@ Dependencies
 ---
 
 ## Preamble
-
 This schedule sets out the standardized administrative fees for criminal appeals and stays of execution in the Hudson Republic. These fees support the three-strike appeals model while maintaining strict accountability and sound-money integrity. All amounts are expressed in HCB8 and include a validity period for auditability and transparency. This schedule is purely referential and derives its authority from its parent instrument, the Criminal Appeals and Procedures Act.
 
 ---
 
 ## Usage
+Understanding the schedule(s) implementations provided.
 
 ### Criminal Appeal Fees Schedule
-
 **Appeal Fee**: This is the name of the appeal or stay in question.  
 **Individual's Name**: This is the name of the appellant or condemned individual.  
 **Short Description**: This is a brief description of the appeal type.  
@@ -46,8 +44,10 @@ This schedule sets out the standardized administrative fees for criminal appeals
 ---
 
 ## Schedules
+This is where the schedules can be found for manual usage or as part of an automation.
 
-**Criminal Appeal Fees**
+### Criminal Appeal Fees Table
+**Table Schedule Type**
 
 | Appeal Fee            | Individual's Name   | Short Description                          | Crime Level | Amount in HCB8 | Number of Months Valid |
 |-----------------------|---------------------|--------------------------------------------|-------------|----------------|------------------------|
@@ -59,7 +59,6 @@ This schedule sets out the standardized administrative fees for criminal appeals
 ---
 
 ## Disclaimer
-
 **All tags require lowercase names and all multi-word tags require the use of underscores (_), instead of spaces ( ).**
 
 ---

@@ -15,7 +15,7 @@ Dependencies
 
 ## Definitions
 
-- **Beaver Postal Routing (BPR)**: The official addressing and routing protocol used by the Hudson Republic Postal Service.  
+- **Beaver Routing Protocol (BRP)**: The official addressing and routing protocol used by the Hudson Republic Postal Service.  
 - **Riding Code (RCO)**: A 4-character hexadecimal identifier split into a 2-character Riding Block prefix and a 2-character specific Riding suffix.  
 - **Individual Routable Address (IRA)**: An 8-character hexadecimal address split into a 3-character Subzone identifier (prefix) and a 5-character individual delivery endpoint (suffix).  
 - **Transaction Address Field Identifier (TAFI)**: An 8-character hexadecimal ephemeral checksum used for secure transaction tracking and delivery confirmation.  
@@ -25,18 +25,19 @@ Dependencies
 
 ## Preamble
 
-The Hudson Republic Postal System is a critical national infrastructure service designed to ensure secure, efficient, and transparent delivery of mail, ballots, government documents, and commercial parcels across all Ridings. This Act establishes the Beaver Postal Routing (BPR) protocol, a structured, hexadecimal-based addressing system that supports the Republic’s principles of transparency, accountability, and individual sovereignty while maintaining operational resilience for elections and emergencies.
+The Hudson Republic Postal System is a critical national infrastructure service designed to ensure secure, efficient, and transparent delivery of mail, ballots, government documents, and commercial parcels across all Ridings. This Act establishes the Beaver Routing Protocol (BRP), a structured, hexadecimal-based addressing system that supports the Republic’s principles of transparency, accountability, and individual sovereignty while maintaining operational resilience for elections and emergencies.
 
 ---
 
-## Section 1 — Beaver Postal Routing (BPR) Protocol
+## Section 1 — Beaver Routing Protocol (BPR)
 
-**1.1** All postal addresses in the Hudson Republic shall use the Beaver Postal Routing (BPR) format consisting of four distinct fields separated by underscores (_). All alphabetic characters shall be uppercase.
+**1.1** All postal addresses in the Hudson Republic shall use the Beaver Routing Protocol (BRP) format consisting of four distinct fields separated by underscores (_). All alphabetic characters shall be uppercase.
 
 **1.2 Address Format**  
 `[Designation]_[RCO]_[IRA]_[TAFI]`
 
 **1.3 Designation Field** (up to 4 alpha characters)  
+- BAL = Varified Ballot Address Token (send and recieve)  
 - CIV = Civilian (commercial or residential)  
 - CAMP = Campground or trailer park  
 - FIN = Financial institution  
@@ -107,12 +108,12 @@ The Hudson Republic Postal System is a critical national infrastructure service 
 
 **4.3** These reserved addresses remain closed except during active election periods or declared emergencies.
 
----
-
 ## Section 5 - Routing Procedure
 
 **Returns**: Subzone --> Riding --> Block --> National
 **Broadcasts**: National --> Block --> Riding --> Subzone
+
+---
 
 ## Section EX1 — Illustrative Examples (Non-binding)
 

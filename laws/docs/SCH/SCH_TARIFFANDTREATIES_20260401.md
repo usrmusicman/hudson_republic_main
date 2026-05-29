@@ -52,9 +52,9 @@ This Schedule provides the definitive, machine-readable tariff rates and treaty 
 ---
 
 ## Usage
+Understanding the schedule(s) implementations provided.
 
 ### Tariff Schedule
-
 **Product or Material**: Name of the line item subject to tariff.  
 **Lifecycle State**: Stage of processing at time of import.  
 **Treaties**: Applicable trade agreements.  
@@ -66,6 +66,19 @@ This Schedule provides the definitive, machine-readable tariff rates and treaty 
 **Percentage (%)**: Equivalent percentage rate.  
 **Weight (Per Unit)**: Weight of the item for assessment purposes.
 
+### Treaties Schedule
+**Treaty Name**: Official name of the treaty.  
+**Membership Status**: Current standing of the treaty relationship.  
+**Country(s) or Region(s)**: Participating nations or regions (lowercase with underscores).  
+**Adoption Date**: Date the National Representative signed the treaty (YYYYMMDD).  
+**Renewal Date**: Next scheduled renewal or review date (YYYYMMDD).
+
+## Schedules
+This is where the schedules can be found for manual usage or as part of an automation.
+
+### Tariffs Table
+**Table Schedule Type**
+
 | Product or Material | Lifecycle State | Treaties   | Treaty State | Exemptions | Value in Fiat (Currency Type) | Value in Bullion Beavers (HCB8) | Bitshift Adjustment | Percentage | Weight (Per Unit) |
 |---------------------|-----------------|------------|--------------|------------|-------------------------------|---------------------------------|---------------------|------------|-------------------|
 | Copper              | all             | standard   | active       | standard   | amount                        | amount                          | >>2                 | 25%        | 1 oz              |
@@ -74,13 +87,8 @@ This Schedule provides the definitive, machine-readable tariff rates and treaty 
 
 **Note**: Treaty State applies at the line-item level. Membership status affects the entire membership and any items covered under that treaty.
 
-### Treaties Schedule
-
-**Treaty Name**: Official name of the treaty.  
-**Membership Status**: Current standing of the treaty relationship.  
-**Country(s) or Region(s)**: Participating nations or regions (lowercase with underscores).  
-**Adoption Date**: Date the National Representative signed the treaty (YYYYMMDD).  
-**Renewal Date**: Next scheduled renewal or review date (YYYYMMDD).
+### Treaties Table
+**Table Schedule Type**
 
 | Treaty Name | Membership Status | Country(s) or Region(s)                             | Adoption Date (YYYYMMDD) | Renewal Date (YYYYMMDD) |
 |-------------|-------------------|-----------------------------------------------------|--------------------------|-------------------------|

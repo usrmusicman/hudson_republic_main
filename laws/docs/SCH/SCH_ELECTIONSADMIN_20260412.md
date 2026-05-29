@@ -12,7 +12,6 @@ Dependencies
 ---
 
 ## Definitions
-
 - **Candidacy Application Fee**: The non-refundable fee required for any individual to file as a candidate in a Riding election.  
 - **Campaign Spending Limits (Individuals)**: The maximum amount an individual may spend on a single campaign in Bullion Beavers.  
 - **Campaign Spending Limits (Businesses)**: The maximum amount a Hudson Republic-registered business or organization may contribute or spend on a single campaign in Bullion Beavers.  
@@ -23,15 +22,14 @@ Dependencies
 ---
 
 ## Preamble
-
 This schedule sets out the standardized administrative fees and spending limits for elections in the Hudson Republic. These rules enforce the no-party, bullion-only, first-come-first-served candidacy model while maintaining strict personal accountability and sound-money integrity. All amounts are expressed in HCB8 and include a validity period for auditability and transparency.
 
 ---
 
 ## Usage
+Understanding the schedule(s) implementations provided.
 
 ### Elections Administration Schedule
-
 **Expense**: This is the name of the expense, fee, or spending limit in question.  
 **Individual or Organization**: This is the person or entity the item applies to.  
 **Riding Name**: This is the riding in which the expense or limit is assessed.  
@@ -41,8 +39,10 @@ This schedule sets out the standardized administrative fees and spending limits 
 ---
 
 ## Schedules
+This is where the schedules can be found for manual usage or as part of an automation.
 
-**Administration Expenses**
+### Administration Expenses Table
+**Table Schedule Type**
 
 | Expense                                      | Individual or Organization | Riding Name   | Amount in HCB8 | Number of Months Valid |
 |----------------------------------------------|----------------------------|---------------|----------------|------------------------|
@@ -53,7 +53,6 @@ This schedule sets out the standardized administrative fees and spending limits 
 ---
 
 ## Disclaimer
-
 **All tags require lowercase names and all multi-word tags require the use of underscores (_), instead of spaces ( ).**
 
 ---

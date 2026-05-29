@@ -23,7 +23,11 @@ This Schedule provides the definitive list of acceptable bullion denominations a
 
 ---
 
-## Bullion Denominations Table
+## Schedules
+This is where the schedules can be found for manual usage or as part of an automation.
+
+### Bullion Denominations Table
+**Table Schedule Type**
 
 | Bullion Type       | Denomination          | Permitted Metals          | Minimum Purity | Usage Category             | Special Rules                                                          | Republic Standard Specification     |
 |--------------------|-----------------------|---------------------------|----------------|----------------------------|------------------------------------------------------------------------|-------------------------------------|

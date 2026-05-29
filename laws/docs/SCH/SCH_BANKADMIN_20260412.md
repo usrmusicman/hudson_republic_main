@@ -12,7 +12,6 @@ Dependencies
 ---
 
 ## Definitions
-
 - **FHI Audit Fee**: The annual compliance audit fee required to maintain Financial Holdings Insurance.  
 - **MTI Counterfeit (Without Terminal) Penalty**: Penalty assessed for a Merchant Transaction Insurance breach on physical bullion transactions of 1 troy ounce of gold or more when no XRF verification terminal is used.  
 - **MTI Counterfeit (With Terminal) Penalty**: Penalty assessed for the same breach when an XRF verification terminal is provided.  
@@ -24,15 +23,14 @@ Dependencies
 ---
 
 ## Preamble
-
 This schedule sets out the standardized administrative expenses, fees, and penalties for Financial Holdings Insurance (FHI) and Merchant Transaction Insurance (MTI). These charges protect the integrity of the Beaver Ledger by ensuring all institutions and merchants handling physical bullion maintain verifiable, chemistry-backed compliance and deter fraud or counterfeiting. All amounts are expressed in Bullion Beavers and include a validity period for clarity and auditability.
 
 ---
 
 ## Usage
+Understanding the schedule(s) implementations provided.
 
 ### Banking Administration Schedule
-
 **Expense**: This is the name of the expense, fee, or penalty in question.  
 **Financial Institution**: This is the name of the organization the expense applies to.  
 **Riding Name**: This is the riding in which the expense is assessed.  
@@ -42,8 +40,10 @@ This schedule sets out the standardized administrative expenses, fees, and penal
 ---
 
 ## Schedules
+This is where the schedules can be found for manual usage or as part of an automation.
 
-**Administration Expenses**
+### Administration Expenses Table
+**Table Schedule Type**
 
 | Expense                                        | Financial Institution | Riding Name   | Amount (HCB8) | Number of Months Valid |
 |------------------------------------------------|-----------------------|---------------|---------------|------------------------|
@@ -55,7 +55,6 @@ This schedule sets out the standardized administrative expenses, fees, and penal
 ---
 
 ## Disclaimer
-
 **All tags require lowercase names and all multi-word tags require the use of underscores (_), instead of spaces ( ).**
 
 ---
