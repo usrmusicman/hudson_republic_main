@@ -14,11 +14,10 @@ This article is designated as: **Bedrock**
 
 ## Hard Dependencies
 List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)**, **Forms (FO)** and **Schedules (SCH)** can be listed here.
+Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
 * **[CA_CLARITYACT_20260522](./CA_CLARITYACT_20260522.md)**  
-* **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
 * **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**
 
@@ -91,17 +90,6 @@ Constitutional Articles are divided into two tiers as defined in the **[Legislat
 
 **2.5 Senate Voting Thresholds**: All Senate verdicts shall comply with the thresholds, full-attendance (12/12) quorum, and Registered Representation requirements established in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.
 **2.6 Amendments**: The Senate may only amend frozen legislation in accordance with the **[Clarity Act](./CA_CLARITYACT_20260522.md)**. If the required threshold fails, the bill must be voted on exactly as received.
-
-### Senate Mediator
-**2.7** The Senate Mediator is the neutral procedural officer of the Senate.  
-- At every reading and at the final rendering stage, the Senate Mediator’s sole duty is to receive the legislation exactly as passed and transmit it, unchanged, to the next stage or to the Executive Office for final review and minting.  
-- The Senate Mediator shall have **zero influence** over the content, timing, or outcome of any legislation. Any attempt to influence, delay, or alter legislation constitutes treason.
-
-**2.8 Transmission**: Once passed, legislation is transmitted to the Executive Office for final review and minting.
-
-### Special Secretary
-**2.9 Special Circumstances**: In cases of absence due to incapacity, illness, incarceration, or other extraordinary circumstances, a duly elected Special Secretary may sit and vote in the elected Senator's place.
-- Special Secretaries serve at the pleasure of the Senate and may be discharged or replaced by a Clear Verdict (7/12) at any time.
 
 ### Emergency Protocols and Personal Liability
 **2.9 Extensions**: A 60-day extension of emergency powers requires a verdict as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.  

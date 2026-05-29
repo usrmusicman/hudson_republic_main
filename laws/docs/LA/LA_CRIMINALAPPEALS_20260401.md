@@ -4,12 +4,11 @@
 
 ## Hard Dependencies
 List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)**, **Legislative Articles (LA)**, **Forms (FO)** and **Schedules (SCH)** can be listed here.
+Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
 
 Dependencies
 * **[CA_CRIMECATEGORIZATION_20260401](../CA/CA_CRIMECATEGORIZATION_20260401.md)**  
-* **[CA_JUDICIALCOURTS_20260401](../CA/CA_JUDICIALCOURTS_20260401.md)**  
-* **[SCH_CRIMEAPPEALFEES_20260413](../SCH/SCH_CRIMEAPPEALFEES_20260413.md)**
+* **[CA_JUDICIALCOURTS_20260401](../CA/CA_JUDICIALCOURTS_20260401.md)**
 
 ---
 

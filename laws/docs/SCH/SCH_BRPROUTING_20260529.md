@@ -7,7 +7,7 @@ List any legislative instrument(s) (in alphabetical order) that this article mus
 Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Legislative Codes (CO)** can be listed here.
 
 Dependencies
-* **[LA_POSTALSYSTEM_20260529](../LA/LA_POSTALSYSTEM_20260529)**
+* **[LA_POSTALSYSTEM_20260528](../LA/LA_POSTALSYSTEM_20260528)**
 
 ---
 

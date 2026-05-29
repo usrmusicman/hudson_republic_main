@@ -14,17 +14,13 @@ This article is designated as: **Foundational**
 
 ## Hard Dependencies
 List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)**, **Forms (FO)** and **Schedules (SCH)** can be listed here.
+Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
+* **[CA_CLARITYACT_20260522](./CA_CLARITYACT_20260522.md)**  
 * **[CA_ELECTEDOFFICIALSINTEGRITY_20260401](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**  
 * **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
-* **[FO_BALLOTGENERAL_20260529](../FO/FO_BALLOTGENERAL_20260529.md)**  
-* **[FO_BALLOTSPECIAL_20260529](../FO/FO_BALLOTSPECIAL_20260529.md)**  
-* **[FO_BIELECTIONGENERAL_20260529](../FO/FO_BIELECTIONGENERAL_20260529.md)**  
-* **[FO_BIELECTIONSPECIAL_20260529](../FO/FO_BIELECTIONSPECIAL_20260529.md)**  
-* **[SCH_ELECTIONSADMIN_20260401](../SCH/SCH_ELECTIONSADMIN_20260401.md)**
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**
 
 ---
 

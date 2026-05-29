@@ -14,11 +14,10 @@ This article is designated as: **Bedrock**
 
 ## Hard Dependencies
 List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)**, **Forms (FO)** and **Schedules (SCH)** can be listed here.
+Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
 * **[CA_CLARITYACT_20260522](./CA_CLARITYACT_20260522.md)**  
-* **[CA_LEGALTENDER_20260401](./CA_LEGALTENDER_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**
 
 ---
@@ -102,16 +101,13 @@ A region may apply for Satellite State status or for full adoption as Ridings, b
 ---
 
 ## Section 6 — Adoption of Satellite States as Ridings
-**6.1 Eligibility for Adoption**  
-A Satellite State may apply for full integration as one or more Ridings only after satisfying the following cumulative conditions (see **[CA_NATIONALSECURITY_20260401](./CA_NATIONALSECURITY_20260401.md)** for integrity screening).  
-
-**6.2 Application Process**  
+**6.1 Application Process**  
 - An application fee of **five hundred (500) troy ounces of gold** must be paid prior to formal assessment.  
 - **Pre-Assessment**: The total landmass of the applying region is added to the Republic’s existing territory. The resulting per-Riding landmass must remain within 35,000–50,000 km².  
 - **Referendum and Senate Approval**: Adoption requires a Legislative Challenge (LC) and a referendum in the affected Senatorial block achieving the Overwhelming Majority standard as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**, followed by a Senate verdict as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.  
 - **National Representative Decision**: The National Representative may veto the adoption or approve it. Approval initiates a thirty (30)-year probationary period.
 
-**6.3 Mutual Exclusivity Rule**  
+**6.2 Mutual Exclusivity Rule**  
 A region that applies for one category and is rejected, rescinds, or is revoked must wait the full prescribed waiting period before applying for the other category.
 
 ---
