@@ -24,11 +24,12 @@ This is a short summary of what is in the legislative instrument.
 ---
 
 ## Usage
+Understanding the schedule(s) implementations provided.
 
-### Specific Scheulde Name
+### Specific Schedule Name
 Here is where you define the variables and how to use them.
 
-### Specific Scheulde Name (if applicable)
+### Specific Schedule Name (if applicable)
 Here is where you define the variables and how to use them.
 
 ---
@@ -36,6 +37,7 @@ Here is where you define the variables and how to use them.
 ## Schedules
 This is where the schedules can be found for manual usage or as part of an automation.
 
+### Table Name
 **Table Schedule Type**
 
 | Name Of Table | Category1 | Category2 | Category3 |
@@ -44,6 +46,7 @@ This is where the schedules can be found for manual usage or as part of an autom
 | **LineItem2** | value | value | value |
 | **LineItem3** | value | value | value |
 
+### Table Name (if applicable)
 **List Schedule Type**
 
 Name Of List

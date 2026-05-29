@@ -161,6 +161,13 @@ Forms (FO) are administrative templates only and are non-binding.
 6. **Emergency Instruments (EL and EB)**: May only depend upon Constitutional Articles (CA). They must not depend upon any peacetime legislative instruments. No derivative legislative instruments may be created from an emergency instrument, as they carry an absolute, time-bound expiration.  
 7. **Cultural Instruments (CULT)**: Federal cultural items and symbols are immutable and serve ceremonial, educational, or identity purposes only. They are not binding legislative instruments and carry no dependencies. They may only be terminated by a seventy-five percent (75%) citizen referendum held simultaneously in all Ridings of the Hudson Republic.
 
+### 2.4 Temporal Inversions and Implicit Amendments
+An internal timestamp mismatch where a parent instrument references a Hard Dependency with a chronologically subsequent FQLN date shall be treated under the following operational rules:
+
+1. **Presumption of Amendment**: The individual shall interpret this state as an implicit technical amendment to the implementation layers of the parent instrument, preserving the historical baseline of the parent law while consuming the updated dependency specification.
+2. **Rogue Policy Injection Safeguard**: Because a temporal inversion bypasses synchronous bicameral readings, it shall automatically trigger a high-scrutiny cryptographic audit flag. 
+3. **DVCS Verification Protocol**: To ensure the inversion does not mask a rogue policy injection, auditors must utilize the repository's native Distributed Version Control System (DVCS) functions (e.g., `git log -p` or `git diff`) to verify the exact commit history. The delta must prove that the dependency bump was executed by an authorized signature and carries purely administrative or technical adjustments aligned with the parent instrument's original intent.
+
 ---
 
 ## Section 3 — File Organization and Asset Management

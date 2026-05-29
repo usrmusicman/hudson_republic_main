@@ -42,8 +42,8 @@ These are the conditions that need to be met in order for this legislative code 
 
 ---
 
-## Proceedures
-Proceedures to meet compliance with the above provisions found in the legislative code instrument.
+## Procedures
+Procedures to meet compliance with the above provisions found in the legislative code instrument.
 
 ---
 

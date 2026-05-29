@@ -4,12 +4,12 @@
 
 ## Hard Dependencies
 List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
-Only **Constitutional Articles (CA)** and **Legislative Articles** can be listed here.
+Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
 
 Dependencies
-* **[CA_EXAMPLE4_20260401](/path/to/legislative/instrument/CA_EXAMPLE4_20260401)**
-* **[LA_EXAMPLE1_20260401](/path/to/legislative/instrument/LA_EXAMPLE1_20260401)**
-* **[LA_EXAMPLE2_20260401](/path/to/legislative/instrument/LA_EXAMPLE2_20260401)**
+* **[CA_EXAMPLE4_20260401](path/to/legislative/instrument/CA_EXAMPLE4_20260401.md)**
+* **[LA_EXAMPLE1_20260401](path/to/legislative/instrument/LA_EXAMPLE1_20260401.md)**
+* **[LA_EXAMPLE2_20260401](path/to/legislative/instrument/LA_EXAMPLE2_20260401.md)**
 
 ---
 

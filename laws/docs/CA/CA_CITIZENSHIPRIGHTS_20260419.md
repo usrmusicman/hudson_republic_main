@@ -17,9 +17,9 @@ List any legislative instrument(s) (in alphabetical order) that this article mus
 Only **Constitutional Articles (CA)** and **Schedules (SCH)** can be listed here.
 
 Dependencies
-* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 * **[CA_GENERALADMIN_20260401](./CA_GENERALADMIN_20260401.md)**  
 * **[CA_TERRITORIALPROVISION_20260401](./CA_TERRITORIALPROVISION_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**  
 
 ---
 

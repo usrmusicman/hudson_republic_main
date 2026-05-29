@@ -8,8 +8,8 @@ Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
 * **[CA_EXAMPLE4_20260401](path/to/legislative/instrument/CA_EXAMPLE4_20260401.md)**
-* **[EB_EXAMPLE1_20260401](path/to/legislative/instrument/EB_EXAMPLE1_20260401.md)**
-* **[EB_EXAMPLE2_20260401](path/to/legislative/instrument/EB_EXAMPLE2_20260401.md)**
+* **[CA_EXAMPLE1_20260401](path/to/legislative/instrument/CA_EXAMPLE1_20260401.md)**
+* **[CA_EXAMPLE2_20260401](path/to/legislative/instrument/CA_EXAMPLE2_20260401.md)**
 
 ---
 

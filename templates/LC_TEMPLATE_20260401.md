@@ -8,9 +8,9 @@ If more than one is listed then it will need to be determined if it needs to be 
 All legislative instruments are accepted as dependencies.
 
 Dependencies
-* **[CA_EXAMPLE4_20260401](/path/to/legislative/instrument/CA_EXAMPLE4_20260401.md)** | **[Amend / Remove]**
-* **[LA_EXAMPLE1_20260401](/path/to/legislative/instrument/LA_EXAMPLE1_20260401.md)** | **[Amend / Remove]**
-* **[LB_EXAMPLE2_20260401](/path/to/legislative/instrument/LB_EXAMPLE2_20260401.md)** | **[Amend / Remove]**
+* **[CA_EXAMPLE4_20260401](path/to/legislative/instrument/CA_EXAMPLE4_20260401.md)** | **[Amend / Remove]**
+* **[LA_EXAMPLE1_20260401](path/to/legislative/instrument/LA_EXAMPLE1_20260401.md)** | **[Amend / Remove]**
+* **[LB_EXAMPLE2_20260401](path/to/legislative/instrument/LB_EXAMPLE2_20260401.md)** | **[Amend / Remove]**
 
 ---
 
