@@ -57,7 +57,10 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 
 .  
 ├── culture/                  # National anthem, salute, shield (Submodule)  
-├── houses/                   # The different federal legislative houses
+├── docs                      # General documentation for the Hudson Republic  
+│   ├── images                # Visual assets associated with the documentation found in the text folder (schematics, icons, visualizations, etc.)  
+│   └── text                  # Written Documentation  
+├── houses/                   # The different federal legislative houses  
 │   ├── eo                    # Executive Office (Submodule)  
 │   ├── hoc                   # House of Constituents (Submodule)  
 │   ├── justice               # Supreme Court (Submodule)  
@@ -100,7 +103,7 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 └── README.md                 # This file
 
 **Quick Start Links**
-- [Full FAQ](./FAQ.md) — Plain-English overview of rights, money, governance, and more
+- [Full FAQ](./docs/text/FAQ.md) — Plain-English overview of rights, money, governance, and more
 - [Contribute and Getting Started](./CONTRIBUTING.md) - Get started with this repository
 - [Constitutional Articles](./laws/docs/CA/) - Constitutional Articles
 - [Legislative Codes](./laws/docs/CO/) - Legislative Codes
