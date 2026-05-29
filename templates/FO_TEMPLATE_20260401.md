@@ -37,6 +37,10 @@ Contents can include templates for: licenses, permits, notices, administrative f
 
 **Original Author**:
 
-**Executive Office Signature**: 
+**House Signature** (only if attached to a parent instrument):
+
+**Senate Signature** (only if attached to a parent instrument):
+
+**Executive Office Signature**:
 
 **FQLN**: FO_[NAME]_[YYYYMMDD]

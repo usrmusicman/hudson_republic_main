@@ -81,10 +81,10 @@ Name Of List
 
 **Original Author**:
 
-**House Signature**: 
+**House Signature** (only if attached to a parent instrument):
 
-**Senate Signature**: 
+**Senate Signature** (only if attached to a parent instrument):
 
-**Executive Office Signature**: 
+**Executive Office Signature**:
 
 **FQLN**: SCH_[NAME]_[YYYYMMDD]

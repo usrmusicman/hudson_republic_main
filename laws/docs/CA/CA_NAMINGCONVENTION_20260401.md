@@ -26,8 +26,8 @@ Dependencies
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
-- **Distributed Version Control System (DVCS)**: A tool for managing code changes where every legislator (developer) has a full, local copy of the entire project repository, including its full history.  
-- **Fully Qualified Legislative Name (FQLN)**: A standardized identifier in the format `TYPE_SUBJECT_DATE`.  
+- **Distributed Version Control System (DVCS)**: A tool for managing code changes where every legislator (contributor) has a full, local copy of the entire project repository, including its full history.  
+- **Fully Qualified Legislative Name (FQLN)**: A standardized identifier in the format `TYPE_SUBJECT_YYYYMMDD`.  
 - **HoC**: House of Constituents, as defined in the **[Legislative Framework Act](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**.
 
 ---
