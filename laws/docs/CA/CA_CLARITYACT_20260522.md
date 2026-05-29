@@ -25,7 +25,7 @@ Dependencies
 
 ## Definitions
 
-**Simple Majority** — A vote or verdict of greater than 51% in the House of Constituents or 6/12 in the Senate or judicial courts (12-person jury model). Acceptable for routine matters but remains contestable due to its narrow margin.
+**Simple Majority / Balance of Probabilities** — A vote or verdict of greater than 51% in the House of Constituents or 6/12 in the Senate or judicial courts (12-person jury model). Acceptable for routine matters but remains contestable due to its narrow margin.
 
 **Clear Majority / Clear Verdict** — A vote or verdict of 60% or greater in the House of Constituents or 7/12 in the Senate or judicial courts. This constitutes the baseline standard for ordinary legislation and civil judicial matters.
 
