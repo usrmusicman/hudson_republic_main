@@ -38,12 +38,12 @@ This Act establishes the standards for all bullion accepted as legal tender with
 ---
 
 ## Section 1 — Acceptable Bullion for Merchants (Commercial Use)
-Bullion qualifies as legal tender for everyday commerce if it fully complies with the purity, weight, and condition requirements set out in the **SCH_BULLIONDENOMINATIONS_20260504** Schedule.
+Bullion qualifies as legal tender for everyday commerce if it fully complies with the purity, weight, and condition requirements set out in the **[Territorial Provisioning Act](../SCH/SCH_BULLIONDENOMINATIONS_20260504.md)** Schedule.
 
 ---
 
 ## Section 2 — Acceptable Bullion for Financial Institutions
-Bullion qualifies for use in banking, trusts, savings, and institutional reserves if it meets the higher purity and form standards set out in the **SCH_BULLIONDENOMINATIONS_20260504** Schedule. Institutional reserves shall be backed exclusively by bars meeting these standards.
+Bullion qualifies for use in banking, trusts, savings, and institutional reserves if it meets the higher purity and form standards set out in the **[Territorial Provisioning Act](../SCH/SCH_BULLIONDENOMINATIONS_20260504.md)** Schedule. Institutional reserves shall be backed exclusively by bars meeting these standards.
 
 ---
 
