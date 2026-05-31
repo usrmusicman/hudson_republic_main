@@ -18,7 +18,6 @@ Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
 * **[CA_CLARITYACT_20260522](./CA_CLARITYACT_20260522.md)**  
-* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**
 
 ---
@@ -101,13 +100,9 @@ All Legislative Codes (CO) must clearly declare their Legal Function type.
 * **Purpose**: Repeal, amendment, or decommissioning of existing legislation due to unconstitutionality or overreach.  
 * **Enactment**: Senate applies the threshold required by the *challenged* instrument (e.g., 12/12 for CA challenges).
 
-### SCH — Schedule
-* **Purpose**: Lists, indexes, or technical specifications (e.g., tariff schedules).  
-* **Enactment**: See Section 6.2 for detailed rules.
-
-### FO — Forms
-* **Purpose**: Administrative templates, licenses, and notices.  
-* **Enactment**: Created or amended by the Executive Office; **no legislative readings required**. Void if they contradict parent legislation.
+### SCH — Schedule / FO — Forms
+* **Purpose**: Supporting instruments (lists, specifications, templates, notices).
+* **Enactment**: No legislative readings required unless inherited from a parent instrument.
 
 ---
 
@@ -124,41 +119,24 @@ To preserve constitutional hierarchy and legislative integrity, every instrument
 - **Foundational Constitutional Articles** may depend upon **Bedrock** or other **Foundational** Constitutional Articles.  
 - Instruments requiring **two readings** (LA, LB) may depend upon instruments requiring two or three readings.  
 - Instruments requiring **one reading** (OP, CO) may depend upon instruments requiring one, two, or three readings.  
-- Instruments requiring **zero readings** (SCH, FO) are generally standalone but may list Hard Dependencies for transparency.
-
-### 2.1.1 Special Rule — The Individual (Sovereign) Act
-The **CA_THEINDIVIDUAL_20260401** is a **Bedrock** Constitutional Article. It shall be listed as a **Hard Dependency** only by other Constitutional Articles. All other legislative instruments shall treat it as an **implicit foundational dependency** by inheritance.
-
-- It shall be listed as a **Hard Dependency** only by other **Constitutional Articles (CA)**.  
-- All other legislative instruments (LA, CO, SCH, FO, etc.) shall treat **CA_THEINDIVIDUAL_20260401** as an **implicit foundational dependency** by inheritance. They are not required to list it explicitly.
-
-This rule minimizes unnecessary dependency clutter while ensuring the immutable rights of the Individual remain the bedrock of the entire legislative framework.
+- Instruments requiring **zero readings** (SCH, FO) are generally standalone but must list Hard Dependencies for transparency.
 
 ### 2.2 Supporting Instruments — Schedules (SCH) and Forms (FO)
 Schedules (SCH) and Forms (FO) are purely supporting instruments. They share the following rules:
 
 - They always require a minimum of zero readings and a maximum of three readings.  
+	* They inherit the enactment threshold and legal weight of the **highest-tier parent instrument** they depend upon.  
+	* **Authors must be careful with intent**: listing a Constitutional Article (CA) as a dependency will bind the Schedule or Form to constitutional-level standards, even if the primary parent legislation targeted is a Legislative Article (LA).  
 - They remain non-substantive. They cannot create new rights, obligations, or authorities independent of their parent instrument(s).  
 - If a Schedule or Form is not depended upon by any instrument, it defaults to no readings in either legislative house.
 
-#### 2.2.1 Schedules (SCH) — Special Rule
-A Schedule (SCH) is a purely supporting instrument containing lists, indexes, technical specifications, tariffs, annexes, or similar material.  
-
-- When a parent instrument depends upon a Schedule, the Schedule inherits the exact enactment threshold of that parent.
-
-#### 2.2.2 Forms (FO) — Special Rule
-Forms (FO) are administrative templates only and are non-binding.  
-
-- Forms are created or amended by the Executive Office; **no legislative readings are required**.  
-- When a parent instrument depends upon a Form, the Form inherits the exact enactment threshold of that parent.
-
 ### 2.3 Other Specific Dependency Rules
-1. **Legislative Budgets (LB)**: May only depend upon Legislative Articles (LA) and Constitutional Articles (CA). This directionality is not reciprocal. They may not depend upon Schedules (SCH) or other Legislative Budgets (LB).  
-2. **Legislative Articles (LA)**: May only depend upon other Legislative Articles (LA), Constitutional Articles (CA), and Schedules (SCH).  
-3. **Legal Codes (CO)**: May only depend upon Constitutional Articles (CA), Legislative Articles (LA), other Legal Codes (CO) and Schedules (SCH). They may not depend upon budgetary instruments such as Legislative Budgets (LB) or Obligation Papers (OP).  
-4. **Obligation Papers (OP)**: May only depend upon Constitutional Articles (CA), Legislative Articles (LA), Legal Codes (CO). They may not depend upon Schedules (SCH), Legislative Budgets (LB) or other Obligation Papers (OP).  
+1. **Legislative Budgets (LB)**: May only depend upon Legislative Articles (LA) and Constitutional Articles (CA). This directionality is not reciprocal. They may not depend upon Schedules (SCH), Forms (FO) or other Legislative Budgets (LB).  
+2. **Legislative Articles (LA)**: May only depend upon other Legislative Articles (LA), Constitutional Articles (CA).  
+3. **Legal Codes (CO)**: May only depend upon Constitutional Articles (CA), Legislative Articles (LA), other Legal Codes (CO). They may not depend upon budgetary instruments such as Legislative Budgets (LB), Obligation Papers (OP), Schedules (SCH) or Forms (FO).  
+4. **Obligation Papers (OP)**: May only depend upon Constitutional Articles (CA), Legislative Articles (LA), Legal Codes (CO). They may not depend upon Legislative Budgets (LB), Schedules (SCH), Forms (FO) or other Obligation Papers (OP).  
 5. **Legislative Challenges (LC)**: Shall have no dependencies. As reforming, amending, or decommissioning instruments, LCs stand independent and may target any class of legislation.  
-6. **Emergency Instruments (EL and EB)**: May only depend upon Constitutional Articles (CA). They must not depend upon any peacetime legislative instruments. No derivative legislative instruments may be created from an emergency instrument, as they carry an absolute, time-bound expiration.  
+6. **Emergency Instruments (EL and EB)**: May only depend upon Constitutional Articles (CA). They must not depend upon any other peacetime legislative instruments. No derivative legislative instruments may be created from an emergency instrument, as they carry an absolute, time-bound expiration.  
 7. **Cultural Instruments (CULT)**: Federal cultural items and symbols are immutable and serve ceremonial, educational, or identity purposes only. They are not binding legislative instruments and carry no dependencies. They may only be terminated by a seventy-five percent (75%) citizen referendum held simultaneously in all Ridings of the Hudson Republic.
 
 ### 2.4 Temporal Inversions and Implicit Amendments
@@ -214,6 +192,11 @@ A Legal Code (CO) on criminal procedure does **not** list **CA_THEINDIVIDUAL_202
 
 **EX1.5**  
 If a new Constitutional Article is created that has no direct bearing on individual rights, it may still list **CA_THEINDIVIDUAL_20260401** for emphasis and clarity, but this is not mandatory.
+
+**EX1.6**  
+If a schedule or Form lists a hard dependency on a Constitutional Article (CA), then it inherits CA-level requirements.
+
+**EX1.7**
 
 ## Section EX2 — Dependency and File Organization Examples
 

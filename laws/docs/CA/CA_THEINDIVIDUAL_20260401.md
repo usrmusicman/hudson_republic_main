@@ -17,9 +17,7 @@ List any legislative instrument(s) (in alphabetical order) that this article mus
 Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
-* **[CA_CLARITYACT_20260522](./CA_CLARITYACT_20260522.md)**  
-* **[CA_JUDICIALCOURTS_20260401](./CA_JUDICIALCOURTS_20260401.md)**  
-* **[CA_LEGISLATIVEFRAMEWORK_20260401](./CA_LEGISLATIVEFRAMEWORK_20260401.md)** 
+* **NONE**
 
 ---
 

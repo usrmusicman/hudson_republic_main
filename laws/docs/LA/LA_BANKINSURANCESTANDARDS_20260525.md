@@ -6,9 +6,6 @@
 List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
 Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
 
----
-
-## Hard Dependencies
 Dependencies
 * **[CA_BANKANDRESERVE_20260401](../CA/CA_BANKANDRESERVE_20260401.md)**  
 * **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  

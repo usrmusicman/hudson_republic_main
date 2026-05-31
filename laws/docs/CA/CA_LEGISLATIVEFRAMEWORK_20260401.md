@@ -18,7 +18,6 @@ Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
 * **[CA_CLARITYACT_20260522](./CA_CLARITYACT_20260522.md)**  
-* **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**
 
 ---
@@ -46,18 +45,10 @@ This framework establishes three co-equal branches—the **House of Constituents
 **1.1** The House of Constituents (HoC) is the sole chamber for the origination of all primary peacetime legislation (LA, LB, OP, CO, and SCH in peacetime). Constitutional Articles (CA) must also originate in the HoC.
 
 ### Legislative Procedure
-**1.2 Readings by Instrument Type** (as defined in the Naming Convention Act):  
-- **LA (Legislative Article)**: Two separate readings in distinct sessions.  
-- **LB (Legislative Budget)**: Two separate readings in distinct sessions.  
-- **OP (Obligation Paper)**: One reading.  
-- **CO (Legal Code)**: One reading.  
-- **SCH (Schedule)**: See Section 2.2 of the **[Legislative Document Classification and Naming Convention Act](./CA_NAMINGCONVENTION_20260401.md)** for detailed rules.  
-- **CA (Constitutional Article)**: Three separate readings.
+**1.2 House Voting Thresholds**: All votes in the House of Constituents shall comply with the thresholds and Registered Representation requirements established in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.
 
-**1.3 House Voting Thresholds**: All votes in the House of Constituents shall comply with the thresholds and Registered Representation requirements established in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.
-
-**1.4 Status**: Bills remain "plastic" (amendable) in the HoC; they become "frozen" only upon transmission to the Senate.  
-**1.5 Terminal Rejection**: If a bill fails the final Transmission Vote, it is immediately purged. No re-votes are permitted on that specific text.
+**1.3 Status**: Bills remain "plastic" (amendable) in the HoC; they become "frozen" only upon transmission to the Senate.  
+**1.4 Terminal Rejection**: If a bill fails the final Transmission Vote, it is immediately purged. No re-votes are permitted on that specific text.
 
 ---
 
@@ -65,34 +56,19 @@ This framework establishes three co-equal branches—the **House of Constituents
 
 ### Mandate and Role as High Jury
 **2.1** The Senate is the **High Review Chamber** and constitutional jury.  
-**2.2 Standard Legislation**: Tried on the "balance of probabilities" (civil standard) regarding constitutional soundness.  
-
-**2.3 Constitutional Amendments (CA)**:  
-Constitutional Articles are divided into two tiers as defined in the **[Legislative Document Classification and Naming Convention Act](./CA_NAMINGCONVENTION_20260401.md)**:  
-- **Bedrock Constitutional Articles**: Require a unanimous verdict (100% or 12/12) as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)** across three separate readings.  
-- **Foundational Constitutional Articles**: Require an Overwhelming Majority verdict (75% or 9/12) as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)** across three separate readings.
+**2.2 Standard Legislation**: Tried on the "balance of probabilities" (civil standard) regarding constitutional soundness.
 
 ### Legislative Procedure (The Trial)
-**2.4 Readings by Instrument Type** (as defined in the Naming Convention Act):  
-- **LA (Legislative Article)**: Two separate readings.  
-- **LB (Legislative Budget)**: Two separate readings.  
-- **OP (Obligation Paper)**: One reading.  
-- **CO (Legal Code)**: One reading.  
-- **SCH (Schedule)**: See Section 2.2 of the **[Legislative Document Classification and Naming Convention Act](./CA_NAMINGCONVENTION_20260401.md)** for detailed rules.  
-- **LC (Legislative Challenge)**: Senate applies the threshold required by the challenged instrument.  
-- **EL / EB (Emergency Legislation / Emergency Budget)**: Originated and adjudicated exclusively by the Senate. Requires **one reading**.  
-- **CA (Constitutional Article)**: Three separate readings.
-
-**2.5 Senate Voting Thresholds**: All Senate verdicts shall comply with the thresholds, full-attendance (12/12) quorum, and Registered Representation requirements established in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.
-**2.6 Amendments**: The Senate may only amend frozen legislation in accordance with the **[Clarity Act](./CA_CLARITYACT_20260522.md)**. If the required threshold fails, the bill must be voted on exactly as received.
+**2.4 Senate Voting Thresholds**: All Senate verdicts shall comply with the thresholds, full-attendance (12/12) quorum, and Registered Representation requirements established in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.
+**2.5 Amendments**: The Senate may only amend frozen legislation in accordance with the **[Clarity Act](./CA_CLARITYACT_20260522.md)**. If the required threshold fails, the bill must be voted on exactly as received.
 
 ### Emergency Protocols and Personal Liability
-**2.9 Extensions**: A 60-day extension of emergency powers requires a verdict as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.  
-**2.10 Unlimited Personal Liability**: Triggered immediately for any Senator voting "Yes" on emergency extensions or Declarations of War.  
+**2.6 Extensions**: A 60-day extension of emergency powers requires a verdict as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.  
+**2.7 Unlimited Personal Liability**: Triggered immediately for any Senator voting "Yes" on emergency extensions or Declarations of War.  
 - Senators lose all immunity.  
 - Personally and financially liable for rights violations.  
 - Criminal penalties include life imprisonment, served sequentially.  
-**2.11 War**: Requires monthly validation as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.
+**2.8 War**: Requires monthly validation as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.
 
 ---
 

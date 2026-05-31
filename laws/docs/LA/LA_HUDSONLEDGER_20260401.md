@@ -7,7 +7,8 @@ List any legislative instrument(s) (in alphabetical order) that this article mus
 Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
 
 Dependencies
-* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**
+* **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
+* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**
 
 ---
 
