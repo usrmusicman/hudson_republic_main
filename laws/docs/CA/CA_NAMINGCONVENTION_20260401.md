@@ -126,7 +126,7 @@ The Hudson Republic enforces a strict hierarchical dependency model to preserve 
 - **Bedrock Constitutional Articles (CA(B))** may only depend upon other **Bedrock Constitutional Articles**.  
 - **Foundational Constitutional Articles (CA(F))** may depend upon **Bedrock** and other **Foundational** articles.  
 - All legislative instruments outside of **Forms (FO)**, **Legislative Challenges (LC)**, **Cultural Items (CULT)**, and **Schedules (SCH)** must maintain a hard dependency on **[The Individual Act](./CA_THEINDIVIDUAL_20260401.md)**.  
-- All **Constitutional Articles (CA)**, both bedrock and foundational, with the sole exception of the foundational baselines themselves, must depend on **[The Individual Act](./CA_THEINDIVIDUAL_20260401.md)** and the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.  
+- All **Constitutional Articles (CA)**, both bedrock and foundational, with the sole exception of the listed instruments themselves, must depend on **[The Individual Act](./CA_THEINDIVIDUAL_20260401.md)** and the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.  
 - **[The Individual Act](./CA_THEINDIVIDUAL_20260401.md)** shall carry zero dependencies.  
 - **Emergency Instruments (EL, EB)** may only depend upon **Constitutional Articles (CA)**.  
 - **Legislative Challenges (LC)** and **Cultural Items (CULT)** shall carry **no dependencies** under any circumstance.  
