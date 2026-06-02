@@ -3,7 +3,7 @@
 ---
 
 ## Hard Dependencies
-List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FQLN(s) mentioned in other sections are considered to be references and not actual dependencies.  
 Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
@@ -121,10 +121,12 @@ This gives the Senate the reasoning for the extension of the emergency legislati
 
 ---
 
-**Executive Office Signature**:
+**Original Author**:
 
 **Senate Signature**:
 
 **Senate 60-Day Extension Signature**: [This is only if they decide to extend the life of the legislative instrument, otherwise leave this field blank]
+
+**Executive Office Signature**:
 
 **FQLN**: EB_[NAME]_[YYYYMMDD]

@@ -3,7 +3,7 @@
 ---
 
 ## Affected Dependencies
-List any other dependencies (in alphabetical order) that may need to be challenged alongside this one. Any FLQN(s) mentioned in other sections are considered to be references and not actual dependencies.  
+List any other dependencies (in alphabetical order) that may need to be challenged alongside this one. Any FQLN(s) mentioned in other sections are considered to be references and not actual dependencies.  
 If more than one is listed then it will need to be determined if it needs to be amended or removed.  
 All legislative instruments are accepted as dependencies.
 
