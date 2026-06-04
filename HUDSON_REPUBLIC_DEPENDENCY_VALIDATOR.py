@@ -221,12 +221,14 @@ def lint_registry(registry, subject_map, indexing_errors):
             if not f_subject.isalpha() or not f_subject.isupper() or len(f_subject) > 64:
                 errors.append(f"[{fqln}] FQLN FIELD 2 ERROR: Subject '{f_subject}' must be UPPERCASE alpha-only and cannot exceed 64 characters.")
 
-            # Field 3: Numeric only, minimum 8 and maximum 16 characters
+            # Field 3: Numeric only, minimum 8/max 16 characters, min value 20260401
             if not f_date.isnumeric() or len(f_date) < 8 or len(f_date) > 16:
                 errors.append(
                     f"[{fqln}] FQLN FIELD 3 ERROR: Date '{f_date}' must be numeric-only "
                     f"and must be between 8 and 16 characters in length."
                 )
+            elif int(f_date) < 20260401:
+                errors.append(f"[{fqln}.md] AGE VALIDATION ERROR: This legislation's creation predates the federation.")
 
             # Strict Path Evaluation (laws/docs/[FIELD 1]/[FQLN].md)
             expected_path_suffix = os.path.normpath(f"laws/docs/{f_type}/{fqln}.md")
