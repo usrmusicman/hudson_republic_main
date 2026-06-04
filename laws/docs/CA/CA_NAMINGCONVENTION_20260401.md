@@ -42,7 +42,16 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 
 ---
 
-## Section 1 — Classification of Legislative Instruments
+### Section 1 — Classification of Legislative Instruments
+
+**1.1 Fully Qualified Legislative Name (FQLN)**  
+Every legislative instrument shall be identified by a standardized **Fully Qualified Legislative Name (FQLN)** in the format `TYPE_SUBJECT_YYYYMMDD`. This format ensures immediate human readability, machine parseability, version control, automated auditing, searching, sorting, and long-term archival integrity through distributed version-control systems.
+
+**1.2 Uniqueness Requirement**  
+The **SUBJECT** component (Field 2) of the FQLN must be unique within the repository at any given time. Duplicate SUBJECT names are strictly prohibited to prevent confusion, overlapping scope, or inadvertent duplication of legislative instruments within the main repository.  
+If a legislative instrument is repealed, decommissioned, or otherwise removed from active effect, the same SUBJECT name may be reused for a future instrument. In such cases, the new instrument must carry a different timestamp in Field 3 (YYYYMMDD) to clearly distinguish it as a distinct legislative act. This rule preserves institutional memory while maintaining clarity and preventing namespace collisions.
+
+### Classification of Legislative Instruments**
 The Republic establishes eleven classes of legislative instrument. Constitutional Articles (CA) are exclusive to the federal level. All other classes may exist at the Riding level but remain subordinate to federal supremacy.
 
 ### CA — Constitutional Article
