@@ -84,19 +84,38 @@ Any legislative dependency created by temporal inversion (e.g., an instrument re
 
 ---
 
-## Section 3 — File Organization and Asset Management
+## Section 3 - Legislative Dependency Matrix
+This is a visualization of the hard dependencies that can be associated with each legislative instrument type.
+
+| Instrument Listed (Below)      | CA(B) | CA(F) | CO | CULT | EL | EB | FO | LA | LB | LC | OP | SCH |
+|--------------------------------|-------|-------|----|------|----|----|----|----|----|----|----|-----|
+| CA(B) - Bedrock                | ✔     | X     | X  | X    | X  | X  | X  | X  | X  | X  | X  | X   |
+| CA(F) - Foundational           | ✔     | ✔     | X  | X    | X  | X  | X  | X  | X  | X  | X  | X   |
+| CULT - Cultural Item           | X     | X     | X  | X    | X  | X  | X  | X  | X  | X  | X  | X   |
+| EL - Emergency Legislation     | ✔     | ✔     | X  | X    | X  | X  | X  | X  | X  | X  | X  | X   |
+| EB - Emergency Budget          | ✔     | ✔     | X  | X    | X  | X  | X  | X  | X  | X  | X  | X   |
+| FO - Forms                     | ✔     | ✔     | ✔  | X    | X  | X  | X  | ✔  | X  | X  | X  | X   |
+| LA - Legislative Article       | ✔     | ✔     | X  | X    | X  | X  | X  | ✔  | X  | X  | X  | X   |
+| LB - Legislative Budget        | ✔     | ✔     | X  | X    | X  | X  | X  | ✔  | X  | X  | X  | X   |
+| LC - Legislative Challenge     | X     | X     | X  | X    | X  | X  | X  | X  | X  | X  | X  | X   |
+| OP - Obligation Paper          | ✔     | ✔     | ✔  | X    | X  | X  | X  | ✔  | X  | X  | X  | X   |
+| SCH - Schedule                 | ✔     | ✔     | ✔  | X    | X  | X  | X  | ✔  | X  | X  | X  | X   |
+
+---
+
+## Section 4 — File Organization and Asset Management
 
 To ensure long-term maintainability, clarity, and scalability of the legislative repository, all instruments shall follow this standardized file structure:
 
-**3.1 Legislative Text Files**  
+**4.1 Legislative Text Files**  
 All primary legislative text files shall be stored in:  
 `[root]/laws/docs/[INSTRUMENT_TYPE]/[INSTRUMENT_FQLN].md`
 
-**3.2 Associated Image Assets**  
+**4.2 Associated Image Assets**  
 All supporting image assets shall be stored in a dedicated subdirectory using the instrument’s full **FQLN** as the folder name:  
 `[root]/laws/images/[INSTRUMENT_TYPE]/[INSTRUMENT_FQLN]/[FILENAME]`
 
-**3.3 Associated Attachment Assets**  
+**4.3 Associated Attachment Assets**  
 All supporting attachment assets shall be stored in a dedicated subdirectory using the instrument’s full **FQLN** as the folder name:  
 `[root]/laws/attachments/[INSTRUMENT_TYPE]/[INSTRUMENT_FQLN]/[FILENAME]`
 
@@ -104,25 +123,25 @@ This separation of legislative text from attachments and visual assets streamlin
 
 ---
 
-## Section 4 — Purpose and Effect
+## Section 5 — Purpose and Effect
 This Act ensures machine-parseable legislative history, clear distinction between peacetime and emergency law, total transparency, auditable archival integrity, and a logically consistent dependency hierarchy that preserves constitutional supremacy, with particular protection for Bedrock provisions.
 
 ---
 
-## Section 5 — Legal Validity and Binding Criteria
+## Section 6 — Legal Validity and Binding Criteria
 
-**5.1 Genesis Date**  
+**6.1 Genesis Date**  
 No legislative instrument is considered legally binding if it predates the genesis draft date of the Hudson Republic federation: **20260401** (April 1, 2026). All instruments bearing an earlier FQLN timestamp are deemed historical or superseded and hold no enforceable legal authority.
 
-**5.2 Authorized Formats**  
+**6.2 Authorized Formats**  
 A legislative instrument is legally binding only if it exists in one of the following forms:  
 - Digital Markdown (`.md`) format maintained within the official legislative repository; or  
 - Physical printed copy preserved in the Republic’s official **Disaster Backup Archive**.
 
-**5.3 Disaster Backup Archive**  
+**6.3 Disaster Backup Archive**  
 The Disaster Backup Archive shall organize all printed instruments using the same **Fully Qualified Legislative Name (FQLN)** structure for consistency and auditability. This archive serves as the authoritative offline record in the event of digital system failure.
 
-**5.4 Supplemental Materials**  
+**6.4 Supplemental Materials**  
 Diagrams, charts, schematics, images, spreadsheets, and all other attached or supporting files are considered **supplemental** in nature. They provide clarification, illustration, or technical detail but do not themselves constitute legally binding provisions. Only the primary Markdown legislative text (or its authorized physical print) holds binding force.
 
 ---
