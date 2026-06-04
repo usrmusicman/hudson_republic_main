@@ -84,8 +84,11 @@ Any legislative dependency created by temporal inversion (e.g., an instrument re
 
 ---
 
-## Section 3 - Legislative Dependency Matrix
+## Section 3 - Legislative Dependency Matrix and Tree
+
 This is a visualization of the hard dependencies that can be associated with each legislative instrument type.
+
+**Matrix**
 
 | Instrument Listed (Below)      | CA(B) | CA(F) | CO | CULT | EL | EB | FO | LA | LB | LC | OP | SCH |
 |--------------------------------|-------|-------|----|------|----|----|----|----|----|----|----|-----|
@@ -100,6 +103,10 @@ This is a visualization of the hard dependencies that can be associated with eac
 | LC - Legislative Challenge     | X     | X     | X  | X    | X  | X  | X  | X  | X  | X  | X  | X   |
 | OP - Obligation Paper          | ✔     | ✔     | ✔  | X    | X  | X  | X  | ✔  | X  | X  | X  | X   |
 | SCH - Schedule                 | ✔     | ✔     | ✔  | X    | X  | X  | X  | ✔  | X  | X  | X  | X   |
+
+**Tree**
+
+![Dependency Tree](../../images/CA/CA_DVCSIMPLEMENTATION_20260604/HUDSON_DEPENDENCYTREE.png)
 
 ---
 
