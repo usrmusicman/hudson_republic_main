@@ -42,17 +42,7 @@ All capitalized terms used in this Act shall be interpreted in accordance with t
 
 ---
 
-### Section 1 — Classification of Legislative Instruments
-
-**1.1 Fully Qualified Legislative Name (FQLN)**  
-Every legislative instrument shall be identified by a standardized **Fully Qualified Legislative Name (FQLN)** in the format `TYPE_SUBJECT_YYYYMMDD`. This format ensures immediate human readability, machine parseability, version control, automated auditing, searching, sorting, and long-term archival integrity through distributed version-control systems.
-
-**1.2 Uniqueness Requirement**  
-The **SUBJECT** component (Field 2) of the FQLN must be unique within the repository at any given time. Duplicate SUBJECT names are strictly prohibited to prevent confusion, overlapping scope, or inadvertent duplication of legislative instruments within the main repository.  
-If a legislative instrument is repealed, decommissioned, or otherwise removed from active effect, the same SUBJECT name may be reused for a future instrument. In such cases, the new instrument must carry a different timestamp in Field 3 (YYYYMMDD) to clearly distinguish it as a distinct legislative act. This rule preserves institutional memory while maintaining clarity and preventing namespace collisions.
-
-### Classification of Legislative Instruments**
-The Republic establishes eleven classes of legislative instrument. Constitutional Articles (CA) are exclusive to the federal level. All other classes may exist at the Riding level but remain subordinate to federal supremacy.
+## Section 1 — Classification of Legislative Instruments
 
 ### CA — Constitutional Article
 Constitutional Articles form the supreme law of the Republic and are divided into two distinct tiers:
@@ -118,6 +108,16 @@ All **Legislative Codes (CO)** must clearly declare their Legal Function type.
 ### SCH — Schedule / FO — Forms
 - **Purpose**: Supporting instruments (lists, specifications, templates, notices).
 - **Enactment**: No legislative readings required unless inherited from a parent instrument.
+
+### Fully Qualified Legislative Name (FQLN)
+Every legislative instrument shall be identified by a standardized **Fully Qualified Legislative Name (FQLN)** in the format `TYPE_SUBJECT_YYYYMMDD`. This format ensures immediate human readability, machine parseability, version control, automated auditing, searching, sorting, and long-term archival integrity through distributed version-control systems.
+
+### Uniqueness Requirement
+The **SUBJECT** component (Field 2) of the FQLN must be unique within the repository at any given time. Duplicate SUBJECT names are strictly prohibited to prevent confusion, overlapping scope, or inadvertent duplication of legislative instruments within the main repository.  
+If a legislative instrument is repealed, decommissioned, or otherwise removed from active effect, the same SUBJECT name may be reused for a future instrument. In such cases, the new instrument must carry a different timestamp in Field 3 (YYYYMMDD) to clearly distinguish it as a distinct legislative act. This rule preserves institutional memory while maintaining clarity and preventing namespace collisions.
+
+### Classification of Legislative Instruments
+The Republic establishes eleven classes of legislative instrument. Constitutional Articles (CA) are exclusive to the federal level. All other classes may exist at the Riding level but remain subordinate to federal supremacy.
 
 ---
 
@@ -201,6 +201,27 @@ This separation of legislative text from attachments and visual assets streamlin
 This Act ensures machine-parseable legislative history, clear distinction between peacetime and emergency law, total transparency, auditable archival integrity, and a logically consistent dependency hierarchy that preserves constitutional supremacy, with particular protection for Bedrock provisions.
 
 ---
+
+## Section 5 — Legal Validity and Binding Criteria
+
+### 5.1 Genesis Date
+No legislative instrument is considered legally binding if it predates the genesis draft date of the Hudson Republic federation: **20260401** (April 1, 2026). All instruments bearing an earlier FQLN timestamp are deemed historical or superseded and hold no enforceable legal authority.
+
+### 5.2 Authorized Formats
+A legislative instrument is legally binding only if it exists in one of the following forms:  
+- Digital Markdown (`.md`) format maintained within the official legislative repository; or  
+- Physical printed copy preserved in the Republic’s official **Disaster Backup Archive**.  
+
+### 5.3 Disaster Backup Archive  
+The Disaster Backup Archive shall organize all printed instruments using the same **Fully Qualified Legislative Name (FQLN)** structure for consistency and auditability. This archive serves as the authoritative offline record in the event of digital system failure.
+
+### 5.4 Supplemental Materials
+Diagrams, charts, schematics, images, spreadsheets, and all other attached or supporting files are considered **supplemental** in nature. They provide clarification, illustration, or technical detail but do not themselves constitute legally binding provisions. Only the primary Markdown legislative text (or its authorized physical print) holds binding force.
+
+---
+
+## Section 6 — Purpose and Effect
+This Act ensures machine-parseable legislative history, clear distinction between peacetime and emergency law, total transparency, auditable archival integrity, and a logically consistent dependency hierarchy that preserves constitutional supremacy, with particular protection for Bedrock provisions.
 
 ## Section EX1 — Dependency and File Organization Examples
 
