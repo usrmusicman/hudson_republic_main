@@ -40,9 +40,9 @@ This Act establishes the detailed administrative, procedural, and operational ru
 **1.2 Standard Exit Fee**  
 Upon secession, the departing Array shall immediately pay an Exit Fee to the Hudson Republic. This fee equals the departing proportion of total Ridings (number of departing Ridings ÷ total Ridings prior to secession) multiplied by a factor between 0.5 and 1.0, applied to the Array’s proportional share of the Republic’s public debt. The exact multiplier shall be determined by **Overwhelming Majority** Senate verdict.
 
-**1.3 Bondage Exit (Exceptional Relief)**  
-In extraordinary cases, a seceding Array may petition the Supreme Court for a **Bondage Exit**. If the Supreme Court delivers a **unanimous verdict** that the Republic has imposed state-sanctioned bondage upon the seceding territory, all public debt obligations shall be waived. In such cases, only the standard secession application fee of **fifty (50) troy ounces of gold** shall be payable.  
-
+**1.3 Bondage Waiver (Exceptional Debt Relief)**  
+In extraordinary cases, a seceding Array may petition the Supreme Court for a **Bondage Waiver**. If the Supreme Court delivers a **unanimous verdict** that the Republic has imposed excessive state-sanctioned bondage upon the seceding territory, the Array’s proportional share of the Republic’s public debt shall be fully waived.  
+The standard secession process (including the Array-level requirement, Overwhelming Majority referendums, and Overwhelming Majority Senate verdict) must still be completed in full. Only the debt obligation is relieved. In such cases, the standard secession application fee of **fifty (50) troy ounces of gold** remains payable.  
 It is strongly recommended that a downgrade to Satellite State status be considered first as part of the referendum question, though full secession remains permissible.
 
 **1.4 Joining (Accession as Ridings)**  
