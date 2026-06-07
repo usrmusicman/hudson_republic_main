@@ -16,7 +16,8 @@ Dependencies
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
 - **Hudson Ledger**: The official, tamper-evident and cryptographically signed electronic record-keeping system for all bullion transactions and Ledger credits.  
-- **Ledger Unit**: The base indivisible accounting denomination, equal to 1/8 troy ounce of 95% pure copper bullion.
+- **Ledger Unit**: The base indivisible accounting denomination, equal to 1/8 troy ounce of 95% pure copper bullion.  
+- **Scaling Factor**: A temporary multiplier (2x, 4x, or 8x) applied to the interpretation of copper Ledger Units during a declared Monetary Emergency.
 
 ---
 
@@ -65,7 +66,7 @@ All physical bullion instruments (coins, rounds, and bars) within the Hudson Rep
 | U              | 1      | Octal (0-7) | Usage Type / Custody State                   |
 | YYYY           | 4      | Decimal     | Year of entry into the system                |
 | XXXXXXXXXXXXXX | 14     | Hexadecimal | Randomly generated unique transaction record |
-| TT             | 2      | Hexadecimal | Randomly generated unique transaction record |
+| TT             | 2      | Hexadecimal | Origin Nation + Metal/Weight Code            |
 
 #### Field 1 — Usage Type (Octal)
 | Code | Description                                                            |
@@ -126,6 +127,35 @@ The rightmost two hexadecimal characters of Field 3 encode critical physical and
 | F    | Unspecified / Counterfeit | N/A       | Automatic reject |
 
 The remaining 14 leftmost hexadecimal characters in Field 3 are randomly generated, providing an astronomically large collision-resistant address space.
+
+## Section 5 — Emergency Liquidity Re-scaling Protocol
+
+**5.1 Activation**  
+A Monetary Emergency and associated Ledger re-scaling may be activated only by:  
+- Overwhelming Majority verdict in the Senate (as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**), and  
+- Signature of the National Representative.  
+
+This shall be treated as Emergency Legislation.
+
+**5.2 Available Scaling Factors**  
+- **2x Scaling**: Treats 1/2 oz copper ledger position as the new 1 oz baseline (effective ratios shift to 64:128:4).  
+- **4x Scaling**: Treats 1/4 oz copper ledger position as the new 1 oz baseline (effective ratios shift to 64:256:2).  
+- **8x Scaling**: Treats the base 1/8 oz copper HCB8 ledger unit position as a full 1 oz baseline (maximum liquidity boost) (effective ratios shift to 64:512:1).
+
+**5.3 Duration and Review**  
+- Initial activation shall not exceed 90 days.  
+- The scaling shall be reviewed monthly by the Senate.  
+- Upon return to normal operations, a step-down procedure must be enacted via a dedicated **Obligation Paper** with the exact FQLN: `OP_BBNORMALMULTIPLIERTRANSITION_YYYYMMDD.md` (where YYYYMMDD is the tabling date).  
+- The step-down shall occur gradually (e.g., 4x → 2x → normal) quarter-to-quarter to mitigate transitional shocks.  
+- The theoretical maximum for a change period is 4 quarters: 1 quarter of emergency ratio change and a maximum of 3 quarters for the step-down period.
+
+**5.4 Accounting Treatment**  
+Accounting software shall implement the scaling factor as a global multiplier on copper Ledger Units while preserving the constitutional 64:64:8 ratios. All changes must be fully auditable on the Hudson Ledger with clear public notice.
+
+**5.5 Reversion**  
+Failure to pass the required Obligation Paper for step-down shall result in automatic reversion to normal scaling at the end of the declared emergency period.
+
+---
 
 **Original Author**: 
 

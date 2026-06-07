@@ -25,8 +25,11 @@ Dependencies
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
-### Verdicts
+### Verdict resolution
 All Senate decisions are rendered as **passed** or **failed**.
+
+### Emergency Declaration
+A **Monetary Emergency** or general **Emergency** may be declared by the National Representative. However, **only a formal Declaration of War** suspends normal operations of the House of Constituents and the Judiciary. All other emergencies (including Monetary Emergencies) shall operate with the House of Constituents and Judiciary continuing normal functions unless explicitly suspended by a Declaration of War.
 
 ---
 
@@ -84,9 +87,9 @@ This framework establishes three co-equal branches—the **House of Constituents
 **3.5 Terminal Rejection Protocol**: An Executive Veto immediately nullifies and purges the bill. No amendments; the process must restart at the HoC.
 
 ### Emergency Mandates
-**3.6 Initial Mandate (0–30 days)**: Proclaimed by the NR for existential threats; expires automatically after 30 days.  
+**3.6 Initial Mandate (0–30 days)**: Proclaimed by the NR for existential threats, including Monetary Emergencies; expires automatically after 30 days unless extended.  
 **3.7 Extension (30–90 days)**: Requires Senate petition and a verdict as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.  
-**3.8 Declaration of War (90+ days)**: Requires explicit declaration and monthly validation as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.  
+**3.8 Declaration of War (90+ days)**: Requires explicit declaration and monthly validation as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**. Only a Declaration of War may suspend the House of Constituents and Judiciary.
 **3.9 "Ottawa Clause"**: No emergency provides immunity from the Constitution. Asset seizure or suppression of assembly without due process is a criminal act.
 
 ### Succession

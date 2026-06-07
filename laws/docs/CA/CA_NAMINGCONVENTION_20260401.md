@@ -64,10 +64,10 @@ Ordinary primary legislation enacted in peacetime. Requires two readings in each
 Multi-year fiscal planning. Requires two readings in each house.
 
 **EL — Emergency Legislation**  
-Legislation enacted solely during a declared emergency or war. Requires one reading in the Senate.
+Legislation enacted solely during a declared emergency or war. Requires one reading in the Senate and an overwhelming verdict.
 
 **EB — Emergency Budget**  
-Extraordinary fiscal authorizations during emergencies. Requires one reading in the Senate.
+Extraordinary fiscal authorizations during emergencies. Requires one reading in the Senate and an overwhelming verdict.
 
 **OP — Obligation Paper**  
 Binding short-term obligations between Ridings or between Ridings and the federal level. Requires one reading in each house.
