@@ -47,6 +47,7 @@ The standard transaction record format is as follows:
 |------------------|---------------------------|-------------------|-----------------|-------|------|-----|------|-----|------|
 | [Signature]      | [Timestamp]               | [Inst. Code]      | [Type Code]     | [Var] | 000  | 000 | 000  | 000 | 000  |
 
+### Transaction Amount
 * **HGB**: Gold beaver 1 oz field (variable length binary).  
 * **Others**: Represented as a 7-coin segment in octal, recorded in binary.
 
