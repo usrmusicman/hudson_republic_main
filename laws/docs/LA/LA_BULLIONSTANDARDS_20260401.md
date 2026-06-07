@@ -118,19 +118,7 @@ Institutional Bars Render
 
 ---
 
-## Section 7 — Internal Tracking and Identification
-All Hudson-minted bullion (coins, rounds, and bars) shall carry a unique 16-character hexadecimal serial number for banking, circulation, and audit purposes.  
-Serial Format: H[G,S,C]B[1 or 8]-YYYY-FFFFFFFF-FFFFFFFF  
-* H[G,S,C]B[1 or 8] prefix identifies metal (G = Gold, S = Silver, C = Copper) and weight (1 = 1 oz, 8 = 1/8 oz).  
-* YYYY = minting year.  
-* Two groups of eight hexadecimal characters (top and bottom ridges on coins; top and bottom of bars).  
-
-For coins and rounds: Minting date on obverse; two 8-character hexadecimal groups on reverse with central beaver-on-oak-tree design between them.  
-For bars: Minting date and two 8-character hexadecimal groups on the front face (one at top, one at bottom) with central beaver-on-oak-tree design between them.
-
----
-
-## Section 8 — Binary Representation and Bitshift Mechanics
+## Section 7 — Binary Representation and Bitshift Mechanics
 The fixed ratios of 64 : 64 : 8 are deliberately powers of two (2⁶), enabling the entire Ledger to be expressed in pure binary with a maximum precision of 2¹⁵ (32,768) Ledger Units.  
 
 This architecture permits:
