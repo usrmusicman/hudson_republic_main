@@ -44,9 +44,9 @@ This Act governs the Hudson Ledger, the official electronic record-keeping syste
 ## Section 3 — Transaction Recording Format
 The standard transaction record format is as follows:
 
-| ID (16-char hex) | DATE (YYYYMMDD:hhmmSSss)  | INST (8-char hex) | TYPE (16-alpha) | HGB   | HGB8 | HSB | HSB8 | HCB | HCB8 |
-|------------------|---------------------------|-------------------|-----------------|-------|------|-----|------|-----|------|
-| [Signature]      | [Timestamp]               | [Inst. Code]      | [Type Code]     | [Var] | 000  | 000 | 000  | 000 | 000  |
+| ID (16-char hex) | DATE (YYYYMMDD:hhmmSSss)  | INST (8-char hex) | TYPE (16-alpha) | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 |
+|------------------|---------------------------|-------------------|-----------------|-------|------|------|------|------|------|
+| [Signature]      | [Timestamp]               | [Inst. Code]      | [Type Code]     | [Var] | 000  | 000  | 000  | 000  | 000  |
 
 ### Transaction Amount
 * **HGB**: Gold beaver 1 oz field (variable length binary).  
@@ -59,34 +59,21 @@ The standard transaction record format is as follows:
 All physical bullion instruments (coins, rounds, and bars) within the Hudson Republic shall be assigned a unique, machine-readable transaction receipt identifier upon XRF verification and entry into the system. This identifier serves as a permanent receipt and custody record for auditing, banking, circulation, and enforcement purposes. It is **not** a representation of monetary value, but rather a verifiable record of provenance, custody status, and physical specifications.
 
 ### Hudson Ledger Transaction Receipt Format
-**Format**: `U-YYYY-XXXXXXXXXXXXXXTT`
+**Format**: `YYYY-XXXXXXXXXXXXXXTT`
 
 | Field          | Length | Base        | Description                                  |
 |----------------|--------|-------------|----------------------------------------------|
-| U              | 1      | Octal (0-7) | Usage Type / Custody State                   |
 | YYYY           | 4      | Decimal     | Year of entry into the system                |
 | XXXXXXXXXXXXXX | 14     | Hexadecimal | Randomly generated unique transaction record |
 | TT             | 2      | Hexadecimal | Origin Nation + Metal/Weight Code            |
 
-#### Field 1 — Usage Type (Octal)
-| Code | Description                                                            |
-|------|------------------------------------------------------------------------|
-| 0    | Institutional Vault (99.5% Min Purity Bars / Central Bank Reserves)    |
-| 1    | Standard Merchant Circulation (95% Min Purity Coins / Rounds)          |
-| 2    | Sovereign Mint Deep Storage (Unissued / National Treasure)             |
-| 3    | Escrow / Seized Assets (Under law enforcement or court audit)          |
-| 4    | In-Transit (Moving securely between commercial banks or mints)         |
-| 5    | Industrial / Industrial Refining Pool (Scheduled for melting/assaying) |
-| 6    | Reserved for Future Legislative Use                                    |
-| 7    | Reserved for Future Legislative Use                                    |
-
-#### Field 3 — Origin Nation and Metal Specifications (Rightmost 2 Hex Characters)
+### Origin Nation and Metal Specifications (Rightmost 2 Hex Characters)
 The rightmost two hexadecimal characters of Field 3 encode critical physical and provenance data:
 
 - **Second rightmost character**: Origin Region (after XRF verification)
 - **Rightmost character**: Metal type and weight class
 
-**Origin Nations (Second Rightmost Character)**
+**Origin Nations (First "T" Character)**
 | Code | Nation / Origin                                   |
 |------|---------------------------------------------------|
 | 0    | Hudson Republic                                   |
@@ -106,25 +93,25 @@ The rightmost two hexadecimal characters of Field 3 encode critical physical and
 | E    | Placeholder                                       |
 | F    | Other / Unknown / Private Minted Round            |
 
-**Metal Class and Weight (Rightmost Character)**
-| Code | Metal                     | Weight    | Notes            |
-|------|---------------------------|-----------|------------------|
-| 0    | Copper                    | (1/10) oz | Low value        |
-| 1    | Copper                    | (1/8) oz  | Low value        |
-| 2    | Copper                    | (1/4) oz  | Low value        |
-| 3    | Copper                    | (1/2) oz  | Low value        |
-| 4    | Copper                    | (1) oz    | Low value        |
-| 5    | Silver                    | (1/10) oz | Medium value     |
-| 6    | Silver                    | (1/8) oz  | Medium value     |
-| 7    | Silver                    | (1/4) oz  | Medium value     |
-| 8    | Silver                    | (1/2) oz  | Medium value     |
-| 9    | Silver                    | (1) oz    | Medium value     |
-| A    | Gold                      | (1/10) oz | High value       |
-| B    | Gold                      | (1/8) oz  | High value       |
-| C    | Gold                      | (1/4) oz  | High value       |
-| D    | Gold                      | (1/2) oz  | High value       |
-| E    | Gold                      | (1) oz    | High value       |
-| F    | Unspecified / Counterfeit | N/A       | Automatic reject |
+**Metal Class and Weight (Second "T" Character)**
+| Code | Metal                     | Weight    | Notes                                              |
+|------|---------------------------|-----------|----------------------------------------------------|
+| 0    | Copper                    | (1/8) oz  | Low value                                          |
+| 1    | Copper                    | (1/4) oz  | Low value                                          |
+| 2    | Copper                    | (1/2) oz  | Low value                                          |
+| 3    | Copper                    | (1) oz    | Low value                                          |
+| 4    | Silver                    | (1/8) oz  | Low value                                          |
+| 5    | Silver                    | (1/4) oz  | Low value                                          |
+| 6    | Silver                    | (1/2) oz  | Low value                                          |
+| 7    | Silver                    | (1) oz    | Low value                                          |
+| 8    | Gold                      | (1/8) oz  | High value                                         |
+| 9    | Gold                      | (1/4) oz  | High value                                         |
+| A    | Gold                      | (1/2) oz  | High value                                         |
+| B    | Gold                      | (1) oz    | High value                                         |
+| C    | Gold                      | (5) oz    | High value (Institutional Bars Only)               |
+| D    | Gold                      | (10) oz   | High value (Institutional Bars Only)               |
+| E    | Gold                      | (100) oz  | High value (Institutional Bars Only)               |
+| F    | Unspecified / Suspicious  | N/A       | Can only be verified at an FHI insured institution |
 
 The remaining 14 leftmost hexadecimal characters in Field 3 are randomly generated, providing an astronomically large collision-resistant address space.
 
@@ -150,7 +137,7 @@ This shall be treated as Emergency Legislation.
 - The theoretical maximum for a change period is 4 quarters: 1 quarter of emergency ratio change and a maximum of 3 quarters for the step-down period.
 
 **5.4 Accounting Treatment**  
-Accounting software shall implement the scaling factor as a global multiplier on copper Ledger Units while preserving the constitutional 64:64:8 ratios. All changes must be fully auditable on the Hudson Ledger with clear public notice.
+Accounting software shall implement the scaling factor as a global multiplier on (1/8) troy oz copper ledger units while preserving the constitutional 64:64:8 ratios. All changes must be fully auditable on the Hudson Ledger with clear public notice.
 
 **5.5 Reversion**  
 Failure to pass the required Obligation Paper for step-down shall result in automatic reversion to normal scaling at the end of the declared emergency period.

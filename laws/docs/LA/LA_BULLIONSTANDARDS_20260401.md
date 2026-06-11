@@ -101,14 +101,17 @@ All institutional bars maintain a consistent square cross-section per metal, ena
 |--------|----------|------------|------------|--------------------|-----------|
 | Gold   | 1/8 oz   | 3.88 g     | 3.91 g     | 10.1 mm × 10.1 mm  | 2.0 mm    |
 | Gold   | 1 oz     | 31.10 g    | 31.26 g    | 28.5 mm × 28.5 mm  | 2.0 mm    |
+| Gold   | 5 oz     | 155.52 g   | 156.3 g    | 28.5 mm × 28.5 mm  | 10.0 mm   |
 | Gold   | 10 oz    | 311.03 g   | 312.60 g   | 28.5 mm × 28.5 mm  | 20.0 mm   |
 | Gold   | 100 oz   | 3,110.35 g | 3,126.00 g | 28.5 mm × 28.5 mm  | 200.0 mm  |
 | Silver | 1/8 oz   | 3.88 g     | 3.91 g     | 13.7 mm × 13.7 mm  | 2.0 mm    |
 | Silver | 1 oz     | 31.10 g    | 31.26 g    | 38.6 mm × 38.6 mm  | 2.0 mm    |
+| Silver | 5 oz     | 155.52 g   | 156.3 g    | 38.6 mm × 38.6 mm  | 10.0 mm   |
 | Silver | 10 oz    | 311.03 g   | 312.60 g   | 38.6 mm × 38.6 mm  | 20.0 mm   |
 | Silver | 100 oz   | 3,110.35 g | 3,126.00 g | 38.6 mm × 38.6 mm  | 200.0 mm  |
 | Copper | 1/8 oz   | 3.88 g     | 3.91 g     | 14.8 mm × 14.8 mm  | 2.0 mm    |
 | Copper | 1 oz     | 31.10 g    | 31.26 g    | 41.8 mm × 41.8 mm  | 2.0 mm    |
+| Copper | 5 oz     | 155.52 g   | 156.3 g    | 41.8 mm × 41.8 mm  | 10.0 mm   |
 | Copper | 10 oz    | 311.03 g   | 312.60 g   | 41.8 mm × 41.8 mm  | 20.0 mm   |
 | Copper | 100 oz   | 3,110.35 g | 3,126.00 g | 41.8 mm × 41.8 mm  | 200.0 mm  |
 
