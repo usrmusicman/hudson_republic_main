@@ -22,8 +22,9 @@ Dependencies
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
-- **Fully Qualified Legislative Name (FQLN)**: A standardized identifier in the format `TYPE_SUBJECT_YYYYMMDD`.  
-- **HoC**: House of Constituents, as defined in the **[Legislative Framework Act](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**.
+- **Fully Qualified Legislative Name (FQLN)**: A standardized identifier in the format `TYPE_SUBJECT_[YYYYYYYYYYYY]YYYYMMDD`.  
+- **HoC**: House of Constituents, as defined in the **[Legislative Framework Act](./CA_LEGISLATIVEFRAMEWORK_20260401.md)**.  
+- **[YYYYYYYYYYYY]** This bracket represents invisible characters for future yearly expansion.
 
 ---
 
@@ -37,7 +38,7 @@ Every legislative instrument — whether federal or Riding-level — must be imm
 ## Section 1 — Classification of Legislative Instruments
 
 ### 1.1 Fully Qualified Legislative Name (FQLN)
-Every legislative instrument shall be identified by a standardized **Fully Qualified Legislative Name (FQLN)** in the format `TYPE_SUBJECT_YYYYMMDD`.
+Every legislative instrument shall be identified by a standardized **Fully Qualified Legislative Name (FQLN)** in the format `TYPE_SUBJECT_[YYYYYYYYYYYY]YYYYMMDD`.
 
 ### 1.2 Uniqueness Requirement
 The **SUBJECT** component (Field 2) of the FQLN must be unique within the repository at any given time. Duplicate SUBJECT names are strictly prohibited to prevent confusion, overlapping scope, or inadvertent duplication of legislative instruments.  
