@@ -163,7 +163,7 @@ Riding: [Riding Code]
 Business: [Business Code]  
 Action: [Whether the item was ADDED (+), REMOVED (-) or FRAUD/BLACKLISTED (~)]  
 Record: [Entry Address]  
-Year: [YYYYYYYYYYYY]YYYY  
+Year: [Mint Year]  
 Timecode: [System timecode based on UTC and ISO 8601]
 
 **RECORD OF DENOMINATION**  
@@ -220,6 +220,7 @@ Command: "[Full Commandline used to generate the output]"
 -m/--metal: (G) for gold, (S) for silver, (C) for copper.  
 -t/--type: (b) for institutional bars, (c) for minted coins, (r) for blanks or custom minted bullion rounds.  
 -v/--value: 1 for (1) troy oz, 2 for (1/2) troy oz, 4 for (1/4) troy oz, 5 for (5) troy oz, 8 for (1/8) troy oz, 10 for (10) troy oz, 100 for (100) troy oz.  
+-y/--year: The year the bullion was minted an issued. This is displayed in the [YYYYYYYYYYYY]YYYY format in the [Mint Year] field. This is typically found on the heads sign of a bullion coin.
 --divisor: The value used to add liquidity to copper only, not silver, not gold and to unlock the non-standard sixth octet.  
 - Values are: 1 for a bitshift of 0 to the right, 2 for a bitshift of 1 to the right, 4 for a bitshift of 2 to the right, 8 for a bitshift of 3 to the right.  
 - This option is heavily discouraged in the Republic and all legal transactions recognized in the Republic, outside of true emergencies, default to 1 or a bitshift of 0 to the right.  
@@ -249,10 +250,10 @@ EXTERNAL LINK: [Secure Hashing Algorithms](https://en.wikipedia.org/wiki/Secure_
 ### Required For Primary Switches (Hudson Ledger Records Script)
 
 Required for the --add option  
-python3 hudson_ledger_offline_tool.py --add -1/-5 --country <argument> --riding-code <argument> --business-code <argument> --metal <argument> --type <argument> --value <argument> --random/--entropy <argument> --hash <argument> --strength <argument> <comment>,<(-5) switch comment 2>,<(-5) switch comment 3>,<(-5) switch comment 4>,<(-5) switch comment 5>
+python3 hudson_ledger_offline_tool.py --add -1/-5 --country <argument> --riding-code <argument> --business-code <argument> --year <argument> --metal <argument> --type <argument> --value <argument> --random/--entropy <argument> --hash <argument> --strength <argument> <comment>,<(-5) switch comment 2>,<(-5) switch comment 3>,<(-5) switch comment 4>,<(-5) switch comment 5>
 
 Required for the --add option (non-standard six octets)  
-python3 hudson_ledger_offline_tool.py --add -1/-5 --country <argument> --riding-code <argument> --business-code <argument> --metal <argument> --type <argument> --value <argument> --divisor <argument> --random/--entropy <argument> --hash <argument> --strength <argument> <comment>,<(-5) switch comment 2>,<(-5) switch comment 3>,<(-5) switch comment 4>,<(-5) switch comment 5>
+python3 hudson_ledger_offline_tool.py --add -1/-5 --country <argument> --riding-code <argument> --business-code <argument> --year <argument> --metal <argument> --type <argument> --value <argument> --divisor <argument> --random/--entropy <argument> --hash <argument> --strength <argument> <comment>,<(-5) switch comment 2>,<(-5) switch comment 3>,<(-5) switch comment 4>,<(-5) switch comment 5>
 
 Required for the --remove option  
 python3 hudson_ledger_offline_tool.py --remove -1/-5 [Business Code]_[Mint Year]_[Entry Address]_ADDED.hldp. <comment>,<(-5) switch comment 2>,<(-5) switch comment 3>,<(-5) switch comment 4>,<(-5) switch comment 5>
