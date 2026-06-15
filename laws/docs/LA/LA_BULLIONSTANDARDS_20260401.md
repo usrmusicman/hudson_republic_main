@@ -43,10 +43,10 @@ The gold spot price is the publicly available market price for 99.99%+ pure gold
 
 | Asset Form       | Direction       | Formula                                                                 |
 |------------------|-----------------|-------------------------------------------------------------------------|
-| Bars (99.5%)     | Fiat to Ledger  | (Fiat amount ÷ (0.995 × gold spot)) × 32,768                           |
-| Bars (99.5%)     | Ledger to Fiat  | (Ledger units ÷ 32,768) × (0.995 × gold spot)                          |
-| Coins (95.0%)    | Fiat to Ledger  | (Fiat amount ÷ (0.95 × gold spot)) × 32,768                            |
-| Coins (95.0%)    | Ledger to Fiat  | (Ledger units ÷ 32,768) × (0.95 × gold spot)                           |
+| Bars (99.5%)     | Fiat to Ledger  | (Fiat amount ÷ (0.995 × gold spot)) × 32,768                            |
+| Bars (99.5%)     | Ledger to Fiat  | (Ledger units ÷ 32,768) × (0.995 × gold spot)                           |
+| Coins (95.0%)    | Fiat to Ledger  | (Fiat amount ÷ (0.95 × gold spot)) × 32,768                             |
+| Coins (95.0%)    | Ledger to Fiat  | (Ledger units ÷ 32,768) × (0.95 × gold spot)                            |
 
 ---
 
