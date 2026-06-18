@@ -33,7 +33,7 @@ This is a short summary of what is in the legislative instrument.
 ---
 
 ## Purpose
-Explain the purpose of the code's existance. Give a detailed breakdown, including tables, lists, clauses etc...
+Explain the purpose of the code's existence. Give a detailed breakdown, including tables, lists, clauses etc...
 
 ---
 
