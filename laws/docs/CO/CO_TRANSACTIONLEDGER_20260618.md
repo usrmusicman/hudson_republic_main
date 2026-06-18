@@ -65,7 +65,7 @@ The purpose of this Code is to define transaction record format, input methods, 
 ## Procedures
 - All merchant transactions must be recorded using the official tool `hudson_transaction_records_offline_tool.py` or a compliant equivalent.  
 - Trinity Check validation is mandatory.  
-- Receipts (.hltp) must be generated and retained.
+- Receipts (.hltp) must be generated with full BOOKKEEPING, RECORD OF TRANSACTION, COMMENTS, INTEGRITY, and GENERATOR sections.
 
 ---
 
