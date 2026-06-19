@@ -35,23 +35,34 @@ This Act governs the Hudson Ledger, the official electronic record-keeping syste
 
 ## Section 2 — Transaction Recording and Access
 **2.1** All transactions shall be recorded on the Hudson Ledger in real time.  
-**2.2** Records must include: Unique 16-character hexadecimal ID, Date/Time (YYYYMMDD:hhmmSSss), Institution code, Transaction type, and coin-type amounts.  
+**2.2** Records must include: Unique 16-character hexadecimal ID, Date/Time ([YYYYYYYYYYYY]YYYY:MM:DD:hh:mm:SS), Institution code, Transaction type, and coin-type amounts.  
 **2.3** Parties shall receive a standardized receipt as prima facie evidence of payment.  
 **2.4** Citizens and residents shall have secure, real-time, no-cost access to their transaction history via authenticated interfaces.
 
 ---
 
-## Section 3 — Transaction Recording Format
+## Section 3 — Ledger Recording Formats
+
+### Denomination Recording Format
 The standard transaction record format is as follows:
 
-| ID (16-char hex) | DATE ([YYYYYYYYYYYY]YYYY:MM:DD:HH:MM:SS)  | INST (8-char hex) | TYPE (16-alpha) | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 |
-|------------------|-------------------------------------------|-------------------|-----------------|-------|------|------|------|------|------|
-| [Signature]      | [Timestamp]                               | [Inst. Code]      | [Type Code]     | [Var] | 000  | 000  | 000  | 000  | 000  |
+| Protocol Version | Timecode                                  | Action              | Country Code    | Riding Code                     | Business Code   | Year               | Entry Code                      | HGB1             | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Metal Code                  | Scaling Factor    | Integrity Hash |
+|------------------|-------------------------------------------|---------------------|-----------------|---------------------------------|-----------------|--------------------|---------------------------------|------------------|------|------|------|------|------|-----------------|-----------------------------|-------------------|----------------|
+| V[number]        | [YYYYYYYYYYYY]YYYY:MM:DD:HH:MM:SS         | [Type][Number]      | [3 upper-alpha] | [2 hex block][2 hex riding]     | [4 hex]-[4 hex] | [YYYYYYYYYYYY]YYYY | [4 hex]-[4 hex]-[4 hex]-[4 hex] | [Operation][Var] | 000  | 000  | 000  | 000  | 000  | 000             | [Metal Type][Form Factor]   | /[Scaling Factor] | [Hash]         |
 
-### Transaction Amount
-* **[YYYYYYYYYYYY]**: This is the invisible extension to prevent millennium bugs.
-* **HGB**: Gold beaver 1 oz field (variable length binary).  
-* **Others**: Represented as a 7-coin segment in octal, recorded in binary.
+### Transaction Recording Format
+The standard transaction record format is as follows:
+
+| Protocol Version | Timecode                                  | Action              | Riding Code                     | Business Code   | Entry Code                      | Unadjusted Entry  | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Tax Bitshift | Taxation Adjustment  | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Adjusted Entry       | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Scaling Factor    | Integrity Hash |
+|------------------|-------------------------------------------|---------------------|---------------------------------|-----------------|---------------------------------|-------------------|-------|------|------|------|------|------|-----------------|--------------|----------------------|-------|------|------|------|------|------|-----------------|----------------------|-------|------|------|------|------|------|-----------------|-------------------|----------------|
+| V[number]        | [YYYYYYYYYYYY]YYYY:MM:DD:HH:MM:SS         | [Type][Number]      | [2 hex block][2 hex riding]     | [4 hex]-[4 hex] | [4 hex]-[4 hex]-[4 hex]-[4 hex] | [Operation]u      | [Var] | 000  | 000  | 000  | 000  | 000  | 000             | >>[Number]   | [Operation]t         | [Var] | 000  | 000  | 000  | 000  | 000  | 000             | [Operation]a         | [Var] | 000  | 000  | 000  | 000  | 000  | 000             | /[Scaling Factor] | [Hash]         |
+
+### Transaction and Denomination Fields
+* **[YYYYYYYYYYYY]**: This is the invisible extension to prevent millennium bugs.  
+* **[2 hex block]**: This is the riding block routing address.  
+* **[2 hex riding]**: This is the individual riding routing address.  
+* **HGB1**: Gold beaver 1 oz field (variable length decimal base10 value).  
+* **HGB8, HSB1, HSB8, HCB1, HCB8, HCBZ**: Represented as a 7-coin segment in octal, recorded in binary.
 
 ---
 
@@ -59,39 +70,34 @@ The standard transaction record format is as follows:
 
 All physical bullion instruments (coins, rounds, and bars) within the Hudson Republic shall be assigned a unique, machine-readable transaction receipt identifier upon XRF verification and entry into the system. This identifier serves as a permanent receipt and custody record for auditing, banking, circulation, and enforcement purposes. It is **not** a representation of monetary value, but rather a verifiable record of provenance, custody status, and physical specifications.
 
-### Hudson Ledger Transaction Receipt Format
-**Format**: `XXXX-XXXX-XXXX-XXXX`
-
-| Field               | Length | Base        | Description                                  |
-|---------------------|--------|-------------|----------------------------------------------|
-| XXXX-XXXX-XXXX-XXXX | 16     | Hexadecimal | Randomly generated unique transaction record |
-
 ## Section 5 — Emergency Liquidity Re-scaling Protocol
 
 **5.1 Activation**  
-A Monetary Emergency and associated Ledger re-scaling may be activated only by:  
-- Overwhelming Majority verdict in the Senate (as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**), and  
-- Signature of the National Representative.
+A Monetary Emergency and associated Ledger re-scaling may be activated solely by:  
+- Formal declaration of a Monetary Emergency by the National Representative, and  
+- An Overwhelming Majority verdict of the Senate (as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**).  
 
-This shall be treated as Emergency Legislation.
+This activation shall be treated as Emergency Legislation.
 
-**5.2 Available Scaling Factors**  
-- **2x Scaling**: Treats 1/2 oz copper ledger position as the new 1 oz baseline (effective ratios shift to 64:128:4).  
-- **4x Scaling**: Treats 1/4 oz copper ledger position as the new 1 oz baseline (effective ratios shift to 64:256:2).  
-- **8x Scaling**: Treats the base 1/8 oz copper HCB8 ledger unit position as a full 1 oz baseline (maximum liquidity boost) (effective ratios shift to 64:512:1).
+**5.2 Available Scaling Factors and Tariff Measures**  
+During a declared Monetary Emergency, the chosen scaling factor (2x, 4x, or 8x) shall be applied to copper Ledger Units. Concurrently, a **100% tariff** (equivalent to a bitshift of `>>0`) shall be imposed on all affected inbound transactions for the duration of the emergency.  
 
-**5.3 Duration and Review**  
-- Initial activation shall not exceed 90 days.  
-- The scaling shall be reviewed monthly by the Senate.  
-- Upon return to normal operations, a step-down procedure must be enacted via a dedicated **Obligation Paper** with the exact FQLN: `OP_BBNORMALMULTIPLIERTRANSITION_[YYYYYYYYYYYY]YYYYMMDD.md` (where [YYYYYYYYYYYY]YYYYMMDD is the tabling date and [YYYYYYYYYYYY] is an invisible extension).  
-- The step-down shall occur gradually (e.g., 4x → 2x → normal) quarter-to-quarter to mitigate transitional shocks.  
-- The theoretical maximum for a change period is 4 quarters: 1 quarter of emergency ratio change and a maximum of 3 quarters for the step-down period.
+The National Representative shall retain discretion to adjust the tariff rate downward (through lower bitshift values) in consultation with the Senate when circumstances so warrant. Any such adjustment must be publicly announced and recorded on the Hudson Ledger.
+
+**5.3 Duration, Step-Down, and Review**  
+- The initial activation of a Monetary Emergency shall not exceed ninety (90) days.  
+- The scaling factor and associated tariff measures shall be subject to monthly review by the Senate.  
+- Upon return to normal operations, a mandatory step-down procedure must be enacted through a dedicated **Obligation Paper** bearing the exact FQLN: `OP_BBNORMALMULTIPLIERTRANSITION_[YYYYYYYYYYYY]YYYYMMDD.md`.  
+- The step-down shall proceed gradually by one bitshift to the right per quarter (three months) until the standard tariff rate is restored (e.g., 100% → 50% → 25% → normal).  
+- The full transition period shall not exceed four quarters: one quarter at full emergency scaling and tariff, followed by up to three quarters of step-down.
 
 **5.4 Accounting Treatment**  
-Accounting software shall implement the scaling factor as a global multiplier on (1/8) troy oz copper ledger units while preserving the constitutional 64:64:8 ratios. All changes must be fully auditable on the Hudson Ledger with clear public notice.
+Accounting software and systems shall implement the scaling factor as a global multiplier applied exclusively to the (1/8) troy ounce copper ledger unit while strictly preserving the constitutional 64:64:8 bullion ratios. All emergency measures, including the associated tariff, must be fully auditable and accompanied by clear public notice on the Hudson Ledger.  
+
+The scaling factor formally declared by the National Representative (with Senate approval) shall constitute the sole official and legally binding scaling factor during both normal and emergency periods.
 
 **5.5 Reversion**  
-Failure to pass the required Obligation Paper for step-down shall result in automatic reversion to normal scaling at the end of the declared emergency period.
+Failure to enact the required Obligation Paper for step-down shall result in the automatic reversion to normal scaling factors and tariff rates at the conclusion of the declared emergency period.
 
 ## Section 6 - Scaling Tables
 
@@ -208,9 +214,9 @@ Failure to pass the required Obligation Paper for step-down shall result in auto
 
 ## Section 7 - Sign interpretation.
 
-A plus (+) sign = Thiss iss used to add entries and add or accumulate amounts.
+A plus (+) sign = This is used to add entries and add or accumulate amounts.
 A minus (-) sign = This is used to remove entries and subtract amounts.
-A tilda (~) sign = This is used as a neutral symbol or a value of zero (0).
+A tilde (~) sign = This is used as a neutral symbol or a value of zero (0).
 
 ---
 

@@ -7,12 +7,26 @@ List any legislative instrument(s) (in alphabetical order) that this article mus
 Only **Constitutional Articles (CA)**, **Legislative Articles (LA)** and **Legislative Codes (CO)** can be listed here.
 
 Dependencies
-* **[CA_TERRITORIALPROVISION_20260401](../CA/CA_TERRITORIALPROVISION_20260401.md)**
+* **[LA_BORDERSDUTIES_20260401](../LA/LA_BORDERSDUTIES_20260401.md)**
+
+---
+
+## Special Note
+Any information in the tariffs table and treaties table can be modified by the National Representative at any time. They do not require 2 readings in the Senate to make an amendment.
 
 ---
 
 ## Definitions
 All capitalized terms used in this Schedule shall be interpreted in accordance with their definitions in the referenced instruments below.
+
+- **Border Action**: What action the Hudson Port Services takes.  
+  - **allow**: Allow all inbound traffic.  
+  - **deny**: Deny all inbound traffic.  
+  - **hold**: Held at the border until the National Representative sends a formal message about a given status.
+
+- **Republic State**: Status of the Republic's affairs.  
+  - **normal**: Normal period of trade.  
+  - **emergency**: Emergency declaration period of trade.
 
 - **Lifecycle State**: The stage of processing of the imported good.  
   - **raw**: Unprocessed raw material.  
@@ -55,7 +69,10 @@ This Schedule provides the definitive, machine-readable tariff rates and treaty 
 Understanding the schedule(s) implementations provided.
 
 ### Tariff Schedule
+**Border Action**: What enforcement action the Hudson Port Services applies to a given entry.
+**Special Notes**: Any extra information that may modify an entry.  
 **Product or Material**: Name of the line item subject to tariff.  
+**Republic State**: The state of the republic.  
 **Lifecycle State**: Stage of processing at time of import.  
 **Treaties**: Applicable trade agreements.  
 **Treaty State**: Current operational status of the treaty membership (affects the entire membership and all covered items).  
@@ -64,7 +81,8 @@ Understanding the schedule(s) implementations provided.
 **Value in Bullion Beavers**: Converted value using **[LA_BULLIONSTANDARDS_20260401](../LA/LA_BULLIONSTANDARDS_20260401.md)** formulas.  
 **Bitshift Adjustment**: Binary right-shift used to calculate the tariff.  
 **Percentage (%)**: Equivalent percentage rate.  
-**Weight (Per Unit)**: Weight of the item for assessment purposes.
+**Weight (Per Unit)**: Weight of the item for assessment purposes.  
+**Threshold**: Minimum weight to trigger the tariff.
 
 ### Treaties Schedule
 **Treaty Name**: Official name of the treaty.  
@@ -79,11 +97,17 @@ This is where the schedules can be found for manual usage or as part of an autom
 ### Tariffs Table
 **Table Schedule Type**
 
-| Product or Material | Lifecycle State | Treaties   | Treaty State | Exemptions | Value in Fiat (Currency Type) | Value in Bullion Beavers (HCB8) | Bitshift Adjustment | Percentage | Weight (Per Unit) |
-|---------------------|-----------------|------------|--------------|------------|-------------------------------|---------------------------------|---------------------|------------|-------------------|
-| Copper              | all             | standard   | active       | standard   | amount                        | amount                          | >>2                 | 25%        | 1 oz              |
-| Maple Syrup         | complete        | standard   | active       | standard   | amount                        | amount                          | >>3                 | 12.5%      | 100 g             |
-| Lumber              | raw             | none       | active       | none       | amount                        | amount                          | >>3                 | 12.5%      | 1 kg              |
+| Border Action | Special Notes                            | Product or Material | Republic State | Lifecycle State | Treaties   | Treaty State | Exemptions | Value in Fiat (Currency Type) | Value in Bullion Beavers (HCB8) | Bitshift Adjustment | Percentage | Weight (Per Unit) | Threshold     |
+|---------------|------------------------------------------|---------------------|----------------|-----------------|------------|--------------|------------|-------------------------------|---------------------------------|---------------------|------------|-------------------|---------------|
+| allow         | None                                     | Copper              | normal         | all             | standard   | active       | standard   | amount                        | amount                          | >>2                 | 25%        | 1 oz              | none          |
+| allow         | 8x scaling                               | Copper              | emergency      | all             | standard   | active       | standard   | amount                        | amount                          | >>0                 | 100%       | 1 oz              | none          |
+| allow         | 8x scaling (3 months after an emergency) | Copper              | normal         | all             | standard   | active       | standard   | amount                        | amount                          | >>1                 | 50%        | 1 oz              | none          |
+| allow         | 8x scaling (6 months after an emergency) | Copper              | normal         | all             | standard   | active       | standard   | amount                        | amount                          | >>2                 | 25%        | 1 oz              | none          |
+| allow         | 4x scaling                               | Copper              | emergency      | all             | standard   | active       | standard   | amount                        | amount                          | >>0                 | 100%       | 1 oz              | none          |
+| allow         | 4x scaling (3 months after an emergency) | Copper              | normal         | all             | standard   | active       | standard   | amount                        | amount                          | >>1                 | 50%        | 1 oz              | none          |
+| allow         | 2x scaling                               | Copper              | emergency      | all             | standard   | active       | standard   | amount                        | amount                          | >>0                 | 100%       | 1 oz              | none          |
+| allow         | None                                     | Maple Syrup         | normal         | complete        | standard   | active       | standard   | amount                        | amount                          | >>3                 | 12.5%      | 100 g             | 2 kg          |
+| allow         | None                                     | Lumber              | normal         | raw             | none       | active       | none       | amount                        | amount                          | >>3                 | 12.5%      | 1 kg              | 10 kg         |
 
 **Note**: Treaty State applies at the line-item level. Membership status affects the entire membership and any items covered under that treaty.
 
