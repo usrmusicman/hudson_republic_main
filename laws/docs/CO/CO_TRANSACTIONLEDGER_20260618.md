@@ -23,7 +23,7 @@ Dependencies
 - **HCB8 (Hudson Copper Beaver 8)**: The base indivisible accounting unit equal to 1/8 troy ounce of 95% pure copper bullion.  
 - **Business Code**: Base-21 identifier in format `XXXX-XXXX` using uppercase consonants only (B–D, F–H, J–N, P–T, V–Z).  
 - **Riding Code**: Base-16 hexadecimal value `YYYY` (valid characters: 0–F).  
-- **Entry Address (Entropy)**: Base-16 hexadecimal value in format `XXXX-XXXX-XXXX-XXXX` (valid characters: 0–F).  
+- **Entry Address (Entropy)**: Base-16 hexadecimal value in format `XXXX-XXXX-XXXX-XXXX-XXXX-XXXX` (valid characters: 0–F).  
 - **Action Type**: Single character prefix (`A` = Added, `S` = Subtracted).  
 - **Trinity Check**: Unique combination of Action Type + Entry Address + Unadjusted Transaction Amount.  
 - **Hashing Algorithm**: Default is `sha3`.  
@@ -56,7 +56,7 @@ The purpose of this Code is to define transaction record format, input methods, 
 ### Additional Rules
 - **Business Code**: Must be uppercase consonants only in `XXXX-XXXX` format.  
 - **Riding Code**: Exactly 4 hexadecimal characters (0–F).  
-- **Entry Address**: Exactly 24 hexadecimal characters in `XXXX-XXXX-XXXX-XXXX` format.  
+- **Entry Address**: Exactly 24 hexadecimal characters in `XXXX-XXXX-XXXX-XXXX-XXXX-XXXX` format.  
 - **Hashing**: Default algorithm is `sha3` with 512-bit strength.  
 - **Comments**: Required for every transaction.
 
