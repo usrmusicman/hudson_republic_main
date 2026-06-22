@@ -1,9 +1,6 @@
 [submodule "culture"]
 	path = culture
 	url = git@github.com:usrmusicman/hudson_republic_culture.git
-[submodule "hudson_republic_tools"]
-	path = hudson_republic_tools
-	url = https://github.com/usrmusicman/hudson_republic_tools
 [submodule "tools"]
 	path = tools
 	url = https://github.com/usrmusicman/hudson_republic_tools
