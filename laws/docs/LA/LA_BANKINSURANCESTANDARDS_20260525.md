@@ -6,7 +6,6 @@
 List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FQLN(s) mentioned in other sections are considered to be references and not actual dependencies.  
 Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
 
-Dependencies
 * **[CA_BANKANDRESERVE_20260401](../CA/CA_BANKANDRESERVE_20260401.md)**  
 * **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**
@@ -14,60 +13,60 @@ Dependencies
 ---
 
 ## Definitions
-All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
-
-- **Financial Holdings Insurance (FHI)**: Mandatory insurance for any financial institution operating in the Hudson Republic.  
-- **Merchant Transaction Insurance (MTI)**: Insurance required for businesses handling physical bullion transactions of 1 troy ounce of gold or more.  
+- **Financial Holdings Insurance (FHI)**: Insurance protecting bullion holdings recorded on the Hudson Ledger, as detailed in the **Financial Holdings Insurance Act**.  
+- **Merchant Transaction Insurance (MTI)**: Insurance protecting physical bullion transactions, as detailed in the **Merchant Transaction Insurance Act**.  
 - **National Holdings Vault (NHV)**: The federal government’s secure repository for accumulated surpluses.  
 - **Sequential Mandate**: Cumulative sentencing for violations of fiduciary duty.
 
 ---
 
 ## Preamble
-
-This Act establishes the mandatory insurance, vault management, merchant transaction, inspector certification, and related administrative standards that support the sound money framework of the Hudson Republic. It provides the operational enforcement layer for the **[Banking and Reserves Act](../CA/CA_BANKANDRESERVE_20260401.md)**.
+This Act establishes the overarching framework for insurance standards in the Hudson Republic’s banking and commercial system. It provides high-level coordination and enforcement principles for the detailed rules contained in the **Financial Holdings Insurance Act** and the **Merchant Transaction Insurance Act**.
 
 ---
 
 ## Section 1 — Financial Holdings Insurance (FHI)
+Financial Holdings Insurance is mandatory for all financial institutions operating in the Hudson Republic. Detailed requirements, reconciliation procedures, record retention rules, and claims processes are governed by the **Financial Holdings Insurance Act**.
 
-Financial Holdings Insurance is mandatory for any financial institution to operate within the Hudson Republic. To maintain FHI coverage, institutions must continuously satisfy all of the following:  
-* Maintain reserve ratios strictly within the permitted bitshift limits as defined in the **[Banking and Reserves Act](../CA/CA_BANKANDRESERVE_20260401.md)**.  
-* Refrain from partnering with, transferring reserves to, or contracting with hostile foreign actors or criminal organizations.  
-* Comply fully with Vault-to-Ledger Liquidation protocols and the bullion standards set forth in the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)**.  
-* Adhere to annual mining allocation requirements.  
-* Pay the annual FHI audit fee as set out in the **[Banking Administration Schedule](../SCH/SCH_BANKADMIN_20260412.md)**.
+FHI auditors and trainers shall be certified under standards established in the **Financial Holdings Insurance Act**.
 
 ---
 
-## Section 2 — National Holdings Vault (NHV)
-
-The National Holdings Vault is the federal government’s secure repository for accumulated surpluses. It shall be used exclusively for military defense, border security, verification technology, emergency funds, strategic reserves, and other constitutionally authorized national purposes. The NHV must:  
-* Maintain active Financial Holdings Insurance (FHI) at all times.  
-* Obtain Senate approval by Clear Majority (as defined in the **[Clarity Act](../CA/CA_CLARITYACT_20260522.md)**) for any change to the bitshift reserve ratio baseline.
+## Section 2 — Merchant Transaction Insurance (MTI)
+Merchant Transaction Insurance is mandatory for any business handling physical bullion transactions of one troy ounce of gold equivalent or greater. Detailed requirements, transaction recording obligations, and reconciliation procedures are governed by the **Merchant Transaction Insurance Act**.
 
 ---
 
-## Section 3 — Merchant Transaction Insurance (MTI)
-
-**3.1 Requirement**: Any business handling physical bullion transactions of 1 troy ounce of gold or more must maintain MTI. Electronic Ledger transactions are exempt.  
-**3.2 Verification Incentive**: Providers supplying XRF or compositional verification terminals to merchants qualify for reduced regulatory penalties.  
-**3.3 Penalties for Breaches**: See the **[Banking Administration Schedule](../SCH/SCH_BANKADMIN_20260412.md)**.
+## Section 3 — National Holdings Vault (NHV)
+The National Holdings Vault must maintain full FHI coverage at all times. Any change to reserve ratios or deployment of NHV assets requires Senate approval by Clear Majority, as defined in the **[Clarity Act](../CA/CA_CLARITYACT_20260522.md)**.
 
 ---
 
-## Section 4 — Certification of Inspectors and Examiners
+## Section 4 — Certification of Insurance Auditors and Examiners
+All auditors and trainers responsible for FHI compliance must:
+- Maintain a clean criminal and credit record
+- Be of the Age of Majority
+- Demonstrate commitment to the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)** and all related insurance acts
+- Pass the official certification examination with a minimum score of 1,000 out of 1,200
 
-**4.1 Eligibility**: Clean criminal and credit record, Age of Majority, and commitment to the **[Legal Tender Act](../CA/CA_LEGALTENDER_20260401.md)** and this Act.  
-**4.2 Process**: Non-refundable fee and validity period as set out in the **[Banking Administration Schedule](../SCH/SCH_BANKADMIN_20260412.md)**.  
-**4.3 Standards**: Minimum passing score of 1,000 out of 1,200.  
-**4.4 Disciplinary**: Any violation of the Acts results in immediate seizure of certification and a permanent lifetime ban.
+Certification is subject to periodic renewal and may be permanently revoked for any violation of fiduciary duty or the Acts referenced herein.
 
 ---
 
-**Original Author**:   
-**House Signature**:   
-**Senate Signature**:   
-**Executive Office Signature**:   
+## Section 5 — General Enforcement
+Failure to comply with the requirements of this Framework Act or the detailed provisions in the FHI and MTI Acts shall result in:
+- Suspension or revocation of operating authority
+- Sequential Mandate penalties
+- Civil and criminal sanctions as provided under the **[Crime Categorization Act](../CA/CA_CRIMECATEGORIZATION_20260401.md)**
+
+---
+
+**Original Author**: 
+
+**House Signature**: 
+
+**Senate Signature**: 
+
+**Executive Office Signature**: 
 
 **FQLN**: LA_BANKINSURANCESTANDARDS_20260525
