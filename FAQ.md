@@ -6,10 +6,13 @@ The idea for the Hudson Republic first emerged in late 2023 as a contingency pla
 ### Why did the Hudson Republic choose the beaver as the national symbol?
 The beaver has been the original and enduring symbol of the Hudson region for centuries. It is a well-recognized Indigenous symbol deeply tied to the land and history of what is now Manitoba, Ontario, Quebec, and Labrador. In contrast, the maple leaf is a relatively modern emblem that became strongly associated with the Crown and the Dominion of Canada after Confederation.
 
+## What is the Red River Resistance and colonialism.
+The British crown treated Rupert's land as an asset to be bartered and traded without consultation of the communities that inhabited it. This all came to a head with the "Red River Resistance" where the Red River Colony lead by Louis Riel formed an armed resistance against the crown. This forced Canada to negotiate and lead to the compromise of creating a province out of the British Northwest territories called Manitoba. Also, this lead to a purchase of the remaining territory of £300,000 in 1870 in a formal contract called "The deed surrender". The deed of surrender was drafted out of a sale of land where those who were settled there were not brought to the negotiating table in London England. They were not consulted about making a "fair deal", or at least given the opportunity to negotiate the terms of transfer. The crown just colonized their land without permission or original claim to title.
+
 ### Isn’t the maple leaf the traditional symbol of these regions?
 The maple leaf (genus *Acer*) is indeed native to these provinces and remains abundant in parts of the Hudson Republic’s territory. However, the genus is not unique to Canada — it grows widely across North America and even in parts of Europe and Asia. The Sugar Maple (*Acer saccharum*), the primary source of maple syrup, is also common in the north-eastern United States. Notably, over 90% of Canada’s maple syrup production historically came from a small region of Quebec. The Hudson Republic therefore views the maple leaf as a regional agricultural symbol rather than a uniquely national one.
 
-For full details, see **[15 Beautiful Species of Maple Trees](https://www.thespruce.com/thirteen-species-of-maple-trees-3269671)**.
+For full details, see EXTERNAL LINK: **[15 Beautiful Species of Maple Trees](https://www.thespruce.com/thirteen-species-of-maple-trees-3269671)**.
 
 ### What is the National Cuisine of the Hudson Republic?
 The culinary cornerstone of the Hudson Republic is the **Beaver Tail**.
