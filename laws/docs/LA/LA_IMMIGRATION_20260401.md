@@ -8,7 +8,7 @@ Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be l
 
 Dependencies
 * **[CA_LEGALTENDER_20260401](../CA/CA_LEGALTENDER_20260401.md)**  
-* **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**
 
 ---
 
