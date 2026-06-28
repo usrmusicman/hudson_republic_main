@@ -57,35 +57,12 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 
 .  
 ├── culture/                  # National anthem, salute, shield (Submodule)  
-├── docs                      # General documentation for the Hudson Republic  
-│   ├── images                # Visual assets associated with the documentation found in the text folder (schematics, icons, visualizations, etc.)  
-│   └── text                  # Written Documentation  
 ├── houses/                   # The different federal legislative houses  
 │   ├── eo                    # Executive Office (Submodule)  
 │   ├── hoc                   # House of Constituents (Submodule)  
 │   ├── justice               # Supreme Court (Submodule)  
 │   └── senate                # Senate (Submodule)  
 ├── laws/                     # All binding legislation  
-│   ├── docs/                 # Legislative Instruments  
-│   │   ├── CA/               # Constitutional Articles  
-│   │   ├── CO/               # Legislative Codes  
-│   │   ├── EB/               # Emergency Budgets  
-│   │   ├── EL/               # Emergency Legislation  
-│   │   ├── FO/               # Forms  
-│   │   ├── LA/               # Legislative Articles  
-│   │   ├── LB/               # Legislative Budgets  
-│   │   ├── OP/               # Obligation Papers  
-│   │   └── SCH/              # Schedules  
-│   ├── images/               # Visual assets associated with legislative instruments found in the docs folder (coins, passports, etc.)  
-│   │   ├── CA/               # Constitutional Articles  
-│   │   ├── CO/               # Legislative Codes  
-│   │   ├── EB/               # Emergency Budgets  
-│   │   ├── EL/               # Emergency Legislation  
-│   │   ├── FO/               # Forms  
-│   │   ├── LA/               # Legislative Articles  
-│   │   ├── LB/               # Legislative Budgets  
-│   │   ├── OP/               # Obligation Papers  
-│   │   └── SCH/              # Schedules  
 │   ├── attachments/          # Any binary attachments that can't be created using markdown (Excel files, CAD files, MS Project files, etc.)  
 │   │   ├── CA/               # Constitutional Articles  
 │   │   ├── CO/               # Legislative Codes  
@@ -96,7 +73,26 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 │   │   ├── LB/               # Legislative Budgets  
 │   │   ├── OP/               # Obligation Papers  
 │   │   └── SCH/              # Schedules  
-│   └── etc...  
+│   ├── docs/                 # Legislative Instruments  
+│   │   ├── CA/               # Constitutional Articles  
+│   │   ├── CO/               # Legislative Codes  
+│   │   ├── EB/               # Emergency Budgets  
+│   │   ├── EL/               # Emergency Legislation  
+│   │   ├── FO/               # Forms  
+│   │   ├── LA/               # Legislative Articles  
+│   │   ├── LB/               # Legislative Budgets  
+│   │   ├── OP/               # Obligation Papers  
+│   │   └── SCH/              # Schedules  
+│   └── images/               # Visual assets associated with legislative instruments found in the docs folder (coins, passports, etc.)  
+│       ├── CA/               # Constitutional Articles  
+│       ├── CO/               # Legislative Codes  
+│       ├── EB/               # Emergency Budgets  
+│       ├── EL/               # Emergency Legislation  
+│       ├── FO/               # Forms  
+│       ├── LA/               # Legislative Articles  
+│       ├── LB/               # Legislative Budgets  
+│       ├── OP/               # Obligation Papers  
+│       └── SCH/              # Schedules  
 ├── ridings/                  # Ridings part of the union (Submodule)  
 ├── templates/                # Official administrative templates  
 ├── FAQ.md                    # Plain-language answers (start here)  
@@ -120,7 +116,7 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 - [Constitutional Clarity](./laws/docs/CA/CA_CLARITYACT_20260522.md) - Deals With Constitutional Clarity Decisions
 - [Legislative Framework](./laws/docs/CA/CA_LEGISLATIVEFRAMEWORK_20260401.md) - The Legislative Framework
 - [Naming Conventions](./laws/docs/CA/CA_NAMINGCONVENTION_20260401.md) - Legislative Naming Conventions and Dependency Handling
-- [Dependency Tree](./laws/images/CA/CA_NAMINGCONVENTION_20260401/HUDSON_DEPENDENCYTREE.png) - Dependency Tree Hierarchy
+- [Dependency Tree](./laws/images/CA/CA_DVCSIMPLEMENTATION_20260604/HUDSON_DEPENDENCYTREE.png) - Dependency Tree Hierarchy
 - [Legal Tender](./laws/docs/CA/CA_LEGALTENDER_20260401.md) - Legal Tender
 - [Bullion Specifications](./laws/docs/LA/LA_BULLIONSTANDARDS_20260401.md) - Physical Specifications for the Tri-Metal System
 - [Founders Edition Beaver Coins](./laws/images/LA/LA_BULLIONSTANDARDS_20260401/BULLIONBEAVERS_FOUNDERS_EDITION_2026.png) - Bullion Beaver Coins (Hudson Ledger)
