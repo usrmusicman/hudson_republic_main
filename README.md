@@ -83,16 +83,17 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 │   │   ├── LB/               # Legislative Budgets  
 │   │   ├── OP/               # Obligation Papers  
 │   │   └── SCH/              # Schedules  
-│   └── images/               # Visual assets associated with legislative instruments found in the docs folder (coins, passports, etc.)  
-│       ├── CA/               # Constitutional Articles  
-│       ├── CO/               # Legislative Codes  
-│       ├── EB/               # Emergency Budgets  
-│       ├── EL/               # Emergency Legislation  
-│       ├── FO/               # Forms  
-│       ├── LA/               # Legislative Articles  
-│       ├── LB/               # Legislative Budgets  
-│       ├── OP/               # Obligation Papers  
-│       └── SCH/              # Schedules  
+│   ├── images/               # Visual assets associated with legislative instruments found in the docs folder (coins, passports, etc.)  
+│   │   ├── CA/               # Constitutional Articles  
+│   │   ├── CO/               # Legislative Codes  
+│   │   ├── EB/               # Emergency Budgets  
+│   │   ├── EL/               # Emergency Legislation  
+│   │   ├── FO/               # Forms  
+│   │   ├── LA/               # Legislative Articles  
+│   │   ├── LB/               # Legislative Budgets  
+│   │   ├── OP/               # Obligation Papers  
+│   │   └── SCH/              # Schedules  
+│   └──────────│
 ├── ridings/                  # Ridings part of the union (Submodule)  
 ├── templates/                # Official administrative templates  
 ├── FAQ.md                    # Plain-language answers (start here)  
