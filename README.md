@@ -93,7 +93,7 @@ This is not protest theatre or romantic nationalism. It is a professionally engi
 │   │   ├── LB/               # Legislative Budgets  
 │   │   ├── OP/               # Obligation Papers  
 │   │   └── SCH/              # Schedules  
-│   └──────────│
+│   └─────────────────────────────────────────────────────│  
 ├── ridings/                  # Ridings part of the union (Submodule)  
 ├── templates/                # Official administrative templates  
 ├── FAQ.md                    # Plain-language answers (start here)  
