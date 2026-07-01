@@ -38,25 +38,13 @@ The base Ledger accounting unit is 1/8 troy ounce of 95% pure copper. The maximu
 
 ---
 
-## Section 3 — Conversion Formulas (Transitional)
-The gold spot price is the publicly available market price for 99.99%+ pure gold.
-
-| Asset Form       | Direction       | Formula                                                                 |
-|------------------|-----------------|-------------------------------------------------------------------------|
-| Bars (99.5%)     | Fiat to Ledger  | (Fiat amount ÷ (0.995 × gold spot)) × 32,768                            |
-| Bars (99.5%)     | Ledger to Fiat  | (Ledger units ÷ 32,768) × (0.995 × gold spot)                           |
-| Coins (95.0%)    | Fiat to Ledger  | (Fiat amount ÷ (0.95 × gold spot)) × 32,768                             |
-| Coins (95.0%)    | Ledger to Fiat  | (Ledger units ÷ 32,768) × (0.95 × gold spot)                            |
-
----
-
-## Section 4 — Rounding Rule
+## Section 3 — Rounding Rule
 All values resulting from conversions shall be rounded **down** to the nearest whole number of 1/8 troy ounce copper units.  
 **Exception**: When the transaction represents a debit or expense to the payer, any fractional remainder shall be rounded **up** at the final step. When the transaction represents a credit or income to the recipient, any fractional remainder shall be rounded **down** at the final step.
 
 ---
 
-## Section 5 — Founders Edition Reference Coins
+## Section 4 — Founders Edition Reference Coins
 The Founders Edition establishes circulation standards for coins. Institutional bars (99.5% purity) are reserved exclusively for banking, trusts, savings, and reserves.
 
 ### Founders Edition Coins
@@ -95,7 +83,7 @@ Coinage Render
 
 ---
 
-## Section 6 — Institutional Bars (99.5% Purity)
+## Section 5 — Institutional Bars (99.5% Purity)
 All institutional bars maintain a consistent square cross-section per metal, enabling perfect modular stacking in vaults (a 10 oz bar equals ten 1 oz bars in footprint).
 
 | Coin Code | Metal    | Weight     | Pure Metal | Gross Mass | Length × Width     | Thickness |
@@ -122,7 +110,7 @@ Institutional Bars Render
 
 ---
 
-## Section 7 — Binary Representation and Bitshift Mechanics
+## Section 6 — Binary Representation and Bitshift Mechanics
 The fixed ratios of 64 : 64 : 8 are deliberately powers of two (2⁶), enabling the entire Ledger to be expressed in pure binary with a maximum precision of 2¹⁵ (32,768) Ledger Units.  
 
 This architecture permits:

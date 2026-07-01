@@ -41,7 +41,19 @@ This Act governs the Hudson Ledger, the official electronic record-keeping syste
 
 ---
 
-## Section 3 — Ledger Recording Formats
+## Section 3 — International Exchange Conversion Formulas (Transitional)
+The gold spot price is the publicly available market price for 99.99%+ pure gold.
+
+| Asset Form       | Direction       | Formula                                                                  |
+|------------------|-----------------|--------------------------------------------------------------------------|
+| Bars (99.5%)     | Fiat to Ledger  | (Fiat amount ÷ (0.995 × gold spot)) × (32,768 × Current Scaling Factor)  |
+| Bars (99.5%)     | Ledger to Fiat  | (Ledger units ÷ (32,768 × Current Scaling Factor)) × (0.995 × gold spot) |
+| Coins (95.0%)    | Fiat to Ledger  | (Fiat amount ÷ (0.95 × gold spot)) × (32,768 × Current Scaling Factor)   |
+| Coins (95.0%)    | Ledger to Fiat  | (Ledger units ÷ (32,768 × Current Scaling Factor)) × (0.95 × gold spot)  |
+
+---
+
+## Section 4 — Ledger Recording Formats
 
 ### Denomination Recording Format
 The standard transaction record format is as follows:
@@ -66,42 +78,42 @@ The standard transaction record format is as follows:
 
 ---
 
-## Section 4 — Internal Tracking and Identification
+## Section 5 — Internal Tracking and Identification
 
 All physical bullion instruments (coins, rounds, and bars) within the Hudson Republic shall be assigned a unique, machine-readable transaction receipt identifier upon XRF verification and entry into the system. This identifier serves as a permanent receipt and custody record for auditing, banking, circulation, and enforcement purposes. It is **not** a representation of monetary value, but rather a verifiable record of provenance, custody status, and physical specifications.
 
-## Section 5 — Emergency Liquidity Re-scaling Protocol
+## Section 6 — Emergency Liquidity Re-scaling Protocol
 
-**5.1 Activation**  
+**6.1 Activation**  
 A Monetary Emergency and associated Ledger re-scaling may be activated solely by:  
 - Formal declaration of a Monetary Emergency by the National Representative, and  
 - An Overwhelming Majority verdict of the Senate (as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**).  
 
 This activation shall be treated as Emergency Legislation.
 
-**5.2 Available Scaling Factors and Tariff Measures**  
+**6.2 Available Scaling Factors and Tariff Measures**  
 During a declared Monetary Emergency, the chosen scaling factor (2x, 4x, or 8x) shall be applied to copper Ledger Units. Concurrently, a **100% tariff** (equivalent to a bitshift of `>>0`) shall be imposed on all affected inbound transactions for the duration of the emergency.  
 
 The National Representative shall retain discretion to adjust the tariff rate downward (through lower bitshift values) in consultation with the Senate when circumstances so warrant. Any such adjustment must be publicly announced and recorded on the Hudson Ledger.
 
-**5.3 Duration, Step-Down, and Review**  
+**6.3 Duration, Step-Down, and Review**  
 - The initial activation of a Monetary Emergency shall not exceed ninety (90) days.  
 - The scaling factor and associated tariff measures shall be subject to monthly review by the Senate.  
 - Upon return to normal operations, a mandatory step-down procedure must be enacted through a dedicated **Obligation Paper** bearing the exact FQLN: `OP_BBNORMALMULTIPLIERTRANSITION_[YYYYYYYYYYYY]YYYYMMDD.md`.  
 - The step-down shall proceed gradually by one bitshift to the right per quarter (three months) until the standard tariff rate is restored (e.g., 100% → 50% → 25% → normal).  
 - The full transition period shall not exceed four quarters: one quarter at full emergency scaling and tariff, followed by up to three quarters of step-down.
 
-**5.4 Accounting Treatment**  
+**6.4 Accounting Treatment**  
 Accounting software and systems shall implement the scaling factor as a global multiplier applied exclusively to the (1/8) troy ounce copper ledger unit while strictly preserving the constitutional 64:64:8 bullion ratios. All emergency measures, including the associated tariff, must be fully auditable and accompanied by clear public notice on the Hudson Ledger.  
 
 The scaling factor formally declared by the National Representative (with Senate approval) shall constitute the sole official and legally binding scaling factor during both normal and emergency periods.
 
-**5.5 Reversion**  
+**6.5 Reversion**  
 Failure to enact the required Obligation Paper for step-down shall result in the automatic reversion to normal scaling factors and tariff rates at the conclusion of the declared emergency period.
 
-## Section 6 - Scaling Tables
+## Section 7 - Scaling Tables
 
-**6.1 Bullion beaver (1x scaling, no liquidity injection) - Regular (displayed), 5 octet representation**
+**7.1 Bullion beaver (1x scaling, no liquidity injection) - Regular (displayed), 5 octet representation**
 
 | Power of 2 | Binary Amount         | Unit Description | Amount in HCB8 |
 |------------|-----------------------|------------------|----------------|
@@ -122,7 +134,7 @@ Failure to enact the required Obligation Paper for step-down shall result in the
 | 2^14       | 0.100.000.000.000.000 | None             | 16,384 HCB8    |
 | 2^15       | 1.000.000.000.000.000 | 1 gold oz        | 32,768 HCB8    |
 
-**6.2 Bullion beaver (1x scaling, no liquidity injection) - Backend Math (in memory), 6 octet representation**
+**7.2 Bullion beaver (1x scaling, no liquidity injection) - Backend Math (in memory), 6 octet representation**
 
 | Power of 2 | Binary Amount             | Unit Description | Amount in HCB8 |
 |------------|---------------------------|------------------|----------------|
@@ -143,7 +155,7 @@ Failure to enact the required Obligation Paper for step-down shall result in the
 | 2^14       | 0.100.000.000.000.000.000 | None             | 16,384 HCB8    |
 | 2^15       | 1.000.000.000.000.000.000 | 1 gold oz        | 32,768 HCB8    |
 
-**6.3 Bullion beaver (2x scaling liquidity injection)**
+**7.3 Bullion beaver (2x scaling liquidity injection)**
 
 | Power of 2 | Binary Amount             | Unit Description | Amount in HCB8 |
 |------------|---------------------------|------------------|----------------|
@@ -165,7 +177,7 @@ Failure to enact the required Obligation Paper for step-down shall result in the
 | 2^15       | 0.100.000.000.000.000.000 | None             | 32,768 HCB8    |
 | 2^16       | 1.000.000.000.000.000.000 | 1 gold oz        | 65,536 HCB8    |
 
-**6.4 Bullion beaver (4x scaling liquidity injection)**
+**7.4 Bullion beaver (4x scaling liquidity injection)**
 
 | Power of 2 | Binary Amount             | Unit Description | Amount in HCB8 |
 |------------|---------------------------|------------------|----------------|
@@ -188,7 +200,7 @@ Failure to enact the required Obligation Paper for step-down shall result in the
 | 2^16       | 0.100.000.000.000.000.000 | None             | 65,536 HCB8    |
 | 2^17       | 1.000.000.000.000.000.000 | 1 gold oz        | 131,072 HCB8   |
 
-**6.5 Bullion beaver (8x scaling liquidity injection)**
+**7.5 Bullion beaver (8x scaling liquidity injection)**
 
 | Power of 2 | Binary Amount             | Unit Description | Amount in HCB8 |
 |------------|---------------------------|------------------|----------------|
@@ -212,7 +224,7 @@ Failure to enact the required Obligation Paper for step-down shall result in the
 | 2^17       | 0.100.000.000.000.000.000 | None             | 131,072 HCB8   |
 | 2^18       | 1.000.000.000.000.000.000 | 1 gold oz        | 262,144 HCB8   |
 
-## Section 7 - Sign interpretation.
+## Section 8 - Sign interpretation.
 
 A plus (+) sign = This is used to add entries and add or accumulate amounts.
 A minus (-) sign = This is used to remove entries and subtract amounts.

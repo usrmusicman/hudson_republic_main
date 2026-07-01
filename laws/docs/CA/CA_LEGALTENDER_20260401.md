@@ -62,6 +62,11 @@ No person or entity may debase, clip, shave, plate, or otherwise physically alte
 
 ---
 
+## Section 6 — Liquidity Scaling in Monetary Emergencies
+**6.1** A temporary liquidity scaling factor (2x, 4x, or 8x) may be applied exclusively to copper Ledger Units during a formally declared Monetary Emergency.  
+
+**6.2** This scaling mechanism is strictly limited to emergency conditions as defined by the Senate and the National Representative. It does not alter the fundamental 64:64:8 bullion ratios or the legal tender status of physical bullion. All scaling measures are temporary, subject to monthly Senate review, and must follow a mandatory step-down procedure upon return to normal operations.
+
 **Original Author**: 
 
 **House Signature**: 
