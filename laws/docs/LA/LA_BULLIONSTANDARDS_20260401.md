@@ -38,13 +38,7 @@ The base Ledger accounting unit is 1/8 troy ounce of 95% pure copper. The maximu
 
 ---
 
-## Section 3 — Rounding Rule
-All values resulting from conversions shall be rounded **down** to the nearest whole number of 1/8 troy ounce copper units.  
-**Exception**: When the transaction represents a debit or expense to the payer, any fractional remainder shall be rounded **up** at the final step. When the transaction represents a credit or income to the recipient, any fractional remainder shall be rounded **down** at the final step.
-
----
-
-## Section 4 — Founders Edition Reference Coins
+## Section 3 — Founders Edition Reference Coins
 The Founders Edition establishes circulation standards for coins. Institutional bars (99.5% purity) are reserved exclusively for banking, trusts, savings, and reserves.
 
 ### Founders Edition Coins
@@ -83,7 +77,7 @@ Coinage Render
 
 ---
 
-## Section 5 — Institutional Bars (99.5% Purity)
+## Section 4 — Institutional Bars (99.5% Purity)
 All institutional bars maintain a consistent square cross-section per metal, enabling perfect modular stacking in vaults (a 10 oz bar equals ten 1 oz bars in footprint).
 
 | Coin Code | Metal    | Weight     | Pure Metal | Gross Mass | Length × Width     | Thickness |
@@ -107,18 +101,6 @@ All institutional bars maintain a consistent square cross-section per metal, ena
 Institutional Bars Render
 
 ![Hudson Republic Banner](../../images/LA/LA_BULLIONSTANDARDS_20260401/BULLIONBEAVERS_FOUNDERS_EDITION_BARS_2026.jpg)
-
----
-
-## Section 6 — Binary Representation and Bitshift Mechanics
-The fixed ratios of 64 : 64 : 8 are deliberately powers of two (2⁶), enabling the entire Ledger to be expressed in pure binary with a maximum precision of 2¹⁵ (32,768) Ledger Units.  
-
-This architecture permits:
-- Simple bit-shifting for the automatic calculation of tariffs and taxes (e.g., >>4 = 6.25 %).  
-- Octal masking for human-readable “exact change” at point of sale.  
-- Predictable behaviour when any single metal’s fiat price fluctuates, as the other metals absorb variance without destabilizing the Ledger.
-
-All conversion examples and practical applications are illustrative only and must conform to the formulas and rounding rules set out in Sections 3 and 4.
 
 ---
 

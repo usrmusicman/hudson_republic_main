@@ -82,6 +82,8 @@ The standard transaction record format is as follows:
 
 All physical bullion instruments (coins, rounds, and bars) within the Hudson Republic shall be assigned a unique, machine-readable transaction receipt identifier upon XRF verification and entry into the system. This identifier serves as a permanent receipt and custody record for auditing, banking, circulation, and enforcement purposes. It is **not** a representation of monetary value, but rather a verifiable record of provenance, custody status, and physical specifications.
 
+---
+
 ## Section 6 — Emergency Liquidity Re-scaling Protocol
 
 **6.1 Activation**  
@@ -110,6 +112,8 @@ The scaling factor formally declared by the National Representative (with Senate
 
 **6.5 Reversion**  
 Failure to enact the required Obligation Paper for step-down shall result in the automatic reversion to normal scaling factors and tariff rates at the conclusion of the declared emergency period.
+
+---
 
 ## Section 7 - Scaling Tables
 
@@ -224,11 +228,20 @@ Failure to enact the required Obligation Paper for step-down shall result in the
 | 2^17       | 0.100.000.000.000.000.000 | None             | 131,072 HCB8   |
 | 2^18       | 1.000.000.000.000.000.000 | 1 gold oz        | 262,144 HCB8   |
 
-## Section 8 - Sign interpretation.
+---
+
+## Section 8 - Sign interpretation
 
 A plus (+) sign = This is used to add entries and add or accumulate amounts.
 A minus (-) sign = This is used to remove entries and subtract amounts.
 A tilde (~) sign = This is used as a neutral symbol or a value of zero (0).
+
+---
+
+## Section 9 - Rounding Rules
+
+All values resulting from conversions shall be rounded **down** to the nearest whole number of 1/8 troy ounce copper units.  
+**Exception**: When the transaction represents a debit or expense to the payer, any fractional remainder shall be rounded **up** at the final step. When the transaction represents a credit or income to the recipient, any fractional remainder shall be rounded **down** at the final step.
 
 ---
 
