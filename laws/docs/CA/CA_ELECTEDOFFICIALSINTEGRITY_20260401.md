@@ -43,7 +43,7 @@ Public office in the Hudson Republic is a fiduciary trust, not a career or privi
 All candidates for elected office (Riding Representative, Senator, HoC Mediator, Senate Mediator, National Representative, Supreme Court Justice) must meet the following universal criteria at the time of candidacy and throughout their term:  
 
 * **Sole Citizenship**: Exclusive citizenship in the Hudson Republic; no dual or multiple citizenships.  
-* **Riding Residency**: Continuous legal residency in the specific Riding for at least five (5) full years immediately preceding election (waived for national roles where not applicable).  
+* **Riding Residency**: Continuous legal residency in the specific Riding they seek to represent for at least five (5) full years immediately preceding the election. This requirement is waived only for National Representative candidates where the role is not Riding-specific.  
 * **Age**: Between twenty-five (25) and sixty-five (65) years at the time of election.  
 * **Financial Decoupling**: Within thirty (30) days of election, officials must forfeit all private executive or board titles and place all controlled assets into a **Strict Blind Trust**.  
 * **No Party Affiliation**: Candidates must run without any party affiliation, endorsement, or organizational support. No registered political party or faction may fund or coordinate with any candidate.  
