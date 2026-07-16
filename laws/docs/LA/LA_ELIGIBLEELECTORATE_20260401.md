@@ -43,7 +43,7 @@ An individual is eligible to vote in any general election, bi-election, or offic
 
 2. **Age**: The individual must have attained the Age of Majority prior to the date on which the election is formally called.
 
-3. **Residency**: The individual must have maintained continuous residence within the core territory of the Hudson Republic (excluding Satellite States) for a minimum of five (2) years.  
+3. **Residency**: The individual must have maintained continuous residence within the core territory of the Hudson Republic (excluding Satellite States) for a minimum of two (2) years.  
    a. Proof of residency shall be established through employment records, residence documentation, business registration, or other verifiable evidence, accompanied by a valid Hudson Republic passport or equivalent official federal identification.  
    b. Such documentation must be submitted to Hudson Elections at least ninety (90) days prior to the issuance of a writ of election.
 
