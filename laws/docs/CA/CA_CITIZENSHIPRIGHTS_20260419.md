@@ -41,7 +41,7 @@ This Act defines the criteria for acquiring and maintaining citizenship in the H
 ## Section 1 — Definition of Citizenship
 **1.1** A Citizen of the Hudson Republic is any person who meets one of the following criteria:  
 (a) is born into the Republic or one of its member Satellite States in accordance with Section 2;  
-(b) successfully completes the immigration and naturalization process established by law; or  
+(b) successfully completes the immigration and naturalization process established by law;  
 (c) swears a formal oath of allegiance to the Hudson Republic and renders service to the nation as prescribed by law.
 
 ---
@@ -64,16 +64,33 @@ This Act defines the criteria for acquiring and maintaining citizenship in the H
 
 **3.2** Every Citizen has the right to official citizenship documentation, including passports, identity cards, and other legal instruments issued by the Republic.
 
-**3.3** Upon reaching the Age of Majority or upon completion of minor education (whichever occurs later), every Citizen shall complete two (2) years of mandatory military or civil service training as determined by the Riding Board or federal authority.
+**3.3** Every Citizen has the right to vote in referendums, provided they satisfy the voting requirements established in this Act.
+
+**3.4** Upon reaching the Age of Majority or upon completion of minor education (whichever occurs later), every Citizen shall complete two (2) years of mandatory military or civil service training as determined by the Riding Board or federal authority.
 
 ---
 
-## Section 4 — Special Provisions for Satellite States
-**4.1** Citizens residing in Satellite States enjoy all rights and protections under this Act except:  
+## Section 4 — Voting Rights Requirements
+Voting in elections or official referendums of the Hudson Republic is subject to the following requirements:
+
+**4.1** The individual must be a Citizen of the Hudson Republic.
+
+**4.2** The individual must have maintained continuous residence within the core territory of the Hudson Republic (excluding Satellite States) for a minimum of five (5) years.  
+    a. Proof of residency shall be established through employment records, residence documentation, business registration, or other verifiable evidence, accompanied by a valid Hudson Republic passport or equivalent official federal identification.  
+    b. Such documentation must be submitted to Hudson Elections at least ninety (90) days prior to the issuance of a writ of election.
+
+**4.3** All residency and citizenship qualifications apply exclusively to the individual. Proxy voting, collective ballots, or voting on behalf of another person are strictly prohibited under all circumstances.
+
+**4.4** Any felony conviction, falsification of information, institutionalization, or outstanding fines shall disqualify the individual from voting until the matter is fully resolved and a clear record is restored in the eyes of the court.
+
+---
+
+## Section 5 — Special Provisions for Satellite States
+**5.1** Citizens residing in Satellite States enjoy all rights and protections under this Act except:  
 (a) they shall not vote in elections of the Hudson Republic; and  
 (b) they are not obligated to participate in military operations of the Hudson Republic unless their local Satellite State administration expressly requires it.
 
-**4.2** The Republic shall issue citizenship documentation to Citizens in Satellite States on the same basis as Citizens residing in core territory.
+**5.2** The Republic shall issue citizenship documentation to Citizens in Satellite States on the same basis as Citizens residing in core territory.
 
 ---
 

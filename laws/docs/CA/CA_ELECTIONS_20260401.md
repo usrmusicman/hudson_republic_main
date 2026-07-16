@@ -150,7 +150,7 @@ The Special Accessibility Ballot shall be single-sided with large write-in field
 ## Section 12 — Personnel Requirements
 
 **12.1 Status**: All election staff must be Hudson Republic citizens.  
-**12.2 Residency**: Staff must have 2 years residency in the relevant Riding.  
+**12.2 Residency**: Staff must have 5 years residency in the relevant Riding.  
 **12.3 Integrity**: Clean criminal record required for all hires.
 
 ---
