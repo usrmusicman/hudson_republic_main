@@ -37,18 +37,21 @@ This Act establishes clear, objective criteria for voter eligibility in all gene
 
 ## Section 1 — General Eligibility Criteria
 
-An individual is eligible to vote in any general election or bi-election only if they satisfy **all** of the following requirements:
+An individual is eligible to vote in any general election, bi-election, or official citizen referendum only if they satisfy **all** of the following requirements:
 
-1. **Citizenship**: The individual must be a full citizen of the Hudson Republic.  
-2. **Age**: The individual must have attained the Age of Majority prior to the date on which the election is formally called.  
-3. **Residency**:  
-   - The individual must have maintained continuous residency within the specific Riding in which they intend to vote for a minimum of **one (1) full year** immediately preceding the date the election is called.  
-   - Additionally, the individual must have resided continuously within the Hudson Republic’s official Riding territory(ies) for a full **five (5) year** period prior to the election being called.  
-4. **Legal Standing**:  
-   - The individual must possess a clean civilian criminal record.  
-   - Where applicable, the individual must possess a clean military record free of any behavioral summons or convictions under military law.  
-5. **Verifiable Stake**: The individual must hold verified rental agreements or property title records in their name that substantiate the residency claim.  
-6. **Security Clearance**: The individual must not appear on any active national security watchlist maintained by the Hudson Intelligence Service (HIS).
+1. **Citizenship**: The individual must be a full Citizen of the Hudson Republic.
+
+2. **Age**: The individual must have attained the Age of Majority prior to the date on which the election is formally called.
+
+3. **Residency**: The individual must have maintained continuous residence within the core territory of the Hudson Republic (excluding Satellite States) for a minimum of five (5) years.  
+   a. Proof of residency shall be established through employment records, residence documentation, business registration, or other verifiable evidence, accompanied by a valid Hudson Republic passport or equivalent official federal identification.  
+   b. Such documentation must be submitted to Hudson Elections at least ninety (90) days prior to the issuance of a writ of election.
+
+4. **Legal Standing**: The individual must possess a clean civilian criminal record and, where applicable, a clean military record. The individual must not be institutionalized during the period of ballot casting. Any outstanding debt that is chronically delinquent shall result in disqualification until resolved by a court of law.
+
+5. **Security Clearance**: The individual must not appear on any active national security watchlist maintained by the Hudson Intelligence Service (HIS).
+
+6. **Exclusivity Principle**: All residency and citizenship qualifications apply exclusively to the individual. Proxy voting, collective ballots, or voting on behalf of another person are strictly prohibited under all circumstances.
 
 ---
 
