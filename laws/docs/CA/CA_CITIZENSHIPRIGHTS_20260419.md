@@ -81,7 +81,7 @@ Voting in elections or official referendums of the Hudson Republic is subject to
 
 **4.3** All residency and citizenship qualifications apply exclusively to the individual. Proxy voting, collective ballots, or voting on behalf of another person are strictly prohibited under all circumstances.
 
-**4.4** Any felony conviction, falsification of information, institutionalization, or outstanding fines shall disqualify the individual from voting until the matter is fully resolved and a clear record is restored in the eyes of the court.
+**4.4** Any felony conviction, falsification of legal status, institutionalization, or outstanding fines shall disqualify the individual from voting until the matter is fully resolved and a clear record is restored in the eyes of the court.
 
 ---
 
