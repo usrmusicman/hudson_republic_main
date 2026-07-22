@@ -241,7 +241,7 @@ A tilde (~) sign = This is used as a neutral symbol or a value of zero (0).
 ## Section 9 - Rounding Rules
 
 All values resulting from conversions shall be rounded **down** to the nearest whole number of 1/8 troy ounce copper units.  
-**Exception**: When the transaction represents a debit or expense to the payer, any fractional remainder shall be rounded **up** at the final step. When the transaction represents a credit or income to the recipient, any fractional remainder shall be rounded **down** at the final step.
+**Exception**: When the transaction represents a debit or expense to the payer, any fractional remainder shall be rounded **up** at the final step. When the transaction represents a credit or revenue/income to the recipient, any fractional remainder shall be rounded **down** at the final step.
 
 ---
 

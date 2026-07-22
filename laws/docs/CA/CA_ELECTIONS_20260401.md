@@ -56,134 +56,109 @@ Elections in the Hudson Republic are sacred exercises of individual sovereignty,
 **2.2 Eligibility**: Citizens who have attained the Age of Majority.  
 **2.3 Identification**: Voters must present **both** (1) valid government-issued photo identification **and** (2) their personal **Voter ID Pass (VIP)**.  
     - Government-issued photo ID includes a driver’s licence, passport, or other federally or provincially recognized photo identification.  
-    - The VIP is issued by the Hudson Postal Service and serves as proof of current registration and eligibility in the specific Riding.
-**2.4 VIP Issuance**: Distributed via Hudson Postal Service ten (10) business days prior to election.  
+    - The VIP is issued by Hudson Elections and delivered securely via the Hudson Postal Service. It serves as proof of current registration and eligibility in the specific Riding.
+**2.4 Distribution**: Distributed via Hudson Postal Service no later than ten (10) business days prior to an election.  
 **2.5 Ballot Process**: Marked behind an opaque shield and inserted into a secured slot.  
 **2.6 Counting**: Each ballot is machine-scanned; paper ballots are retained in the box for archival and audit.  
 **2.7 Transport**: Boxes are GPS-tracked and continuously monitored during transport.
 
 ---
 
-## Section 3 — Ballot Specifications
+## Section 3 — Candidacy Process
 
-**3.2 General Election Ballot**  
-- **Format**: Double-sided (duplex), four roles total.  
-- **Layout**: Dual-sided quadrant design.  
-  - **Side One (Obverse)**: Riding Representative and Senate Mediator.  
-  - **Side Two (Reverse)**: Senator and National Representative.  
-- **Voting Style**: Optical Mark Recognition (OMR) with up to 12 candidate slots per role plus write-in option.  
-- **Reference**: See **[Official Election Ballot](../FO/FO_BALLOTGENERAL_20260529.md)** and **[Special Accessibility Ballot](../FO/FO_BALLOTSPECIAL_20260529.md)**.
-
-**3.3 Bi-Election Ballot**  
-- **Format**: Single-sided, single-role contest.  
-- **Layout**: Two-column horizontal design with 12 candidates divided into two vertical columns of 6 candidates each.  
-- **Voting Style**: Optical Mark Recognition (OMR) with write-in option.  
-- **Reference**: See **[Bi-Election General Ballot](../FO/FO_BIELECTIONGENERAL_20260529.md)** and **[Bi-Election Special Accessibility Ballot](../FO/FO_BIELECTIONSPECIAL_20260529.md)**.
-
-**3.4 Accessibility Ballot**  
-The Special Accessibility Ballot shall be single-sided with large write-in fields designed for voters requiring additional space or using Intelligent Character Recognition (ICR) processing.
+**3.1 Limit**: Maximum of two hundred (200) candidates per riding (50 per role maximum).  
+**3.2 Application Fee**: Non-refundable fee as set out in the **[Elections Administration Schedule](../SCH/SCH_ELECTIONSADMIN_20260401.md)**.  
+**3.3 Submission**: Registry locks ten (10) business days after the writ or upon reaching the maximum.  
+**3.4 Transparency**: Spending logs must be publicly available and updated in real-time.  
+**3.5 No Party Affiliation**: Parties, coalitions, or external movements are prohibited from endorsing or funding candidates. Candidates appear on ballots solely by their **legal personal name**.
 
 ---
 
-## Section 4 — Candidacy Process
+## Section 4 — Candidate Vetting and Integrity Scan
 
-**4.1 Limit**: Maximum of twelve (12) candidates per role, first-come, first-served.  
-**4.2 Application Fee**: Non-refundable fee as set out in the **[Elections Administration Schedule](../SCH/SCH_ELECTIONSADMIN_20260401.md)**.  
-**4.3 Submission**: Registry locks ten (10) business days after the writ or upon the 12th applicant.  
-**4.4 Transparency**: Spending logs must be publicly available and updated in real-time.  
-**4.5 No Party Affiliation**:  
-* Parties, coalitions, or external movements are prohibited from endorsing or funding candidates.  
-* Candidates appear on ballots solely by their **legal personal name**.  
-* No logos, slogans, or designations like "Independent" are permitted.  
-* Breaches result in immediate disqualification and prosecution.
+**4.1 Clearances**: Mandatory credit check (insolvency), Interpol criminal check, and Hudson Intelligence Service (HIS) deep-scan for terrorist or criminal ties.
 
 ---
 
-## Section 5 — Candidate Vetting and Integrity Scan
+## Section 5 — Voting Outside the Republic
 
-**5.1 Clearances**: Mandatory credit check (insolvency), Interpol criminal check, and Hudson Intelligence Service (HIS) deep-scan for terrorist or criminal ties.
-
----
-
-## Section 6 — Voting Outside the Republic
-
-**6.1 Authorized Locations**: Limited to military bases, embassies, and licensed Hudson Business remote sites.  
-**6.2 Deadline**: Ballots must reach the Main Office within thirty (30) days of election day.
+**5.1 Authorized Locations**: Limited to military bases, embassies, and licensed Hudson Business remote sites.  
+**5.2 Deadline**: Ballots must reach the Main Office within thirty (30) days of election day.
 
 ---
 
-## Section 7 — Special Cases
+## Section 6 — Special Cases
 
-**7.1 Home-Bound Voting**: Voters with verified illness or extreme remoteness may request an authorized representative.  
-**7.2 Process**: Ballot administration must occur under continuous video supervision.
-
----
-
-## Section 8 — Hudson Elections
-
-**8.1 Responsibilities**: Identity validation, VIP issuance, count broadcasting, and GPS tracking of ballot boxes.  
-**8.2 Records**: Real-time funding displays; records archived for ninety (90) days post-election.
+**6.1 Home-Bound Voting**: Voters with verified illness or extreme remoteness may request an authorized representative.  
+**6.2 Process**: Ballot administration must occur under continuous video supervision.
 
 ---
 
-## Section 9 — Campaign Spending Limits
+## Section 7 — Hudson Elections
 
-**9.1 Individuals**: Maximum amount as set out in the **[Elections Administration Schedule](../SCH/SCH_ELECTIONSADMIN_20260401.md)**.  
-**9.2 Businesses**: Maximum amount as set out in the **[Elections Administration Schedule](../SCH/SCH_ELECTIONSADMIN_20260401.md)**.  
-**9.3 Audit**: Mandatory third-party deep audit during the 48-hour window before election day.
-
----
-
-## Section 10 — Recall and Recount
-
-**10.1 Jurisdiction**: Disputes are heard at the **Supreme Court** level; must be filed within thirty (30) days of winner declaration.
+**7.1 Responsibilities**: Identity validation, VIP issuance, count broadcasting, and GPS tracking of ballot boxes.  
+**7.2 Records**: Real-time funding displays; records archived for ninety (90) days post-election.
 
 ---
 
-## Section 11 — By-elections
+## Section 8 — Campaign Spending Limits
 
-**11.1 Frequency**: Conducted every 24–30 months, or when triggered by the **[Elected Officials and Integrity Act](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**.  
-**11.2 Timing**: Campaign starts 15–30 days after the writ is issued.
-
----
-
-## Section 12 — Personnel Requirements
-
-**12.1 Status**: All election staff must be Hudson Republic citizens.  
-**12.2 Residency**: Staff must have 5 years residency in the relevant Riding.  
-**12.3 Integrity**: Clean criminal record required for all hires.
+**8.1 Individuals**: Maximum amount as set out in the **[Elections Administration Schedule](../SCH/SCH_ELECTIONSADMIN_20260401.md)**.  
+**8.2 Businesses**: Maximum amount as set out in the **[Elections Administration Schedule](../SCH/SCH_ELECTIONSADMIN_20260401.md)**.  
+**8.3 Audit**: Mandatory third-party deep audit during the 48-hour window before election day.
 
 ---
 
-## Section 13 — Mass Vacancies and Emergency Elections
+## Section 9 — Recall and Recount
 
-**13.1 Emergency Bi-elections**: Triggered by death, incapacitation, conviction, or conflict of interest of a Riding Representative, Senator, or Mediator.  
-**13.2 Writ**: Issued within seven (7) days of the triggering event; polling within 60 days.  
-**13.3 National Representative Vacancy**: If the National Representative is removed or incapacitated, a **General Election for all offices** is triggered immediately.  
-**13.4 Mass Vacancy Threshold**: If ≥25% of seats in a particular house become vacant within any 7-day period, a general election for that legislative house is called.
+**9.1 Jurisdiction**: Disputes are heard at the **Supreme Court** level; must be filed within thirty (30) days of winner declaration.
 
 ---
 
-## Section 14 — Notice of Withdrawal (NOW)
+## Section 10 — By-elections
 
-**14.1 Procedure**:  
+**10.1 Frequency**: Conducted every 24–30 months, or when triggered by the **[Elected Officials and Integrity Act](./CA_ELECTEDOFFICIALSINTEGRITY_20260401.md)**.  
+**10.2 Timing**: Campaign starts 15–30 days after the writ is issued.
+
+---
+
+## Section 11 — Personnel Requirements
+
+**11.1 Status**: All election staff must be Hudson Republic citizens.  
+**11.2 Residency**: Staff must have 5 years residency in the relevant Riding.  
+**11.3 Integrity**: Clean criminal record required for all hires.
+
+---
+
+## Section 12 — Mass Vacancies and Emergency Elections
+
+**12.1 Emergency Bi-elections**: Triggered by death, incapacitation, conviction, or conflict of interest of a Riding Representative, Senator, or Mediator.  
+**12.2 Writ**: Issued within seven (7) days of the triggering event; polling within 60 days.  
+**12.3 National Representative Vacancy**: If the National Representative is removed or incapacitated, a **General Election for all offices** is triggered immediately.  
+**12.4 Mass Vacancy Threshold**: If ≥25% of seats in a particular house become vacant within any 7-day period, a general election for that legislative house is called.
+
+---
+
+## Section 13 — Notice of Withdrawal (NOW)
+
+**13.1 Procedure**:  
 * Resignation creates an immediate vacancy and triggers the election process.  
 * The official must remain in office until a successor is sworn in.  
 * Resignation of the National Representative triggers a **full General Election**.
 
 ---
 
-## Section 15 — Supreme Court Justice Elections
+## Section 14 — Supreme Court Justice Elections
 
-**15.1** Twelve (12) Justice openings; maximum 50 candidates.  
-**15.2 Selection**: Justices are elected by the **Senate** following a general election.
+**14.1** Twelve (12) Justice openings; maximum 50 candidates.  
+**14.2 Selection**: Justices are elected by the **Senate** following a general election.
 
 ---
 
-## Section 16 — Special Secretary Elections
+## Section 15 — Special Secretary Elections
 
-**16.1** Three (3) Special Secretary positions shall be filled by Senate election requiring a Clear Verdict (7/12) as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.  
-**16.2** Special Secretaries serve at the pleasure of the Senate and may be elected, re-elected, or discharged at any time by a Clear Verdict (7/12) during their term.
+**15.1** Three (3) Special Secretary positions shall be filled by Senate election requiring a Clear Verdict (7/12) as defined in the **[Clarity Act](./CA_CLARITYACT_20260522.md)**.  
+**15.2** Special Secretaries serve at the pleasure of the Senate and may be elected, re-elected, or discharged at any time by a Clear Verdict (7/12) during their term.
 
 ---
 
