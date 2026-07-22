@@ -58,8 +58,7 @@ Elections in the Hudson Republic are sacred exercises of individual sovereignty,
     - Government-issued photo ID includes a driver’s licence, passport, or other federally or provincially recognized photo identification.  
     - The VIP is issued by Hudson Elections and delivered securely via the Hudson Postal Service. It serves as proof of current registration and eligibility in the specific Riding.
 **2.4 Distribution**: Distributed via Hudson Postal Service no later than ten (10) business days prior to an election.  
-**2.5 Ballot Process**: Marked behind an opaque shield and inserted into a secured slot.  
-**2.6 Counting**: Each ballot is machine-scanned; paper ballots are retained in the box for archival and audit.  
+**2.5 Ballot Process**: Casted behind an opaque shield and inserted into a secured slot.  
 **2.7 Transport**: Boxes are GPS-tracked and continuously monitored during transport.
 
 ---

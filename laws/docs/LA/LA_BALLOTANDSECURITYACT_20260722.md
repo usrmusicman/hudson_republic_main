@@ -24,7 +24,7 @@ This Act establishes the standards for ballot design, casting, security, and ver
 
 ---
 
-## Section 1 — Ballot Specifications (Updated)
+## Section 1 — Ballot Specifications
 
 **1.1 General Election Ballot (Paper Backup)**  
 - **Format**: Single-sided (to prevent bleed-through), Legal Size (8.5" × 14").  
@@ -45,21 +45,43 @@ This Act establishes the standards for ballot design, casting, security, and ver
 **2.1 Format** (fields separated by vertical bars)  
 `[Candidate ID Number]|[Candidate Name]|[Riding Name]|[Riding Code]|[Voter ID Number]|[Station Officer ID Number]|[Unique Hash]`
 
-- **Candidate ID Number**: Decimal value 0–199 (max 200 candidates per riding).  
+- **Candidate ID Number**: Decimal 0–199 (max 200 candidates per riding).  
 - **Candidate Name**: Legal name of the candidate.  
 - **Riding Name**: Name of the riding.  
-- **Riding Code**: 4-character hexadecimal code.  
-- **Voter ID Number**: Random decimal 0–999,999,999 generated per election for internal use.  
-- **Station Officer ID Number**: 12-character hexadecimal badge number.  
-- **Unique Hash**: Cryptographic hash proving transaction integrity.
+- **Riding Code**: 4-character hexadecimal.  
+- **Voter ID Number**: Random decimal 0–999,999,999 per election.  
+- **Station Officer ID Number**: 12-character hexadecimal badge.  
+- **Unique Hash**: Cryptographic hash for integrity.
 
 ---
 
-## Section 3 — Security and Verification
+## Section 3 — Casting Procedures
 
-**3.1** All digital ballots shall be hashed with SHA3-512 and timestamped.  
-**3.2** Paper backups shall be retained in tamper-evident, GPS-tracked containers.  
-**3.3** Full audit trail available under Freedom of Information.
+### Digital Ballot
+The Station Officer must:
+
+1. Authenticate the voter using both photo ID and Voter ID Pass.  
+2. Type the Voter ID Pass number and their badge number into the master terminal to arm the one-time ballot authorization.  
+3. The voter completes all prompts on the voting terminal.  
+4. Each session is recorded as a Digital Casted Ballot Record (DCBR).  
+5. The original VIP pass is shredded and discarded.
+
+### Paper Ballot
+The Station Officer must:
+
+1. Authenticate the voter using both photo ID and Voter ID Pass.  
+2. Provide the voter with a paper ballot (4 blank OMR boxes) and the candidate menu booklet.  
+3. The voter marks the ballot and places it in a secure envelope into the ballot box.  
+4. The Station Officer records Voter ID Number and Station Officer ID Number. Other fields remain blank until counting at the Subzone Election Office per the **[Postal System Act](../LA/LA_POSTALSYSTEM_20260528.md)**.  
+5. The original VIP pass is shredded and discarded.
+
+---
+
+## Section 4 — Security and Verification
+
+**4.1** All digital ballots are hashed with SHA3-512 and timestamped.  
+**4.2** Paper backups are stored in tamper-evident, GPS-tracked containers.  
+**4.3** Full audit trail available under Freedom of Information.
 
 ---
 
