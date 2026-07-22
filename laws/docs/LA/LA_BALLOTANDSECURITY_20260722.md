@@ -6,8 +6,9 @@
 List any legislative instrument(s) (in alphabetical order) that this article must depend on. List the FQLN(s) below. Any FQLN(s) mentioned in other sections are considered to be references and not actual dependencies.  
 Only **Constitutional Articles (CA)** and **Legislative Articles (LA)** can be listed here.
 
+* **[CA_CLARITYACT_20260522](../CA/CA_CLARITYACT_20260522.md)**  
 * **[CA_ELECTIONS_20260401](../CA/CA_ELECTIONS_20260401.md)**  
-* **[CA_CLARITYACT_20260522](../CA/CA_CLARITYACT_20260522.md)**
+* **[CA_THEINDIVIDUAL_20260401](../CA/CA_THEINDIVIDUAL_20260401.md)**
 
 ---
 
