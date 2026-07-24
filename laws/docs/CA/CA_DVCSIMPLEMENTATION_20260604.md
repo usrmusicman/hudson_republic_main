@@ -17,7 +17,7 @@ List any legislative instrument(s) (in alphabetical order) that this article mus
 Only **Constitutional Articles (CA)** can be listed here.
 
 Dependencies
-* **[CA_CLARITYACT_20260522](./CA_CLARITYACT_20260522.md)**  
+* **[CA_CLARITYACT_20260522](./CA_CLARITYACT_20260522.md)**.  
 * **[CA_NAMINGCONVENTION_20260401](./CA_NAMINGCONVENTION_20260401.md)**  
 * **[CA_THEINDIVIDUAL_20260401](./CA_THEINDIVIDUAL_20260401.md)**
 
@@ -26,8 +26,9 @@ Dependencies
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
+- **[Date]**: the date format in the YYYYMMDD format.  
 - **Distributed Version Control System (DVCS)**: A tool for managing code changes where every legislator (contributor) has a full, local copy of the entire project repository, including its full history.  
-- **Fully Qualified Legislative Name (FQLN)**: A standardized identifier in the format `TYPE_SUBJECT_YYYYMMDD`.
+- **Fully Qualified Legislative Name (FQLN)**: A standardized identifier in the format `TYPE_SUBJECT_[Date]`.
 
 ---
 
@@ -40,12 +41,12 @@ This Act establishes the technical and procedural framework for the use of DVCS 
 
 ## Section 1 — Fully Qualified Legislative Name (FQLN)
 
-**1.1** Every legislative instrument shall be identified by a standardized **Fully Qualified Legislative Name (FQLN)** in the format `TYPE_SUBJECT_YYYYMMDD`. This format ensures immediate human readability, machine parseability, version control, automated auditing, searching, sorting, and long-term archival integrity through distributed version-control systems.
+**1.1** Every legislative instrument shall be identified by a standardized **Fully Qualified Legislative Name (FQLN)** in the format `TYPE_SUBJECT_[Date]`. This format ensures immediate human readability, machine parseability, version control, automated auditing, searching, sorting, and long-term archival integrity through distributed version-control systems.
 
 **1.2 Uniqueness Requirement**  
 The **SUBJECT** component (Field 2) of the FQLN must be unique within the repository at any given time. Duplicate SUBJECT names are strictly prohibited to prevent confusion, overlapping scope, or inadvertent duplication of legislative instruments within the main repository.  
 
-If a legislative instrument is repealed, decommissioned, or otherwise removed from active effect, the same SUBJECT name may be reused for a future instrument. In such cases, the new instrument must carry a different timestamp in Field 3 (YYYYMMDD) to clearly distinguish it as a distinct legislative act. This rule preserves institutional memory while maintaining clarity and preventing namespace collisions.
+If a legislative instrument is repealed, decommissioned, or otherwise removed from active effect, the same SUBJECT name may be reused for a future instrument. In such cases, the new instrument must carry a different timestamp in Field 3 to clearly distinguish it as a distinct legislative act. This rule preserves institutional memory while maintaining clarity and preventing namespace collisions.
 
 ---
 

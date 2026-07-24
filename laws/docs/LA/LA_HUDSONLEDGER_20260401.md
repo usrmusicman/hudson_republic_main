@@ -15,6 +15,7 @@ Dependencies
 ## Definitions
 All capitalized terms used in this Act shall be interpreted in accordance with their definitions in the referenced instruments below.
 
+- **[Date]**: the date format in the YYYYMMDD format.  
 - **Hudson Ledger**: The official, tamper-evident and cryptographically signed electronic record-keeping system for all bullion transactions and Ledger credits.  
 - **Ledger Unit**: The base indivisible accounting denomination, equal to 1/8 troy ounce of 95% pure copper bullion.  
 - **Scaling Factor**: A temporary multiplier (2x, 4x, or 8x) applied to the interpretation of copper Ledger Units during a declared Monetary Emergency.
@@ -35,7 +36,7 @@ This Act governs the Hudson Ledger, the official electronic record-keeping syste
 
 ## Section 2 — Transaction Recording and Access
 **2.1** All transactions shall be recorded on the Hudson Ledger in real time.  
-**2.2** Records must include: Unique 16-character hexadecimal ID, Date/Time ([YYYYYYYYYYYY]YYYY:MM:DD:hh:mm:SS), Institution code, Transaction type, and coin-type amounts.  
+**2.2** Records must include: Unique 16-character hexadecimal ID, Date/Time, Institution code, Transaction type, and coin-type amounts.  
 **2.3** Parties shall receive a standardized receipt as prima facie evidence of payment.  
 **2.4** Citizens and residents shall have secure, real-time, no-cost access to their transaction history via authenticated interfaces.
 
@@ -58,19 +59,18 @@ The gold spot price is the publicly available market price for 99.99%+ pure gold
 ### Denomination Recording Format
 The standard transaction record format is as follows:
 
-| Protocol Version | Timecode                                  | Action              | Country Code    | Riding Code                     | Business Code   | Year               | Entry Code                      | HGB1             | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Metal Code                  | Scaling Factor    | Integrity Hash |
+| Protocol Version | Timecode (Date/Time)                      | Action              | Country Code    | Riding Code                     | Business Code   | Year of Mint       | Entry Code                      | HGB1             | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Metal Code                  | Scaling Factor    | Integrity Hash |
 |------------------|-------------------------------------------|---------------------|-----------------|---------------------------------|-----------------|--------------------|---------------------------------|------------------|------|------|------|------|------|-----------------|-----------------------------|-------------------|----------------|
-| V[number]        | [YYYYYYYYYYYY]YYYY:MM:DD:HH:MM:SS         | [Type][Number]      | [3 upper-alpha] | [2 hex block][2 hex riding]     | [4 hex]-[4 hex] | [YYYYYYYYYYYY]YYYY | [4 hex]-[4 hex]-[4 hex]-[4 hex] | [Operation][Var] | 000  | 000  | 000  | 000  | 000  | 000             | [Metal Type][Form Factor]   | /[Scaling Factor] | [Hash]         |
+| V[number]        | YYYY:MM:DD:HH:MM:SS                       | [Type][Number]      | [3 upper-alpha] | [2 hex block][2 hex riding]     | [4 hex]-[4 hex] | YYYY               | [4 hex]-[4 hex]-[4 hex]-[4 hex] | [Operation][Var] | 000  | 000  | 000  | 000  | 000  | 000             | [Metal Type][Form Factor]   | /[Scaling Factor] | [Hash]         |
 
 ### Transaction Recording Format
 The standard transaction record format is as follows:
 
-| Protocol Version | Timecode                                  | Action              | Riding Code                     | Business Code   | Entry Code                                      | Unadjusted Entry  | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Tax Bitshift | Taxation Adjustment  | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Adjusted Entry       | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Scaling Factor    | Integrity Hash |
+| Protocol Version | Timecode (Date/Time)                      | Action              | Riding Code                     | Business Code   | Entry Code                                      | Unadjusted Entry  | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Tax Bitshift | Taxation Adjustment  | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Adjusted Entry       | HGB1  | HGB8 | HSB1 | HSB8 | HCB1 | HCB8 | HCBZ (Optional) | Scaling Factor    | Integrity Hash |
 |------------------|-------------------------------------------|---------------------|---------------------------------|-----------------|-------------------------------------------------|-------------------|-------|------|------|------|------|------|-----------------|--------------|----------------------|-------|------|------|------|------|------|-----------------|----------------------|-------|------|------|------|------|------|-----------------|-------------------|----------------|
-| V[number]        | [YYYYYYYYYYYY]YYYY:MM:DD:HH:MM:SS         | [Type][Number]      | [2 hex block][2 hex riding]     | [4 hex]-[4 hex] | [4 hex]-[4 hex]-[4 hex]-[4 hex]-[4 hex]-[4 hex] | [Operation]u      | [Var] | 000  | 000  | 000  | 000  | 000  | 000             | >>[Number]   | [Operation]t         | [Var] | 000  | 000  | 000  | 000  | 000  | 000             | [Operation]a         | [Var] | 000  | 000  | 000  | 000  | 000  | 000             | /[Scaling Factor] | [Hash]         |
+| V[number]        | YYYY:MM:DD:HH:MM:SS                       | [Type][Number]      | [2 hex block][2 hex riding]     | [4 hex]-[4 hex] | [4 hex]-[4 hex]-[4 hex]-[4 hex]-[4 hex]-[4 hex] | [Operation]u      | [Var] | 000  | 000  | 000  | 000  | 000  | 000             | >>[Number]   | [Operation]t         | [Var] | 000  | 000  | 000  | 000  | 000  | 000             | [Operation]a         | [Var] | 000  | 000  | 000  | 000  | 000  | 000             | /[Scaling Factor] | [Hash]         |
 
 ### Transaction and Denomination Fields
-* **[YYYYYYYYYYYY]**: This is the invisible extension to prevent millennium bugs.  
 * **[2 hex block]**: This is the riding block routing address.  
 * **[2 hex riding]**: This is the individual riding routing address.  
 * **HGB1**: Gold beaver 1 oz field (variable length decimal base10 value).  
@@ -95,19 +95,17 @@ This activation shall be treated as Emergency Legislation.
 
 **6.2 Available Scaling Factors and Tariff Measures**  
 During a declared Monetary Emergency, the chosen scaling factor (2x, 4x, or 8x) shall be applied to copper Ledger Units. Concurrently, a **100% tariff** (equivalent to a bitshift of `>>0`) shall be imposed on all affected inbound transactions for the duration of the emergency.  
-
 The National Representative shall retain discretion to adjust the tariff rate downward (through lower bitshift values) in consultation with the Senate when circumstances so warrant. Any such adjustment must be publicly announced and recorded on the Hudson Ledger.
 
 **6.3 Duration, Step-Down, and Review**  
 - The initial activation of a Monetary Emergency shall not exceed ninety (90) days.  
 - The scaling factor and associated tariff measures shall be subject to monthly review by the Senate.  
-- Upon return to normal operations, a mandatory step-down procedure must be enacted through a dedicated **Obligation Paper** bearing the exact FQLN: `OP_BBNORMALMULTIPLIERTRANSITION_[YYYYYYYYYYYY]YYYYMMDD.md`.  
+- Upon return to normal operations, a mandatory step-down procedure must be enacted through a dedicated **Obligation Paper** bearing the exact FQLN: `OP_BBNORMALMULTIPLIERTRANSITION_[Date].md`.  
 - The step-down shall proceed gradually by one bitshift to the right per quarter (three months) until the standard tariff rate is restored (e.g., 100% → 50% → 25% → normal).  
 - The full transition period shall not exceed four quarters: one quarter at full emergency scaling and tariff, followed by up to three quarters of step-down.
 
 **6.4 Accounting Treatment**  
 Accounting software and systems shall implement the scaling factor as a global multiplier applied exclusively to the (1/8) troy ounce copper ledger unit while strictly preserving the constitutional 64:64:8 bullion ratios. All emergency measures, including the associated tariff, must be fully auditable and accompanied by clear public notice on the Hudson Ledger.  
-
 The scaling factor formally declared by the National Representative (with Senate approval) shall constitute the sole official and legally binding scaling factor during both normal and emergency periods.
 
 **6.5 Reversion**  
