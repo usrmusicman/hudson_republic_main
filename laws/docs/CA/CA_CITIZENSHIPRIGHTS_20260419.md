@@ -64,7 +64,11 @@ This Act defines the criteria for acquiring and maintaining citizenship in the H
 
 **3.2** Every Citizen has the right to official citizenship documentation, including passports, identity cards, and other legal instruments issued by the Republic.
 
-**3.4** Upon reaching the Age of Majority or upon completion of minor education (whichever occurs later), every Citizen shall complete two (2) years of mandatory military or civil service training as determined by the Riding Board or federal authority.
+**3.3** Upon attaining the Age of Majority or upon the completion of minor education, whichever occurs later, every Citizen may undertake two (2) years of military or civil service training. Successful completion of such service shall constitute credit toward the conferral of federal distinction.
+
+- Upon completion of the prescribed service, federal distinction shall be granted and may serve as a pathway to further opportunities in federal service.
+- Medals of honour, national awards, and membership or fellowship accolades are recognized as forms of federal distinction.
+- Citizens who complete their service with a clean record shall remain eligible for additional employment and volunteer opportunities within the Republic.
 
 ---
 
