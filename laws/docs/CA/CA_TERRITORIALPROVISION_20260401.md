@@ -88,6 +88,22 @@ Real property rights are vested at the Riding level. In any conflict between loc
 
 ---
 
+## Section EX1 — Transition Map Stages (Non-binding)
+
+**Stage 0 - Northwestern Ontario Trasition**
+![Hudson Stage 0 Transition](../../images/CA/CA_TERRITORIALPROVISION_20260401/HUDSON_REPUBLIC_TERRITORY_STAGE0.jpg)
+
+**Stage 1 - Full Ontario Trasition**
+![Hudson Stage 1 Transition](../../images/CA/CA_TERRITORIALPROVISION_20260401/HUDSON_REPUBLIC_TERRITORY_STAGE1.jpg)
+
+**Stage 2 - Ontario & Manitoba (Option 1) Trasition**
+![Hudson Stage 2 Transition](../../images/CA/CA_TERRITORIALPROVISION_20260401/HUDSON_REPUBLIC_TERRITORY_STAGE2.jpg)
+
+**Stage 3 - Ontario & Manitoba (Option 2) Trasition**
+![Hudson Stage 2 Transition](../../images/CA/CA_TERRITORIALPROVISION_20260401/HUDSON_REPUBLIC_TERRITORY_STAGE3.jpg)
+
+---
+
 **Original Author**: 
 
 **House Signature**: 
