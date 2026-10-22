@@ -1,3 +1,6 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/usrmusicman/hudson_republic_tools
+[submodule "culture"]
+	path = culture
+	url = https://github.com/usrmusicman/hudson_republic_culture
